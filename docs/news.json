@@ -1,1 +1,1226 @@
-[]
+[
+  {
+    "id": "637050adece4",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "original_title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.ProductIntroducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.Apr 29, 2026Mistral AI",
+    "headline": "Mistral Medium 3.5 powers cloud coding agents in Vibe",
+    "bullets": [
+      "Mistral Medium 3.5: 128B dense model with 256k context, 77.6% on SWE-Bench Verified",
+      "Remote agents run async in cloud, spawnable from CLI or Le Chat, teleportable from local sessions",
+      "Work mode in Le Chat handles multi-step tasks with parallel tool calls and persistent sessions"
+    ],
+    "why_it_matters": "Developers can offload long coding tasks to cloud agents while working on other priorities, reducing manual bottlenecks.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:52:25Z"
+  },
+  {
+    "id": "6605bff5a015",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/series-e",
+    "original_title": "xAI Raises $20B Series E",
+    "headline": "xAI Raises $20B Series E, Exceeds Initial Target",
+    "bullets": [
+      "xAI secured $20 billion in Series E funding, surpassing $15 billion target with major investors including Valor, Fidelity, QIA.",
+      "Company operates over one million H100 GPU equivalents across Colossus supercomputers; Grok 5 currently in training.",
+      "Grok Voice serves millions via X and Tesla; Grok Imagine offers multimodal generation; platform reaches 600M monthly active users."
+    ],
+    "why_it_matters": "Massive capital infusion accelerates xAI's infrastructure and product development, positioning Grok as major competitor in frontier AI.",
+    "tags": [
+      "model-release",
+      "voice",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:43Z"
+  },
+  {
+    "id": "a7903de9b5cd",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-imagine-api",
+    "original_title": "Grok Imagine API",
+    "headline": "xAI launches Grok Imagine API for video generation and editing",
+    "bullets": [
+      "Unified API for text-to-video, image-to-video, and video editing with native audio generation",
+      "Ranks first on Artificial Analysis benchmarks for quality, latency, and cost efficiency",
+      "Video editing outperforms competitors on instruction following and consistency metrics"
+    ],
+    "why_it_matters": "Developers can now iterate on video projects faster and cheaper, enabling rapid creative experimentation at scale.",
+    "tags": [
+      "video",
+      "api",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:39Z"
+  },
+  {
+    "id": "b846f83a598d",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/xai-joins-spacex",
+    "original_title": "xAI joins SpaceX",
+    "headline": "SpaceX acquires xAI in major consolidation move",
+    "bullets": [
+      "SpaceX has completed acquisition of xAI, consolidating AI capabilities.",
+      "Grok remains available across web, iOS, Android, and X platform.",
+      "Combined entity offers enterprise AI, voice, and image APIs."
+    ],
+    "why_it_matters": "Merger strengthens SpaceX's AI infrastructure and accelerates Grok's development under unified ownership.",
+    "tags": [
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:36Z"
+  },
+  {
+    "id": "0173ac5f251d",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-stt-and-tts-apis",
+    "original_title": "Grok Speech to Text and Text to Speech APIs",
+    "headline": "xAI launches Grok speech-to-text and text-to-speech APIs",
+    "bullets": [
+      "STT priced at $0.10/hour batch, $0.20/hour streaming; TTS at $15 per million characters",
+      "STT achieves 6.9% word error rate, outperforming ElevenLabs, Deepgram, AssemblyAI on entity recognition",
+      "Supports 25+ languages, speaker diarization, multichannel audio, inverse text normalization, speech tags for emotion"
+    ],
+    "why_it_matters": "Developers can now integrate enterprise-grade speech capabilities with lower latency and better accuracy than existing commercial alternatives.",
+    "tags": [
+      "api",
+      "voice",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:33Z"
+  },
+  {
+    "id": "3f215c8c1541",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-voice-think-fast-1",
+    "original_title": "Grok Voice Think Fast 1.0",
+    "headline": "xAI releases Grok Voice Think Fast 1.0 flagship agent",
+    "bullets": [
+      "New voice model tops τ-voice Bench leaderboard for full-duplex agents in realistic conditions",
+      "Supports 25+ languages, handles precise data entry, multi-tool orchestration with zero latency reasoning",
+      "Powers Starlink support with 70% autonomous resolution rate and 20% sales conversion"
+    ],
+    "why_it_matters": "Enterprises can deploy production voice agents for complex customer support and sales workflows with higher accuracy and lower latency than competitors.",
+    "tags": [
+      "voice",
+      "model-release",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:29Z"
+  },
+  {
+    "id": "9de0dd4cab13",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-custom-voices",
+    "original_title": "Custom Voices and Voice Library",
+    "headline": "xAI launches custom voice cloning for Grok APIs",
+    "bullets": [
+      "Clone your voice in under two minutes via xAI console with passphrase verification",
+      "Voice Library organizes 80+ built-in voices across 28 languages plus custom voices",
+      "No extra charge for Text to Speech or Voice Agent APIs using custom voices"
+    ],
+    "why_it_matters": "Developers can now build brand-consistent voice agents and personalized content at scale without studio recording.",
+    "tags": [
+      "voice",
+      "api",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:26Z"
+  },
+  {
+    "id": "b55bb23dbf0c",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-imagine-quality-mode",
+    "original_title": "Grok Imagine Quality Mode API",
+    "headline": "Grok Imagine Quality Mode API launches for enterprise developers",
+    "bullets": [
+      "Quality Mode delivers photorealistic images with fine details, accurate textures, and improved text rendering capabilities.",
+      "Enterprise API now supports product visualization, marketing assets, UGC content, and video generation integration.",
+      "Grok Imagine ranks top-5 on independent Text-to-Image Arena leaderboards as of May 2026."
+    ],
+    "why_it_matters": "Enterprises can now generate production-quality marketing assets and product visuals at scale with stronger brand consistency and creative control.",
+    "tags": [
+      "image",
+      "api",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:23Z"
+  },
+  {
+    "id": "f3631456aedd",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-connectors",
+    "original_title": "Connectors in web, iOS, and Android",
+    "headline": "Grok launches connectors for email, docs, code, and more",
+    "bullets": [
+      "Integrations with SharePoint, Outlook, OneDrive, Google Workspace, Notion, GitHub, Linear available now",
+      "Grok can read, write, and edit emails, documents, spreadsheets, and code across platforms",
+      "Custom Model Context Protocol servers supported for proprietary tools and internal workflows"
+    ],
+    "why_it_matters": "Developers and teams can consolidate fragmented workflows by accessing multiple productivity tools directly within Grok without manual data transfer.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:20Z"
+  },
+  {
+    "id": "04411cc50484",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/anthropic-compute-partnership",
+    "original_title": "New Compute Partnership with Anthropic",
+    "headline": "xAI grants Anthropic access to Colossus supercomputer with 220k GPUs",
+    "bullets": [
+      "Colossus 1 features 220,000+ NVIDIA GPUs including H100, H200, GB200 accelerators",
+      "Anthropic will use compute to expand Claude Pro and Claude Max capacity",
+      "Partners exploring orbital AI compute infrastructure for future scaling needs"
+    ],
+    "why_it_matters": "Massive compute access accelerates Claude's capabilities and explores space-based infrastructure for next-generation AI systems.",
+    "tags": [
+      "product",
+      "api",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:16Z"
+  },
+  {
+    "id": "1f428d83c00e",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-build-cli",
+    "original_title": "Introducing Grok BuildEarly Beta",
+    "headline": "xAI launches Grok Build CLI coding agent in early beta",
+    "bullets": [
+      "Terminal-based coding agent for SuperGrok Heavy subscribers with plan-review-approve workflow",
+      "Supports parallel subagents, MCP servers, plugins, and headless mode for automation",
+      "Integrates with existing repos, picks up conventions automatically, shows diffs before execution"
+    ],
+    "why_it_matters": "Developers get an AI coding agent that fits existing workflows and runs locally from the terminal.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:14Z"
+  },
+  {
+    "id": "03ae026a54d1",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/",
+    "original_title": "Learn More",
+    "headline": "DINOv2 accelerates cancer drug discovery for Orakl Oncology",
+    "bullets": [
+      "DINOv2 achieved 26.8% accuracy improvement over specialized organoid models",
+      "Open-source model enables rapid analysis of lab-grown cancer cell imaging data",
+      "Researchers now extract video insights directly instead of frame-by-frame analysis"
+    ],
+    "why_it_matters": "Faster, more accurate cancer drug screening could accelerate clinical trials and patient treatment discovery.",
+    "tags": [
+      "model-release",
+      "image",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:09Z"
+  },
+  {
+    "id": "8e556b9d0858",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/forest-research-dino/",
+    "original_title": "Learn More",
+    "headline": "Meta's DINOv2 Helps UK Map Trees at Individual Level",
+    "bullets": [
+      "Forest Research uses DINOv2 to detect individual trees from satellite imagery at 1-meter resolution across England.",
+      "Model trained on 18 million satellite images; could replace expensive LiDAR surveys for ongoing canopy monitoring.",
+      "Supports UK government's 15-minute greenspace access goal and 2% tree canopy increase target by 2050."
+    ],
+    "why_it_matters": "Open-source computer vision reduces monitoring costs and enables governments to track reforestation progress more frequently and affordably.",
+    "tags": [
+      "image",
+      "research",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:06Z"
+  },
+  {
+    "id": "42d484e5f4f0",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
+    "original_title": "Learn More",
+    "headline": "Meta's AI Models Enable Autonomous Medical Triage in Disaster Response",
+    "bullets": [
+      "University of Pennsylvania's PRONTO team uses Meta's SAM 2 and DINO models with autonomous robots to detect and assess casualties in mass casualty incidents.",
+      "DINO requires no labeled data, enabling generalization across medical imagery and scarce-annotation environments for injury classification.",
+      "System identifies heart rate, respiration, wounds, and amputations; visualizes victim data for first responders to optimize resource allocation."
+    ],
+    "why_it_matters": "AI-powered autonomous triage could save lives in disasters by rapidly identifying critical casualties when medical resources are severely limited.",
+    "tags": [
+      "multimodal",
+      "agents",
+      "safety"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:51:01Z"
+  },
+  {
+    "id": "21f86e2d045a",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
+    "original_title": "Learn More",
+    "headline": "Meta releases improved forest mapping model with DINOv3 vision AI",
+    "bullets": [
+      "Canopy Height Maps v2 uses DINOv3 self-supervised vision model trained on SAT-493M satellite imagery dataset",
+      "R² accuracy metric improved from 0.53 to 0.86; reduces bias for tall trees in global forest monitoring",
+      "Open-source model deployed by UK Forestry Commission, EU Joint Research Centre, and 10 US cities for climate action"
+    ],
+    "why_it_matters": "Enables governments and researchers to monitor forest health, carbon storage, and restoration at scale with unprecedented accuracy.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:57Z"
+  },
+  {
+    "id": "f993eb8e38c0",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/",
+    "original_title": "Learn More",
+    "headline": "Meta releases TRIBE v2 brain activity prediction model",
+    "bullets": [
+      "TRIBE v2 predicts high-resolution fMRI brain activity from 700+ volunteers across images, video, audio, text.",
+      "Achieves 70x resolution increase over prior models with zero-shot generalization to new subjects and languages.",
+      "Open-sourced model, code, paper, and demo to accelerate neuroscience research and neurological disorder treatment."
+    ],
+    "why_it_matters": "Enables neuroscientists to test brain theories computationally without human subjects, accelerating discovery of neurological treatments.",
+    "tags": [
+      "model-release",
+      "research",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:53Z"
+  },
+  {
+    "id": "446abb3b5da1",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
+    "original_title": "FEATURED",
+    "headline": "Meta releases four MTIA AI chip generations in two years",
+    "bullets": [
+      "MTIA 300, 400, 450, 500 deployed or scheduled for 2026-2027 with 4.5x HBM bandwidth increase",
+      "MTIA 450 and 500 optimized for GenAI inference with doubled and 1.5x increased bandwidth respectively",
+      "Modular chiplet design enables faster iteration cycles aligned with evolving AI workloads"
+    ],
+    "why_it_matters": "Meta's rapid custom chip cadence reduces inference costs and latency for billions of users while maintaining competitive performance against commercial accelerators.",
+    "tags": [
+      "model-release",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:50Z"
+  },
+  {
+    "id": "9e1a732cd3d3",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/segment-anything-model-3/",
+    "original_title": "FEATURED",
+    "headline": "Meta releases SAM 3.1 with faster video tracking and multiplexing",
+    "bullets": [
+      "SAM 3.1 tracks up to 16 objects simultaneously, doubling video processing speed to 32 fps on H100 GPU.",
+      "Object multiplexing eliminates redundant computation, enabling real-time tracking on smaller, more accessible hardware.",
+      "SAM 3 supports text and exemplar prompts for open-vocabulary detection, segmentation, and tracking across images and video."
+    ],
+    "why_it_matters": "Faster, more efficient video understanding enables real-time object tracking applications on consumer hardware, expanding accessibility for developers and creators.",
+    "tags": [
+      "model-release",
+      "video",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:45Z"
+  },
+  {
+    "id": "0368a1148022",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+    "original_title": "Read How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "headline": "Alta Daily Uses Meta's Segment Anything for Fashion App",
+    "bullets": [
+      "Alta Daily app digitizes wardrobes and recommends outfits using SAM 3 segmentation model.",
+      "SAM processed 20+ million images cost-effectively, replacing expensive external segmentation APIs.",
+      "Model handles complex scenarios: reflective surfaces, jewelry details, poor lighting, user-uploaded photos."
+    ],
+    "why_it_matters": "Demonstrates practical AI application reducing costs while enabling scalable consumer products with complex visual requirements.",
+    "tags": [
+      "product",
+      "image",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:40Z"
+  },
+  {
+    "id": "c2c8a1270846",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+    "original_title": "FEATURED",
+    "headline": "Meta releases advanced safety framework for scaling AI models",
+    "bullets": [
+      "Advanced AI Scaling Framework evaluates chemical, biological, cybersecurity risks and loss-of-control scenarios",
+      "Muse Spark evaluated across thousands of safety scenarios; demonstrates strong safeguards and ideological balance",
+      "Safety protections built into training pipeline using reasoning-based principles instead of rule-based approaches"
+    ],
+    "why_it_matters": "Transparent safety evaluation processes help developers understand risk assessment standards for deploying capable AI systems responsibly.",
+    "tags": [
+      "safety",
+      "research",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:36Z"
+  },
+  {
+    "id": "f46da8bae972",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+    "original_title": "FEATURED",
+    "headline": "Meta launches Muse Spark multimodal reasoning model with agent orchestration",
+    "bullets": [
+      "Natively multimodal model with tool-use, visual chain-of-thought, and multi-agent orchestration capabilities.",
+      "Contemplating mode achieves 58% on Humanity's Last Exam, competing with frontier reasoning models.",
+      "Pretraining stack achieves same capabilities with 10x less compute than previous Llama 4 Maverick."
+    ],
+    "why_it_matters": "Efficient scaling of reasoning and multimodal capabilities enables practical personal AI assistants for developers and consumers.",
+    "tags": [
+      "model-release",
+      "reasoning",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:50:32Z"
+  },
+  {
+    "id": "d88393494eb7",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "original_title": "Apr 27, 2026AnnouncementsAnthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+    "headline": "Anthropic appoints GM for Australia, New Zealand, opens Sydney office",
+    "bullets": [
+      "Theo Hourmouzis joins as General Manager with 20+ years Asia Pacific tech leadership experience.",
+      "Sydney office officially opens; partnerships announced with Canva, Xero, and YMCA South Australia.",
+      "Follows recent office openings in Tokyo and Bengaluru; Seoul coming soon."
+    ],
+    "why_it_matters": "Anthropic expands regional presence to serve enterprise customers and research institutions in Australia and New Zealand with localized support.",
+    "tags": [
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:59Z"
+  },
+  {
+    "id": "1c2272f9572d",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "original_title": "Apr 28, 2026AnnouncementsClaude for Creative Work",
+    "headline": "Anthropic releases Claude connectors for creative software tools",
+    "bullets": [
+      "New connectors integrate Claude with Adobe Creative Cloud, Blender, Autodesk Fusion, SketchUp, Ableton, and other professional tools.",
+      "Claude can automate repetitive tasks, teach software features, write custom scripts, and bridge workflows across multiple applications.",
+      "Anthropic partnering with art programs at RISD, Ringling College, and Goldsmiths to develop creative AI curricula."
+    ],
+    "why_it_matters": "Creatives can now use Claude directly within familiar tools to accelerate ideation, automate busywork, and handle complex technical tasks.",
+    "tags": [
+      "product",
+      "tooling",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:51Z"
+  },
+  {
+    "id": "2f244068731d",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+    "original_title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+    "headline": "Anthropic launches enterprise AI services firm with major investors",
+    "bullets": [
+      "New company backed by Blackstone, Hellman & Friedman, Goldman Sachs, and five alternative asset managers",
+      "Anthropic Applied AI engineers will build custom Claude solutions for mid-sized companies across sectors",
+      "Targets healthcare, manufacturing, banking firms lacking in-house resources for AI deployment"
+    ],
+    "why_it_matters": "Expands Claude access to mid-market companies unable to afford traditional systems integrators independently.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:43Z"
+  },
+  {
+    "id": "29276d540e65",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "original_title": "May 5, 2026AnnouncementsAgents for financial services",
+    "headline": "Anthropic releases ten financial agent templates for banking workflows",
+    "bullets": [
+      "Ten ready-to-run agent templates for pitchbooks, KYC screening, month-end closing, and financial modeling tasks.",
+      "Claude now integrates with Excel, PowerPoint, Word, Outlook via add-ins with automatic context transfer between apps.",
+      "Eight new data connectors (Dun & Bradstreet, Fiscal AI, IBISWorld, others) plus Moody's MCP app for real-time market access."
+    ],
+    "why_it_matters": "Financial firms can deploy Claude agents for complex workflows in days instead of months, reducing manual work on high-value tasks.",
+    "tags": [
+      "agents",
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:40Z"
+  },
+  {
+    "id": "cb85d5cc4e12",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "original_title": "May 6, 2026AnnouncementsHigher usage limits for Claude and a compute deal with SpaceX",
+    "headline": "Anthropic doubles Claude limits, secures SpaceX compute deal",
+    "bullets": [
+      "Claude Code rate limits doubled; API limits raised for Opus models effective today.",
+      "SpaceX Colossus 1 partnership adds 300+ megawatts, over 220,000 NVIDIA GPUs within month.",
+      "Combined with Amazon, Google, Microsoft deals totaling 15+ GW capacity through 2027."
+    ],
+    "why_it_matters": "Developers and enterprises gain higher throughput and lower latency for Claude API and Pro services.",
+    "tags": [
+      "api",
+      "product",
+      "pricing"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:36Z"
+  },
+  {
+    "id": "a9ef977b8a84",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "original_title": "May 13, 2026AnnouncementsIntroducing Claude for Small Business",
+    "headline": "Anthropic launches Claude for Small Business with integrated workflows",
+    "bullets": [
+      "Integrates Claude into QuickBooks, PayPal, HubSpot, Canva, Docusign, Google Workspace, Microsoft 365",
+      "Includes 15 agentic workflows for payroll, invoicing, campaigns, reconciliation, and tax prep",
+      "Free AI Fluency course teaches small business owners safe, responsible AI adoption"
+    ],
+    "why_it_matters": "Democratizes enterprise-grade AI automation for small businesses, addressing adoption gap affecting 44% of U.S. GDP.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:27Z"
+  },
+  {
+    "id": "82ccf6abe5fc",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "original_title": "May 14, 2026AnnouncementsAnthropic forms $200 million partnership with the Gates Foundation",
+    "headline": "Anthropic commits $200M with Gates Foundation for global health AI",
+    "bullets": [
+      "Four-year partnership includes grant funding, Claude credits, and engineering support for health, education, and economic mobility programs.",
+      "Focus areas: vaccine/therapy development, health data intelligence, K-12 tutoring in Africa/India, agricultural productivity for smallholder farmers.",
+      "Creating public benchmarks, datasets, and evaluation frameworks for AI healthcare and education applications."
+    ],
+    "why_it_matters": "Demonstrates AI's potential to address global health inequities and education gaps in underserved regions through structured partnerships.",
+    "tags": [
+      "product",
+      "research",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:23Z"
+  },
+  {
+    "id": "26de9866b27d",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "original_title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+    "headline": "Anthropic commits to keeping Claude permanently ad-free",
+    "bullets": [
+      "Claude will not display ads or sponsored content in conversations with users.",
+      "Advertising incentives could compromise helpful responses and introduce unpredictable model behavior.",
+      "Anthropic funds expansion through enterprise contracts and subscriptions, not user attention sales."
+    ],
+    "why_it_matters": "Users can trust Claude for unbiased advice without hidden commercial motives influencing recommendations.",
+    "tags": [
+      "product",
+      "safety"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:15Z"
+  },
+  {
+    "id": "afabafae0730",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "original_title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+    "headline": "Anthropic launches Claude Design for visual collaboration",
+    "bullets": [
+      "Claude Design powered by Claude Opus 4.7 enables users to create designs, prototypes, slides, and marketing collateral through conversation.",
+      "Features include automatic design system application, inline editing, interactive prototypes, and seamless handoff to Claude Code.",
+      "Available in research preview for Claude Pro, Max, Team, and Enterprise subscribers starting April 17, 2026."
+    ],
+    "why_it_matters": "Democratizes design creation for non-designers while accelerating iteration cycles for professional teams across organizations.",
+    "tags": [
+      "product",
+      "multimodal",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:08Z"
+  },
+  {
+    "id": "8ffed2502175",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "original_title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+    "headline": "Claude Opus 4.7 launches with stronger coding and reasoning abilities",
+    "bullets": [
+      "Improves 13% on coding benchmarks; handles complex long-running tasks with consistency",
+      "Enhanced vision capabilities support higher resolution images and professional content creation",
+      "Available on Claude API, Bedrock, Vertex AI; pricing unchanged at $5/$25 per million tokens"
+    ],
+    "why_it_matters": "Developers can delegate complex coding and multi-step tasks with less supervision, improving productivity and code quality.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-14T19:49:01Z"
+  },
+  {
+    "id": "469a04ba2849",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "original_title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "headline": "IBM releases multilingual embedding models with 32K context support",
+    "bullets": [
+      "97M-parameter model scores 60.3 on MTEB, best sub-100M multilingual embedder; 311M model scores 65.2",
+      "Support for 200+ languages with enhanced training on 52 languages plus 9 programming languages",
+      "32K-token context window (64x larger than R1), Apache 2.0 license, ONNX/OpenVINO weights included"
+    ],
+    "why_it_matters": "Developers can now deploy efficient multilingual retrieval without sacrificing quality or language coverage across production systems.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "open-weights"
+    ],
+    "published": "2026-05-14T18:55:01+00:00",
+    "fetched_at": "2026-05-14T19:51:47Z"
+  },
+  {
+    "id": "fd608667e64c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "original_title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "headline": "ChatGPT gains context awareness for sensitive safety conversations",
+    "bullets": [
+      "Safety summaries track harmful intent patterns across conversations to improve response accuracy.",
+      "Internal tests show 50% improvement in suicide/self-harm detection, 16% in harm-to-others cases.",
+      "Developed with mental health experts; summaries kept brief, time-limited, and narrowly scoped."
+    ],
+    "why_it_matters": "Better contextual understanding enables AI to distinguish genuine crises from benign requests, improving crisis response without over-restricting normal conversations.",
+    "tags": [
+      "safety",
+      "reasoning"
+    ],
+    "published": "2026-05-14T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:16Z"
+  },
+  {
+    "id": "f6eafc08e75f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "original_title": "Unlocking asynchronicity in continuous batching",
+    "headline": "Async batching eliminates GPU idle time in LLM inference",
+    "bullets": [
+      "Synchronous batching wastes ~24% of GPU time while CPU prepares next batch",
+      "Asynchronous approach uses CUDA streams to overlap CPU batch prep with GPU compute",
+      "Could reduce generation time by 24% with no new kernels or model changes"
+    ],
+    "why_it_matters": "Developers can dramatically reduce inference costs on expensive GPUs by eliminating CPU-GPU synchronization bottlenecks.",
+    "tags": [
+      "coding",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-05-14T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:51:50Z"
+  },
+  {
+    "id": "5502a50a46d6",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "original_title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "headline": "OpenAI builds custom Windows sandbox for safe Codex execution",
+    "bullets": [
+      "Codex lacked sandbox on Windows, forcing users to choose between constant approval or unrestricted access.",
+      "Custom solution uses SIDs and write-restricted tokens to limit file writes and network access without admin elevation.",
+      "Existing Windows tools (AppContainer, Windows Sandbox, MIC) proved incompatible with open-ended developer workflows."
+    ],
+    "why_it_matters": "Developers can now use Codex safely on Windows with balanced security and productivity, matching other platforms.",
+    "tags": [
+      "agents",
+      "safety",
+      "product"
+    ],
+    "published": "2026-05-13T11:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:19Z"
+  },
+  {
+    "id": "49432bd70e08",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "original_title": "Our response to the TanStack npm supply chain attack",
+    "headline": "OpenAI responds to TanStack supply chain attack with certificate rotation",
+    "bullets": [
+      "Two employee devices compromised via TanStack malware; no customer data or IP accessed.",
+      "macOS users must update apps by June 12, 2026 due to rotated code-signing certificates.",
+      "OpenAI deployed additional supply chain defenses including package manager controls and provenance validation."
+    ],
+    "why_it_matters": "Developers must update macOS apps to maintain functionality; highlights ecosystem-wide supply chain attack risks.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": "2026-05-13T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:23Z"
+  },
+  {
+    "id": "7d12c750a4ea",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "original_title": "How finance teams use Codex",
+    "headline": "Finance teams leverage Codex for monthly reporting and analysis",
+    "bullets": [
+      "Codex automates monthly business review narratives, variance analysis, and CFO reporting from existing workbooks and dashboards.",
+      "Finance teams use Codex to clean financial models, catch formula errors, and flag assumptions before executive reviews.",
+      "No coding required; teams spend less time assembling first drafts and more time on analysis and decision-making."
+    ],
+    "why_it_matters": "Finance teams can accelerate routine reporting and model validation, freeing time for strategic analysis and executive preparation.",
+    "tags": [
+      "product",
+      "tooling",
+      "coding"
+    ],
+    "published": "2026-05-12T15:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:27Z"
+  },
+  {
+    "id": "8a196e8c3ae2",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/autoscout24",
+    "original_title": "AutoScout24 scales engineering with AI-powered workflows",
+    "headline": "AutoScout24 accelerates development tenfold with AI coding tools",
+    "bullets": [
+      "Development cycles reduced from 2-3 weeks to 2-3 days for select projects.",
+      "2,000 employees enabled with ChatGPT; 1,000 engineers using Codex for coding tasks.",
+      "Automated pull request reviews, refactoring, and documentation improved code quality."
+    ],
+    "why_it_matters": "Demonstrates how enterprise teams can achieve significant productivity gains by integrating AI into existing engineering workflows at scale.",
+    "tags": [
+      "coding",
+      "product",
+      "api"
+    ],
+    "published": "2026-05-12T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:30Z"
+  },
+  {
+    "id": "6498bc3d3050",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/nvidia",
+    "original_title": "How NVIDIA engineers and researchers build with Codex",
+    "headline": "NVIDIA engineers achieve 10x speedup using Codex with GPT-5.5",
+    "bullets": [
+      "40,000 NVIDIA employees use Codex for complex engineering and ML research workflows",
+      "GPT-5.5 enables autonomous multi-hour coding sessions with bug detection and context retention",
+      "Research teams report 10x faster experiment cycles from hypothesis to execution and testing"
+    ],
+    "why_it_matters": "Advanced coding agents dramatically reduce development time for complex systems and research, lowering barriers to building production-grade software.",
+    "tags": [
+      "coding",
+      "agents",
+      "model-release"
+    ],
+    "published": "2026-05-12T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:34Z"
+  },
+  {
+    "id": "c31ba2e9026b",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "original_title": "What Parameter Golf taught us about AI-assisted research",
+    "headline": "Parameter Golf challenge reveals AI agents transforming ML research competitions",
+    "bullets": [
+      "1,000+ participants submitted 2,000+ entries optimizing models within 16MB and 10-minute constraints.",
+      "Coding agents lowered experimentation costs, enabling faster iteration and broader participation.",
+      "Winners used optimizer tuning, quantization, test-time training, and novel tokenizer designs."
+    ],
+    "why_it_matters": "AI agents are democratizing ML research by reducing barriers to entry and accelerating innovation cycles in competitive settings.",
+    "tags": [
+      "research",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-05-12T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:37Z"
+  },
+  {
+    "id": "ce49fe8e0cb4",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "original_title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "headline": "AWS infrastructure building blocks for foundation model training",
+    "bullets": [
+      "AWS offers P5/P6 instance families with H100, H200, and Blackwell GPUs for distributed training",
+      "Three scaling regimes now matter: pre-training, post-training (SFT/RL), and test-time compute strategies",
+      "OSS ecosystem (PyTorch, JAX, Slurm, Kubernetes) requires tightly coupled compute, networking, and storage"
+    ],
+    "why_it_matters": "Understanding AWS infrastructure layers helps ML engineers optimize foundation model training and inference at scale.",
+    "tags": [
+      "product",
+      "tooling",
+      "research"
+    ],
+    "published": "2026-05-11T23:18:26+00:00",
+    "fetched_at": "2026-05-14T19:51:54Z"
+  },
+  {
+    "id": "e13dc335beb0",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "original_title": "How ChatGPT adoption broadened in early 2026",
+    "headline": "ChatGPT adoption expands globally across demographics in Q1 2026",
+    "bullets": [
+      "Users over 35 gained share; feminine-identified users now represent over half of gendered cohort.",
+      "Dominican Republic, Haiti, Japan ranked fastest-rising by messages per capita; growth across Latin America, Asia-Pacific, Africa.",
+      "Workplace tasks shifted: content creation and health documentation grew while visual material creation declined."
+    ],
+    "why_it_matters": "ChatGPT is transitioning from early-adopter tool to mainstream platform with recurring professional use cases globally.",
+    "tags": [
+      "product",
+      "research"
+    ],
+    "published": "2026-05-11T15:00:00+00:00",
+    "fetched_at": "2026-05-14T19:48:41Z"
+  },
+  {
+    "id": "a40b2ba2d440",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "headline": "Allen AI releases EMO, mixture-of-experts model with emergent modularity",
+    "bullets": [
+      "EMO uses only 12.5% of experts per task while maintaining near full-model performance on 1T tokens",
+      "Document-level routing constraint encourages experts to specialize in coherent domains without predefined labels",
+      "128 total experts, 8 active per token; global load balancing resolves training stability conflicts"
+    ],
+    "why_it_matters": "Enables efficient deployment of large MoE models by selectively activating task-specific expert subsets, reducing computational costs.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "research"
+    ],
+    "published": "2026-05-08T16:03:50+00:00",
+    "fetched_at": "2026-05-14T19:51:57Z"
+  },
+  {
+    "id": "08c10eedccbd",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "original_title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "headline": "ServiceNow fixes vLLM V1 training-inference mismatch for RL",
+    "bullets": [
+      "Identified four backend issues: logprob semantics, runtime defaults, weight updates, fp32 lm_head projection",
+      "Disabled prefix caching and async scheduling to match V0 behavior in online RL setup",
+      "Final V1 run achieved parity with V0 reference across clip rate, KL, entropy, reward metrics"
+    ],
+    "why_it_matters": "Ensures RL training stability by eliminating inference-backend discrepancies that corrupt policy optimization signals.",
+    "tags": [
+      "reasoning",
+      "tooling",
+      "research"
+    ],
+    "published": "2026-05-06T19:06:55+00:00",
+    "fetched_at": "2026-05-14T19:52:00Z"
+  },
+  {
+    "id": "049666cfa3c7",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "original_title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "headline": "Gemini-powered coding agent improves DNA sequencing accuracy by 30%",
+    "bullets": [
+      "AlphaEvolve optimized DeepConsensus model, reducing variant detection errors by 30%.",
+      "PacBio using improved model for more accurate, cost-effective genetic data analysis.",
+      "Higher accuracy may enable discovery of previously undetected disease-causing mutations."
+    ],
+    "why_it_matters": "AI-assisted code optimization can accelerate scientific breakthroughs in genomics and disease research.",
+    "tags": [
+      "agents",
+      "coding",
+      "research"
+    ],
+    "published": "2026-05-06T10:43:49+00:00",
+    "fetched_at": "2026-05-14T19:50:02Z"
+  },
+  {
+    "id": "351d00366b56",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "original_title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "headline": "Open ASR Leaderboard adds private datasets to prevent benchmarking optimization",
+    "bullets": [
+      "Appen and DataoceanAI contributed high-quality English ASR datasets covering scripted, conversational speech across multiple accents.",
+      "Private test sets kept hidden to prevent benchmaxxing and test-set contamination while maintaining public leaderboard transparency.",
+      "New metrics highlight performance gaps between controlled settings and conversational, non-American accent conditions."
+    ],
+    "why_it_matters": "Private evaluation data reduces gaming of benchmarks while providing more realistic ASR performance assessment across diverse real-world conditions.",
+    "tags": [
+      "research",
+      "tooling",
+      "safety"
+    ],
+    "published": "2026-05-06T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:52:04Z"
+  },
+  {
+    "id": "6af9b6a70003",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "original_title": "Granite 4.1 LLMs: How They’re Built",
+    "headline": "IBM Granite 4.1: Dense LLMs trained on 15T tokens with 512K context",
+    "bullets": [
+      "Three model sizes (3B, 8B, 30B) trained on ~15 trillion tokens across five pre-training phases.",
+      "8B instruct model matches 32B MoE predecessor using simpler dense architecture with fewer parameters.",
+      "Extended context window to 512K tokens; refined via 4.1M curated SFT samples and GRPO reinforcement learning."
+    ],
+    "why_it_matters": "Demonstrates efficient dense model training can match larger MoE systems, enabling practical deployment of capable smaller models.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "reasoning"
+    ],
+    "published": "2026-04-29T15:01:48+00:00",
+    "fetched_at": "2026-05-14T19:52:08Z"
+  },
+  {
+    "id": "a89e6f10b7ac",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "original_title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "headline": "DeepInfra joins Hugging Face as supported inference provider",
+    "bullets": [
+      "DeepInfra now integrated into Hub model pages and Python/JS SDKs for serverless inference",
+      "Supports 100+ models including DeepSeek V4, Kimi-K2.6, GLM-5.1 with text generation tasks",
+      "Users can set custom API keys or route requests through HF; PRO members get $2 monthly credits"
+    ],
+    "why_it_matters": "Developers gain cost-effective serverless inference access directly from model pages without provider setup.",
+    "tags": [
+      "api",
+      "product",
+      "pricing"
+    ],
+    "published": "2026-04-29T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:52:12Z"
+  },
+  {
+    "id": "5b7c46b20d14",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "original_title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "headline": "NVIDIA releases Nemotron 3 Nano Omni multimodal model for documents and video",
+    "bullets": [
+      "Handles documents, audio, video, and images with 9x higher throughput than alternatives.",
+      "Combines Mamba-Transformer MoE backbone with vision and audio encoders for long contexts.",
+      "Leads benchmarks on document understanding, video reasoning, and voice interaction tasks."
+    ],
+    "why_it_matters": "Enables efficient enterprise agents for document analysis, video understanding, and multimodal reasoning at scale.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "agents"
+    ],
+    "published": "2026-04-28T15:58:57+00:00",
+    "fetched_at": "2026-05-14T19:52:15Z"
+  },
+  {
+    "id": "e548e0e285fc",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "original_title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "headline": "OpenAI Privacy Filter enables three scalable PII detection web apps",
+    "bullets": [
+      "1.5B-parameter model detects eight PII categories in single 128k-token pass with Apache 2.0 license",
+      "Three production apps built: document explorer with highlighting, image anonymizer with canvas editing, shareable redacted pastebin",
+      "gradio.Server backend handles queuing, GPU allocation, and consistent API across HTML/JS frontends"
+    ],
+    "why_it_matters": "Developers can now build privacy-preserving applications with efficient PII detection and flexible frontend architectures.",
+    "tags": [
+      "model-release",
+      "tooling",
+      "safety"
+    ],
+    "published": "2026-04-27T00:00:00+00:00",
+    "fetched_at": "2026-05-14T19:52:20Z"
+  },
+  {
+    "id": "bdf480e0ad99",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/decoupled-diloco/",
+    "original_title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "headline": "Google DeepMind introduces resilient distributed LLM training across data centers",
+    "bullets": [
+      "Decoupled DiLoCo trains 12B models across four US regions using only 2-5 Gbps bandwidth, 20x faster than conventional methods.",
+      "System isolates hardware failures to individual compute islands, maintaining training while others continue learning uninterrupted.",
+      "Enables mixing different TPU generations in single training run, extending hardware lifespan and increasing available compute."
+    ],
+    "why_it_matters": "Enables cost-effective, fault-tolerant AI training at global scale using existing internet infrastructure instead of custom networks.",
+    "tags": [
+      "research",
+      "tooling"
+    ],
+    "published": "2026-04-22T10:20:03+00:00",
+    "fetched_at": "2026-05-14T19:50:06Z"
+  },
+  {
+    "id": "15929aafa9b3",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "original_title": "Partnering with industry leaders to accelerate AI transformation",
+    "headline": "DeepMind partners with major consultancies for enterprise AI adoption",
+    "bullets": [
+      "Google DeepMind collaborates with Accenture, Bain, BCG, Deloitte, McKinsey on agentic AI transformation",
+      "Partners gain early access to Gemini frontier models and industry-specific AI solutions",
+      "Focus on finance, manufacturing, retail, media sectors to close enterprise AI adoption gap"
+    ],
+    "why_it_matters": "Accelerates enterprise AI deployment at scale by combining frontier research with consulting expertise and real-world implementation.",
+    "tags": [
+      "agents",
+      "product",
+      "api"
+    ],
+    "published": "2026-04-21T14:54:15+00:00",
+    "fetched_at": "2026-05-14T19:50:10Z"
+  },
+  {
+    "id": "c6cbf678fecc",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "original_title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "headline": "Google releases Gemini 3.1 Flash TTS with granular audio control",
+    "bullets": [
+      "Audio tags enable precise control over vocal style, pace, and delivery across 70+ languages.",
+      "Achieved 1,211 Elo score on Artificial Analysis TTS leaderboard for quality and cost efficiency.",
+      "All output watermarked with SynthID to identify AI-generated speech and prevent misinformation."
+    ],
+    "why_it_matters": "Developers gain fine-grained control over speech generation, enabling more natural, localized AI applications at scale.",
+    "tags": [
+      "voice",
+      "product",
+      "api"
+    ],
+    "published": "2026-04-15T16:03:19+00:00",
+    "fetched_at": "2026-05-14T19:50:13Z"
+  },
+  {
+    "id": "e43bbdcd6d14",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "original_title": "Gemma 4: Byte for byte, the most capable open models",
+    "headline": "Google DeepMind releases Gemma 4 open models with advanced reasoning",
+    "bullets": [
+      "Four sizes: 2B, 4B, 26B MoE, 31B dense; 31B ranks #3 on Arena AI leaderboard",
+      "Native multimodal support: video, images, audio; up to 256K context window",
+      "Apache 2.0 license; runs on Android devices, laptops, and enterprise hardware"
+    ],
+    "why_it_matters": "Developers can deploy frontier-class reasoning locally without proprietary restrictions or cloud dependency.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "multimodal"
+    ],
+    "published": "2026-04-02T16:00:49+00:00",
+    "fetched_at": "2026-05-14T19:50:17Z"
+  },
+  {
+    "id": "0ebb03b34cbe",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/ai-pointer/",
+    "original_title": "Reimagining the mouse pointer for the AI era",
+    "headline": "Google DeepMind reimagines mouse pointer with AI context awareness",
+    "bullets": [
+      "AI-enabled pointer understands visual context without detailed prompts, powered by Gemini.",
+      "Rolling out in Chrome and Googlebook laptop; users point and speak instead of typing prompts.",
+      "Four design principles: maintain workflow, capture context visually, enable natural shorthand, convert pixels to actionable entities."
+    ],
+    "why_it_matters": "Eliminates friction in AI interactions by bringing capabilities directly into existing workflows rather than forcing users into separate AI tools.",
+    "tags": [
+      "product",
+      "multimodal",
+      "tooling"
+    ],
+    "published": "2026-03-29T10:50:49+00:00",
+    "fetched_at": "2026-05-14T19:50:21Z"
+  },
+  {
+    "id": "33b1a16fe380",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "original_title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "headline": "Google releases Gemini 3.1 Flash Live audio model for natural voice interactions",
+    "bullets": [
+      "Gemini 3.1 Flash Live scores 90.8% on ComplexFuncBench Audio for multi-step function calling tasks.",
+      "Model available via Gemini Live API for developers, enterprises, and 200+ countries via Search Live.",
+      "All audio output watermarked with SynthID to detect AI-generated content and prevent misinformation."
+    ],
+    "why_it_matters": "Developers can build more reliable voice agents handling complex tasks with improved tone understanding and lower latency.",
+    "tags": [
+      "model-release",
+      "voice",
+      "api"
+    ],
+    "published": "2026-03-26T15:23:35+00:00",
+    "fetched_at": "2026-05-14T19:50:25Z"
+  }
+]
