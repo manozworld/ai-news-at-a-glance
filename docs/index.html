@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI News at a Glance</title>
+<meta name="description" content="A daily-updated digest of releases and announcements from OpenAI, Anthropic, Google DeepMind, Meta AI, xAI, Hugging Face, and Mistral." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <h1 class="wordmark">
+      <span class="wordmark-ai">AI</span><span class="wordmark-dot">.</span><span class="wordmark-glance">News at a Glance</span>
+    </h1>
+    <p class="tagline">A daily digest of what shipped across the frontier labs.</p>
+    <p class="meta-line" id="lastUpdated">Loading…</p>
+  </div>
+</header>
+
+<section class="controls" aria-label="Filters">
+  <div class="controls-inner">
+
+    <div class="search-row">
+      <label for="search" class="sr-only">Search news</label>
+      <input
+        id="search"
+        type="search"
+        placeholder="Search headlines, bullets, tags…"
+        autocomplete="off"
+      />
+      <button id="clearSearch" class="icon-btn" aria-label="Clear search" hidden>×</button>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label">When</span>
+      <div class="chip-group" id="dateChips" role="tablist">
+        <button class="chip" data-range="1" role="tab">24 hours</button>
+        <button class="chip" data-range="7" role="tab">7 days</button>
+        <button class="chip" data-range="30" role="tab">30 days</button>
+        <button class="chip active" data-range="all" role="tab">All time</button>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label">Who</span>
+      <div class="chip-group" id="providerChips" role="tablist">
+        <button class="chip active" data-provider="all" role="tab">All</button>
+        <!-- provider chips injected by JS -->
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<main class="feed" id="feed" aria-live="polite">
+  <p class="empty" id="emptyState" hidden>No stories match these filters.</p>
+  <p class="empty" id="loadingState">Loading the latest…</p>
+</main>
+
+<footer class="colophon">
+  <p>Updated daily by a GitHub Action. Summaries generated with Claude Haiku. Always read the original for the full picture.</p>
+  <p><a href="https://github.com/manozworld/ai-news-at-a-glance">Source on GitHub</a></p>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
