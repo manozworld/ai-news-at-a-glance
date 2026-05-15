@@ -1,5 +1,49 @@
 [
   {
+    "id": "6bd2d5a7ff35",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "original_title": "AnnouncementsPwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "headline": "PwC expands Claude deployment across enterprise operations globally",
+    "bullets": [
+      "PwC training 30,000 professionals on Claude; launching Office of the CFO business unit",
+      "Insurance underwriting cycles compressed from 10 weeks to 10 days; incident response from hours to minutes",
+      "Agentic systems deployed in production across finance, healthcare, cybersecurity, sports operations"
+    ],
+    "why_it_matters": "Demonstrates enterprise-scale AI adoption with measurable productivity gains, setting precedent for regulated industries.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-15T08:55:12Z"
+  },
+  {
+    "id": "ca03c8de33d6",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/sea-david-chen",
+    "original_title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "headline": "Sea deploys Codex across organization, reshaping developer workflows with AI agents",
+    "bullets": [
+      "Sea achieved 87% weekly active user adoption of Codex across its developer organization.",
+      "Developers using Codex report faster experimentation and improved debugging; 73% would recommend it.",
+      "AI agents now operate in Sea's CI/CD pipelines, autonomously proposing implementations and test coverage."
+    ],
+    "why_it_matters": "Demonstrates how agentic AI fundamentally restructures engineering teams from execution-focused to orchestration-focused roles.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": "2026-05-14T20:30:00+00:00",
+    "fetched_at": "2026-05-15T08:54:56Z"
+  },
+  {
     "id": "637050adece4",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -698,6 +742,28 @@
     ],
     "published": "2026-05-14T18:55:01+00:00",
     "fetched_at": "2026-05-14T19:51:47Z"
+  },
+  {
+    "id": "3e12c6920827",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "original_title": "Work with Codex from anywhere",
+    "headline": "Codex now available on mobile for remote work management",
+    "bullets": [
+      "Codex mobile app in ChatGPT lets developers approve tasks and review work from phones",
+      "4+ million weekly users can now manage long-running agent work across devices securely",
+      "Remote SSH support and programmatic access tokens enable enterprise deployment at scale"
+    ],
+    "why_it_matters": "Developers can supervise autonomous coding agents from anywhere, reducing context-switching and keeping complex tasks moving without desktop presence.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-05-14T13:00:00+00:00",
+    "fetched_at": "2026-05-15T08:54:59Z"
   },
   {
     "id": "fd608667e64c",
