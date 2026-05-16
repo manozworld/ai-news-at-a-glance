@@ -1,5 +1,27 @@
 [
   {
+    "id": "21c4d9567dc3",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-hermes",
+    "original_title": "Connect Grok to Hermes Agent",
+    "headline": "Grok integrates with Hermes open-source agent framework",
+    "bullets": [
+      "Grok 4.3, Text-to-Speech, and Imagine now available within Hermes Agent",
+      "Hermes runs persistently on any computer with long-term memory across sessions",
+      "Connect to WhatsApp, Discord, Telegram, Signal via Hermes with Grok subscription"
+    ],
+    "why_it_matters": "Developers can build persistent, self-improving agents with Grok's capabilities across messaging platforms.",
+    "tags": [
+      "agents",
+      "api",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-16T08:10:27Z"
+  },
+  {
     "id": "6bd2d5a7ff35",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
@@ -20,6 +42,115 @@
     ],
     "published": null,
     "fetched_at": "2026-05-15T08:55:12Z"
+  },
+  {
+    "id": "248b5ff06999",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "original_title": "How sales teams use Codex",
+    "headline": "Codex helps sales teams synthesize customer data into actionable briefs",
+    "bullets": [
+      "Codex aggregates CRM records, call transcripts, emails, and Slack to create pipeline briefs and account plans.",
+      "Use cases include pipeline prioritization, meeting prep, forecast reviews, and deal risk assessment.",
+      "Sales teams retain strategy ownership; Codex produces first-draft working documents for refinement."
+    ],
+    "why_it_matters": "Reduces manual synthesis time for sales leaders managing fragmented customer context across multiple systems.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-05-15T00:00:00+00:00",
+    "fetched_at": "2026-05-16T08:10:05Z"
+  },
+  {
+    "id": "b5b1610b252a",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "original_title": "How business operations teams use Codex",
+    "headline": "Codex helps ops teams synthesize scattered data into decision briefs",
+    "bullets": [
+      "Codex aggregates project trackers, dashboards, notes, and stakeholder input into executive-ready briefs and updates.",
+      "Four primary use cases: off-track initiative briefs, health updates, leadership decision packets, and board progress updates.",
+      "Teams retain judgment; Codex produces first drafts faster by organizing context across Google Drive, Slack, email, and spreadsheets."
+    ],
+    "why_it_matters": "Operations teams can accelerate decision-making by automating synthesis of fragmented business context into structured, actionable documents.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-05-15T00:00:00+00:00",
+    "fetched_at": "2026-05-16T08:10:10Z"
+  },
+  {
+    "id": "cca00ce68781",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "original_title": "How data science teams use Codex",
+    "headline": "Codex helps data science teams draft analysis faster",
+    "bullets": [
+      "Codex assembles dashboards, exports, and context into review-ready analysis drafts with charts and caveats.",
+      "Four use cases: KPI root-cause analysis, business impact readouts, analytics request scoping, executive KPI reviews.",
+      "Teams validate evidence and recommendations after Codex generates initial structured deliverables."
+    ],
+    "why_it_matters": "Data scientists can focus on judgment and validation instead of manual document assembly and formatting.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-05-15T00:00:00+00:00",
+    "fetched_at": "2026-05-16T08:10:14Z"
+  },
+  {
+    "id": "c64312c3121c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/databricks",
+    "original_title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "headline": "GPT-5.5 achieves state-of-the-art on enterprise document processing",
+    "bullets": [
+      "GPT-5.5 surpasses 50% accuracy on OfficeQA Pro benchmark for complex enterprise tasks",
+      "46% error reduction vs GPT-5.4 in parsing scanned PDFs and legacy documents",
+      "Available via Databricks AI Unity Gateway for agent workflows with AgentBricks"
+    ],
+    "why_it_matters": "Enterprises can now deploy more reliable document-processing agents that handle legacy formats without cascading extraction errors.",
+    "tags": [
+      "model-release",
+      "agents",
+      "product"
+    ],
+    "published": "2026-05-15T00:00:00+00:00",
+    "fetched_at": "2026-05-16T08:10:17Z"
+  },
+  {
+    "id": "ada6c1425188",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "original_title": "A new personal finance experience in ChatGPT",
+    "headline": "ChatGPT gains secure financial account integration for Pro users",
+    "bullets": [
+      "Pro users in U.S. can connect 12,000+ financial institutions via Plaid to ChatGPT",
+      "GPT-5.5 reasoning enables personalized financial guidance based on connected account data",
+      "Dashboard shows spending, subscriptions, portfolio performance, and upcoming payments in one view"
+    ],
+    "why_it_matters": "Users get AI-powered financial advice grounded in real account data, reducing manual tracking across multiple apps and institutions.",
+    "tags": [
+      "product",
+      "api"
+    ],
+    "published": "2026-05-15T00:00:00+00:00",
+    "fetched_at": "2026-05-16T08:10:21Z"
   },
   {
     "id": "ca03c8de33d6",
