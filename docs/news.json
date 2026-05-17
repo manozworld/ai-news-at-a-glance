@@ -22,6 +22,28 @@
     "fetched_at": "2026-05-16T08:10:27Z"
   },
   {
+    "id": "f0106247dee4",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "original_title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "headline": "Malta becomes first nation offering ChatGPT Plus to all citizens",
+    "bullets": [
+      "Malta launches AI literacy course via University of Malta, then provides free ChatGPT Plus access for one year",
+      "Programme rolls out May 2026, managed by Malta Digital Innovation Authority for eligible participants",
+      "Part of OpenAI for Countries initiative supporting governments in strategic AI adoption and workforce training"
+    ],
+    "why_it_matters": "Demonstrates a scalable model for national AI adoption combining education with tool access, potentially influencing other governments.",
+    "tags": [
+      "product",
+      "api",
+      "pricing"
+    ],
+    "published": "2026-05-16T00:00:00+00:00",
+    "fetched_at": "2026-05-17T08:27:03Z"
+  },
+  {
     "id": "6bd2d5a7ff35",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
