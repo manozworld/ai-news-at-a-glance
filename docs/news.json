@@ -1,5 +1,136 @@
 [
   {
+    "id": "c86cb1ef6e1a",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-skills",
+    "original_title": "Skills in web, iOS, and Android",
+    "headline": "Grok launches Skills feature for persistent AI expertise",
+    "bullets": [
+      "Users can teach Grok preferences once; it remembers across all conversations without repetition.",
+      "Built-in skills generate Word docs, PowerPoint, Excel, PDFs with full formatting out-of-box.",
+      "Custom skills created via conversation; available on web, iOS, Android via Grok 4.3."
+    ],
+    "why_it_matters": "Reduces repetitive instruction overhead for document generation and workflow automation across platforms.",
+    "tags": [
+      "product",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-19T02:11:44Z"
+  },
+  {
+    "id": "9c0ddb2d59a6",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "original_title": "May 18, 2026AnnouncementsAnthropic acquires Stainless",
+    "headline": "Anthropic acquires Stainless to strengthen agent connectivity",
+    "bullets": [
+      "Stainless has generated all official Anthropic SDKs since API launch in TypeScript, Python, Go, Java, Kotlin.",
+      "Hundreds of companies use Stainless for SDK, CLI, and MCP server generation for API integration.",
+      "Acquisition strengthens Claude's ability to connect agents to data and tools via improved developer experience."
+    ],
+    "why_it_matters": "Agents need reliable API connectivity; this acquisition deepens Claude's integration capabilities and developer tooling ecosystem.",
+    "tags": [
+      "agents",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-19T02:11:39Z"
+  },
+  {
+    "id": "a15f62575e93",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "original_title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "headline": "Fine-tune NVIDIA Cosmos video model with LoRA for robot tasks",
+    "bullets": [
+      "LoRA/DoRA adapters enable efficient fine-tuning of 2B-parameter Cosmos Predict 2.5 on single GPU",
+      "Generate synthetic robot manipulation videos from text prompts and initial frames for policy training",
+      "Freezes base model weights, trains only adapter modules to prevent catastrophic forgetting"
+    ],
+    "why_it_matters": "Reduces cost and complexity of adapting large video models to robotics domains without full retraining.",
+    "tags": [
+      "model-release",
+      "video",
+      "tooling"
+    ],
+    "published": "2026-05-18T16:00:21+00:00",
+    "fetched_at": "2026-05-19T02:11:48Z"
+  },
+  {
+    "id": "905a332eca99",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "original_title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "headline": "PaddleOCR 3.5 adds Transformers backend for document parsing",
+    "bullets": [
+      "PaddleOCR models now run with Hugging Face Transformers as inference backend via engine parameter",
+      "Supports PP-OCRv5 and PaddleOCR-VL 1.5 for OCR and document parsing tasks",
+      "Developers configure backend options like dtype, device placement, attention implementation"
+    ],
+    "why_it_matters": "Simplifies document ingestion for RAG and Document AI workflows by integrating OCR directly into Transformers-centered stacks.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "tooling"
+    ],
+    "published": "2026-05-18T15:12:46+00:00",
+    "fetched_at": "2026-05-19T02:11:53Z"
+  },
+  {
+    "id": "699fe0a3c829",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "original_title": "The Open Agent Leaderboard",
+    "headline": "IBM launches open benchmark for evaluating full AI agent systems",
+    "bullets": [
+      "Open Agent Leaderboard tests complete agent systems across six diverse benchmarks: coding, customer service, research, and more.",
+      "Measures both quality and cost per task, revealing that agent architecture matters as much as the underlying model.",
+      "General-purpose agents already match specialized systems without benchmark-specific tuning, showing broad capability."
+    ],
+    "why_it_matters": "Developers can now compare production-ready agent systems by actual deployment cost and generality, not just model performance.",
+    "tags": [
+      "agents",
+      "research",
+      "tooling"
+    ],
+    "published": "2026-05-18T14:12:58+00:00",
+    "fetched_at": "2026-05-19T02:12:00Z"
+  },
+  {
+    "id": "210c7a7c7826",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "original_title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "headline": "OpenAI and Dell enable Codex deployment in enterprise on-premises environments",
+    "bullets": [
+      "Codex reaches 4 million weekly developers; expanding beyond coding to agentic workflows.",
+      "Integration with Dell AI Data Platform and Factory enables secure on-premises deployment.",
+      "Codex agents can now access internal codebases, documentation, and business systems directly."
+    ],
+    "why_it_matters": "Enterprises can now deploy AI agents securely within their own infrastructure, unlocking agentic capabilities across development and knowledge work at scale.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-05-18T10:00:00+00:00",
+    "fetched_at": "2026-05-19T02:11:27Z"
+  },
+  {
     "id": "21c4d9567dc3",
     "provider_id": "xai",
     "provider_name": "xAI",
