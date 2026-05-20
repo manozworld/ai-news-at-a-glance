@@ -1,5 +1,158 @@
 [
   {
+    "id": "0bc8c8213ee1",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-openclaw",
+    "original_title": "Use Grok in OpenClaw",
+    "headline": "Grok now integrates with OpenClaw local agent platform",
+    "bullets": [
+      "SuperGrok and X Premium subscribers can run Grok inside OpenClaw, an open-source local-first agent.",
+      "OpenClaw runs on any hardware from Raspberry Pi to servers, connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage.",
+      "Setup available via command-line installation with device-code authentication for remote access."
+    ],
+    "why_it_matters": "Users can now deploy Grok-powered agents locally with persistent memory across messaging platforms they already use.",
+    "tags": [
+      "product",
+      "agents",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-20T09:43:56Z"
+  },
+  {
+    "id": "d6a5d4f63a42",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "original_title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "headline": "KPMG deploys Claude across 276,000 employees in major alliance",
+    "bullets": [
+      "KPMG embeds Claude in Digital Gateway platform for tax, legal, and PE client work",
+      "All 276,000+ KPMG employees globally gain Claude access for internal use",
+      "Claude helps identify vulnerabilities in cybersecurity; agents reduce tax tool development from weeks to minutes"
+    ],
+    "why_it_matters": "Enterprise-scale AI deployment demonstrates how large professional services firms integrate AI into core workflows and client delivery at organizational scale.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-20T09:43:35Z"
+  },
+  {
+    "id": "686693603124",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/widening-conversation-ai",
+    "original_title": "May 19, 2026AnnouncementsWidening the conversation on frontier AI",
+    "headline": "Anthropic engages wisdom traditions on frontier AI ethics",
+    "bullets": [
+      "Anthropic launched dialogues with 15+ religious and cultural groups on AI moral formation and character development.",
+      "Experimented with ethical reminder tool that reduced misaligned behavior in Claude during alignment evaluations.",
+      "Plans broader engagement with legal scholars, psychologists, and civic institutions on AI's societal impact."
+    ],
+    "why_it_matters": "Incorporating diverse philosophical and ethical perspectives into AI development could improve alignment and public trust in frontier systems.",
+    "tags": [
+      "safety",
+      "research",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-20T09:43:31Z"
+  },
+  {
+    "id": "52bd1afbd88b",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "original_title": "The next phase of OpenAI’s Education for Countries",
+    "headline": "OpenAI expands Education for Countries program with Singapore",
+    "bullets": [
+      "Estonia deployment reaches 20,000 students and 4,600 teachers with research partnerships measuring AI impact",
+      "Jordan's Siraj AI assistant engaged over 1 million students; Kazakhstan trained 84,000 educators",
+      "Singapore joins program focusing on personalized learning and teacher-driven AI adoption"
+    ],
+    "why_it_matters": "Government-backed AI education programs now measure real learning outcomes and scale responsible deployment across multiple countries.",
+    "tags": [
+      "product",
+      "research",
+      "agents"
+    ],
+    "published": "2026-05-20T00:00:00+00:00",
+    "fetched_at": "2026-05-20T09:43:15Z"
+  },
+  {
+    "id": "e0640ad0320c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "original_title": "Introducing OpenAI for Singapore",
+    "headline": "OpenAI launches Singapore hub with S$300M investment commitment",
+    "bullets": [
+      "Opening Applied AI Lab, first outside US, creating 200+ technical roles in Singapore",
+      "Focus areas: enterprise AI deployment, talent development, and broad economy access",
+      "Partnering with Ministry of Digital Development on public services, finance, healthcare priorities"
+    ],
+    "why_it_matters": "Establishes OpenAI's regional engineering hub to accelerate AI adoption across Singapore's economy and workforce.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-05-19T20:30:00+00:00",
+    "fetched_at": "2026-05-20T09:43:19Z"
+  },
+  {
+    "id": "bda6dcb3221f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "original_title": "OlmoEarth v1.1: A more efficient family of models",
+    "headline": "OlmoEarth v1.1 cuts satellite imagery model costs by 3x",
+    "bullets": [
+      "New model family reduces compute costs up to 3x while maintaining v1 performance on benchmarks",
+      "Collapses multi-resolution tokens into single tokens, decreasing sequence length and quadratic transformer costs",
+      "Available in Base, Tiny, and Nano sizes; same dataset as v1 isolates methodological improvements"
+    ],
+    "why_it_matters": "Dramatically cheaper satellite analysis enables more organizations to deploy planet-scale environmental monitoring and mapping.",
+    "tags": [
+      "model-release",
+      "research"
+    ],
+    "published": "2026-05-19T18:38:09+00:00",
+    "fetched_at": "2026-05-20T09:44:00Z"
+  },
+  {
+    "id": "4f1431164463",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "original_title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "headline": "OpenAI adds watermarks and verification tools for AI-generated content",
+    "bullets": [
+      "Adopts C2PA standard with invisible SynthID watermarking across ChatGPT, API, and Codex images",
+      "Launches public verification tool to detect OpenAI-generated images via metadata and watermarks",
+      "Partners with Google to embed durable watermarks surviving screenshots and format changes"
+    ],
+    "why_it_matters": "Helps users and platforms reliably identify AI-generated content, reducing misinformation and building trust in digital media.",
+    "tags": [
+      "safety",
+      "product",
+      "tooling"
+    ],
+    "published": "2026-05-19T10:45:00+00:00",
+    "fetched_at": "2026-05-20T09:43:22Z"
+  },
+  {
     "id": "c86cb1ef6e1a",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -41,6 +194,28 @@
     ],
     "published": null,
     "fetched_at": "2026-05-19T02:11:39Z"
+  },
+  {
+    "id": "1bd4f1ecf0d1",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "original_title": "Introducing the Ettin Reranker Family",
+    "headline": "Six new Ettin reranker models released for retrieval ranking",
+    "bullets": [
+      "Six CrossEncoder rerankers from 17M to 1B parameters, state-of-the-art at each size.",
+      "Built on ModernBERT encoders, trained via distillation, support up to 8K token context.",
+      "Full training recipe, datasets, and Agent Skill for fine-tuning released open-source."
+    ],
+    "why_it_matters": "Developers can now implement efficient retrieve-then-rerank pipelines with production-ready models at various speed-quality tradeoffs.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "tooling"
+    ],
+    "published": "2026-05-19T00:00:00+00:00",
+    "fetched_at": "2026-05-20T09:44:04Z"
   },
   {
     "id": "a15f62575e93",
@@ -129,6 +304,94 @@
     ],
     "published": "2026-05-18T10:00:00+00:00",
     "fetched_at": "2026-05-19T02:11:27Z"
+  },
+  {
+    "id": "c120575d799b",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "original_title": "Simulate real-world places with Project Genie and Street View",
+    "headline": "Google Genie now generates worlds grounded in real Street View locations",
+    "bullets": [
+      "Project Genie integrates Street View imagery to anchor AI-generated environments in real-world places across the U.S.",
+      "Rolling out to Google AI Ultra subscribers ($200/month) globally; users can customize scenes with styles like Ocean World or Stone Age.",
+      "Enables AI agents and robots to learn navigation in photorealistic virtual environments based on actual locations."
+    ],
+    "why_it_matters": "Bridges simulation and reality for AI training, letting agents practice in realistic environments grounded in actual geography.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "agents"
+    ],
+    "published": "2026-05-17T19:53:18+00:00",
+    "fetched_at": "2026-05-20T09:43:39Z"
+  },
+  {
+    "id": "6ff85c3103b9",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "original_title": "Introducing Gemini Omni",
+    "headline": "Google DeepMind launches Gemini Omni video generation model",
+    "bullets": [
+      "Gemini Omni Flash generates high-quality videos from mixed inputs: images, audio, video, text.",
+      "Natural language video editing with multi-turn refinement maintains character consistency and physics.",
+      "Rolling out to Gemini app, Google Flow, YouTube Shorts; future image and audio outputs planned."
+    ],
+    "why_it_matters": "Enables creators to generate and edit complex videos conversationally, reducing production barriers for visual content.",
+    "tags": [
+      "model-release",
+      "video",
+      "multimodal"
+    ],
+    "published": "2026-05-17T19:50:57+00:00",
+    "fetched_at": "2026-05-20T09:43:43Z"
+  },
+  {
+    "id": "548bdf100a67",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "original_title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "headline": "Google launches Gemini for Science with three experimental research tools",
+    "bullets": [
+      "Three prototypes: Hypothesis Generation, Computational Discovery, Literature Insights on Google Labs",
+      "Science Skills bundle integrates 30+ life science databases for genomic and structural analysis",
+      "Enterprise partners BASF, Klarna, Bayer using tools; validation papers published in Nature"
+    ],
+    "why_it_matters": "AI agents can accelerate scientific discovery by automating literature synthesis, hypothesis generation, and computational experiments that typically take weeks.",
+    "tags": [
+      "agents",
+      "research",
+      "product"
+    ],
+    "published": "2026-05-17T13:50:34+00:00",
+    "fetched_at": "2026-05-20T09:43:47Z"
+  },
+  {
+    "id": "ce11f0ad142d",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+    "original_title": "Making it easier to understand how content was created and edited",
+    "headline": "Google expands AI content detection and watermarking across products",
+    "bullets": [
+      "SynthID watermarking now embedded in 100B+ images, videos, and 60K years of audio globally.",
+      "New AI Content Detection API on Google Cloud helps businesses identify synthetic media from multiple models.",
+      "Pixel phones now add Content Credentials to camera images and video, expanding to Pixel 8, 9, 10."
+    ],
+    "why_it_matters": "Helps users and platforms distinguish authentic content from AI-generated or edited media as synthetic content proliferates.",
+    "tags": [
+      "product",
+      "safety",
+      "api"
+    ],
+    "published": "2026-05-17T13:43:50+00:00",
+    "fetched_at": "2026-05-20T09:43:50Z"
   },
   {
     "id": "21c4d9567dc3",
