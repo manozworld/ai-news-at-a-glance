@@ -88,6 +88,49 @@
     "fetched_at": "2026-05-20T09:43:15Z"
   },
   {
+    "id": "7f625f666338",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "original_title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "headline": "OpenAI model solves 80-year-old discrete geometry problem",
+    "bullets": [
+      "AI disproved Erdős's unit distance conjecture using algebraic number theory techniques.",
+      "Model found infinite family of point configurations exceeding square grid constructions.",
+      "First autonomous AI solution to prominent open problem in mathematics subfield."
+    ],
+    "why_it_matters": "Demonstrates AI can discover original mathematical insights beyond human-guided assistance, advancing frontier research capabilities.",
+    "tags": [
+      "research",
+      "reasoning"
+    ],
+    "published": "2026-05-20T00:00:00+00:00",
+    "fetched_at": "2026-05-21T09:51:42Z"
+  },
+  {
+    "id": "cb920945cfca",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/ramp",
+    "original_title": "How Ramp engineers accelerate code review with Codex",
+    "headline": "Ramp uses Codex with GPT-5.5 for faster code review",
+    "bullets": [
+      "Codex delivers substantive pull request feedback in minutes instead of hours",
+      "Ramp built On-Call Assistant agent using Codex's reasoning capabilities",
+      "Engineers report Codex catches issues other reviewers and AI tools miss"
+    ],
+    "why_it_matters": "Demonstrates how AI code review agents can meaningfully accelerate developer workflows and reduce manual review overhead at scale.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-05-20T00:00:00+00:00",
+    "fetched_at": "2026-05-21T09:51:46Z"
+  },
+  {
     "id": "e0640ad0320c",
     "provider_id": "openai",
     "provider_name": "OpenAI",
