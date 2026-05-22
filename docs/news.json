@@ -1,5 +1,71 @@
 [
   {
+    "id": "ef09c51e6046",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-opencode",
+    "original_title": "Use Grok in OpenCode",
+    "headline": "Grok now integrates with OpenCode for AI-assisted development",
+    "bullets": [
+      "SuperGrok and X Premium subscribers can use Grok Build model inside OpenCode editor",
+      "Connect via OAuth or headless mode for terminal, SSH, and remote environments",
+      "Same coding agent powers xAI's terminal tool and OpenCode integration"
+    ],
+    "why_it_matters": "Developers gain native AI coding assistance within OpenCode without switching tools or platforms.",
+    "tags": [
+      "product",
+      "coding",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-22T09:37:35Z"
+  },
+  {
+    "id": "cf9e5a542f53",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "original_title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "headline": "Google DeepMind launches Asia-Pacific accelerator for climate AI startups",
+    "bullets": [
+      "Three-month program supports startups, researchers, nonprofits using frontier AI for environmental solutions",
+      "Participants receive mentorship, technical support, access to Google AI models for climate work",
+      "Inaugural bootcamp begins in Singapore, targeting nature, climate, agriculture, energy challenges"
+    ],
+    "why_it_matters": "Accelerates deployment of AI-driven climate solutions in a region facing acute environmental vulnerability and economic pressure.",
+    "tags": [
+      "product",
+      "research",
+      "agents"
+    ],
+    "published": "2026-05-21T19:46:42+00:00",
+    "fetched_at": "2026-05-22T09:37:28Z"
+  },
+  {
+    "id": "85a3fdb43c80",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/adventhealth",
+    "original_title": "AdventHealth advances whole-person care with OpenAI",
+    "headline": "AdventHealth cuts admin tasks by 80% using ChatGPT for Healthcare",
+    "bullets": [
+      "Hospital system deployed ChatGPT for Healthcare to automate documentation and utilization reviews across nine states.",
+      "Physician advisors reduced case review time from 10 minutes to significantly less while maintaining quality standards.",
+      "Adoption tracked as KPI with domain-based peer training rather than centralized programs for enterprise-scale rollout."
+    ],
+    "why_it_matters": "Healthcare systems can reclaim clinician time for patient care by systematically deploying AI with governance controls and adoption-focused strategies.",
+    "tags": [
+      "product",
+      "api",
+      "safety"
+    ],
+    "published": "2026-05-21T12:00:00+00:00",
+    "fetched_at": "2026-05-22T09:37:19Z"
+  },
+  {
     "id": "0bc8c8213ee1",
     "provider_id": "xai",
     "provider_name": "xAI",
