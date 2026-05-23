@@ -1,5 +1,48 @@
 [
   {
+    "id": "e7490cde6e0a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "original_title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "headline": "NVIDIA releases diffusion language models for parallel token generation",
+    "bullets": [
+      "Nemotron-Labs Diffusion generates multiple tokens in parallel, achieving 6.4× speedup via self-speculation mode.",
+      "Available in 3B, 8B, 14B text models plus 8B vision-language model under commercial licenses.",
+      "Supports three generation modes: autoregressive, diffusion, and self-speculation from single checkpoint."
+    ],
+    "why_it_matters": "Developers can dramatically reduce latency for text generation while maintaining accuracy, enabling faster real-time applications.",
+    "tags": [
+      "model-release",
+      "reasoning",
+      "api"
+    ],
+    "published": "2026-05-23T00:02:03+00:00",
+    "fetched_at": "2026-05-23T08:25:36Z"
+  },
+  {
+    "id": "eb5012be09e5",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "original_title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "headline": "Specialized 3B model outperforms frontier APIs on OCR task",
+    "bullets": [
+      "3-billion-parameter specialized model scored 0.911 vs Claude Opus 4.6's 0.833 on Brazilian Portuguese OCR benchmark.",
+      "Specialized model cost 52x less per million pages than Claude Opus while achieving highest quality and lowest text-degeneration rate.",
+      "Fine-tuning pipeline moves training distribution closer to deployment task, making parameter count less decisive than specialization."
+    ],
+    "why_it_matters": "Enterprise AI procurement should prioritize domain specialization over frontier model scale when cost and quality both matter.",
+    "tags": [
+      "model-release",
+      "research"
+    ],
+    "published": "2026-05-22T15:25:59+00:00",
+    "fetched_at": "2026-05-23T08:25:40Z"
+  },
+  {
     "id": "ef09c51e6046",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -20,6 +63,50 @@
     ],
     "published": null,
     "fetched_at": "2026-05-22T09:37:35Z"
+  },
+  {
+    "id": "ef1db9edff97",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "original_title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "headline": "OpenAI's Codex named Gartner Leader in enterprise coding agents",
+    "bullets": [
+      "Codex used by 4M+ weekly users including Cisco, Datadog, Dell, NVIDIA",
+      "GPT-5.5 integration improves reasoning, tool use, and enterprise workflow support",
+      "Enterprise features include approval gates, RBAC, sandboxing, and audit governance"
+    ],
+    "why_it_matters": "Enterprises can now deploy agentic coding systems at scale with built-in governance and security controls.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-05-22T00:00:00+00:00",
+    "fetched_at": "2026-05-23T08:25:21Z"
+  },
+  {
+    "id": "4ce39150a4dc",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "original_title": "How Virgin Atlantic ships faster with Codex",
+    "headline": "Virgin Atlantic accelerates development with Codex coding tool",
+    "bullets": [
+      "Achieved ~100% unit test coverage and zero P1 defects on new mobile app launch",
+      "Reduced legacy codebase size by 78-80% and cut refactoring time from 2 weeks to 30 minutes",
+      "Enabled non-engineers across airline to build internal data applications independently"
+    ],
+    "why_it_matters": "Demonstrates how AI coding assistants can dramatically improve software quality and velocity in mission-critical enterprise environments.",
+    "tags": [
+      "coding",
+      "product",
+      "tooling"
+    ],
+    "published": "2026-05-22T00:00:00+00:00",
+    "fetched_at": "2026-05-23T08:25:25Z"
   },
   {
     "id": "cf9e5a542f53",
