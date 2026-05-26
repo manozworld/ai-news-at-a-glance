@@ -1,5 +1,49 @@
 [
   {
+    "id": "2958e44acb3b",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "original_title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "headline": "OpenAI partners with major Brazilian publishers for ChatGPT journalism",
+    "bullets": [
+      "Folha de S.Paulo and UOL content now accessible to 900M+ weekly ChatGPT users globally",
+      "OpenAI's first Brazil media deal emphasizes attribution, transparency, and links to original sources",
+      "Publishers gain access to Codex, ChatGPT Enterprise, and APIs for product innovation"
+    ],
+    "why_it_matters": "Establishes OpenAI's media partnership model in Latin America's largest market while expanding journalism distribution through AI.",
+    "tags": [
+      "product",
+      "api",
+      "partnership"
+    ],
+    "published": "2026-05-25T00:00:00+00:00",
+    "fetched_at": "2026-05-26T10:04:59Z"
+  },
+  {
+    "id": "3ae5a86a36cf",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "original_title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "headline": "AI Agent Terminology Guide Clarifies Harness and Scaffold Concepts",
+    "bullets": [
+      "Glossary defines key agent terms: harness executes loops, scaffold defines behavior layer around model.",
+      "Agent = Model + Harness + Scaffolding; same model with different harnesses creates different products.",
+      "Context engineering manages what model sees per step; memory splits into short-term and long-term storage."
+    ],
+    "why_it_matters": "Standardized terminology helps developers build, deploy, and discuss AI agents with consistent mental models.",
+    "tags": [
+      "agents",
+      "tooling",
+      "research"
+    ],
+    "published": "2026-05-25T00:00:00+00:00",
+    "fetched_at": "2026-05-26T10:05:13Z"
+  },
+  {
     "id": "e7490cde6e0a",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
