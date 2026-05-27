@@ -1,5 +1,48 @@
 [
   {
+    "id": "bcd1f238be35",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-kilocode",
+    "original_title": "May 27, 2026Use Grok in Kilo CodeLatest postMay 27, 2026Use Grok in Kilo CodeUse your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.Read More",
+    "headline": "Grok now integrates with Kilo Code open-source platform",
+    "bullets": [
+      "SuperGrok and X Premium+ subscribers can use Grok directly in Kilo Code IDE extensions and CLI",
+      "Kilo Code supports 500+ models with specialized modes for planning, coding, debugging, and orchestration",
+      "No separate API key required; OAuth connection available for VS Code, JetBrains, terminal, and headless environments"
+    ],
+    "why_it_matters": "Developers can leverage Grok's agentic capabilities within their existing IDE workflows without additional authentication overhead.",
+    "tags": [
+      "product",
+      "coding",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-27T10:03:30Z"
+  },
+  {
+    "id": "94fc63d517dd",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+    "original_title": "May 26, 2026AnnouncementsAnthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+    "headline": "Anthropic names Korea director, opens Seoul office",
+    "bullets": [
+      "KiYoung Choi joins as Representative Director ahead of Seoul office launch.",
+      "Koreans use Claude 3.5x more than population size would predict.",
+      "SK Telecom and Law&Company already building Claude-powered solutions in Korea."
+    ],
+    "why_it_matters": "Anthropic expands regional presence in a sophisticated AI market with strong developer and enterprise adoption.",
+    "tags": [
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-27T10:03:17Z"
+  },
+  {
     "id": "2958e44acb3b",
     "provider_id": "openai",
     "provider_name": "OpenAI",
