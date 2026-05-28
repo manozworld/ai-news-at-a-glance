@@ -1,5 +1,246 @@
 [
   {
+    "id": "e04e3432fb0a",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/voxtral-tts",
+    "original_title": "ResearchSpeaking of VoxtralVoxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.March 23, 2026Mistral AI",
+    "headline": "Mistral releases Voxtral TTS, lightweight multilingual speech model",
+    "bullets": [
+      "4B-parameter model supports 9 languages with emotional expressiveness and instant voice adaptation",
+      "70ms latency for 10-second voice sample; outperforms ElevenLabs Flash v2.5 on naturalness",
+      "Available via API at $0.016 per 1k characters; open-weights version on Hugging Face"
+    ],
+    "why_it_matters": "Enables developers to build natural, low-latency voice agents with custom voice adaptation at enterprise scale.",
+    "tags": [
+      "model-release",
+      "voice",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:53Z"
+  },
+  {
+    "id": "f32e5c848780",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/workflows-for-work-that-runs-the-business",
+    "original_title": "ProductWorkflows for work that runs the businessWorkflows is now in public preview.April 27, 2026Mistral AI",
+    "headline": "Mistral launches Workflows orchestration platform for enterprise AI",
+    "bullets": [
+      "Workflows now in public preview; enables durable, observable AI processes in production",
+      "Built on Temporal engine; includes human-in-the-loop approvals, full audit trails, fault tolerance",
+      "Integrates with Studio, Le Chat; customers like ASML, ABANCA already automating critical processes"
+    ],
+    "why_it_matters": "Enterprises can move AI from prototypes to reliable production systems in days instead of months of custom engineering.",
+    "tags": [
+      "product",
+      "agents",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:49Z"
+  },
+  {
+    "id": "486053f0b471",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/connect-the-dots-build-with-built-in-and-custom-mcps-in-studio",
+    "original_title": "ProductConnect the dots: Build with built-in and custom MCPs in StudioConnect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.May 22, 2026Mistral AI",
+    "headline": "Mistral Launches Connectors for Enterprise AI Integration",
+    "bullets": [
+      "Built-in and custom MCPs now available via API/SDK for all model and agent calls.",
+      "Direct tool calling enables precise control; human-in-the-loop approval flows ensure governance.",
+      "Connectors centrally registered, reusable across LeChat, Studio, and upcoming Vibe platform."
+    ],
+    "why_it_matters": "Developers can build enterprise AI agents faster by reusing connectors instead of rebuilding integrations repeatedly across teams.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:45Z"
+  },
+  {
+    "id": "3011157f39f9",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/remote-agents-in-vibe-powered-by-mistral-medium-35",
+    "original_title": "ProductRemote agents in Vibe. Powered by Mistral Medium 3.5.Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.May 22, 2026Mistral AI",
+    "headline": "Mistral Medium 3.5 powers cloud-based coding agents in Vibe",
+    "bullets": [
+      "Mistral Medium 3.5: 128B dense model with 256k context, 77.6% on SWE-Bench Verified",
+      "Remote agents run async in cloud, spawnable from CLI or Le Chat, teleportable from local sessions",
+      "Work mode in Le Chat handles multi-step tasks with parallel tool calls and persistent sessions"
+    ],
+    "why_it_matters": "Developers can offload long coding tasks to cloud agents while working on other priorities, reducing manual bottlenecks.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:41Z"
+  },
+  {
+    "id": "662baf663f2f",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/accelerate-ai-native-industry",
+    "original_title": "CompanyEmmi joins Mistral to accelerate the AI-native industryMay 23, 2026Mistral AI",
+    "headline": "Mistral acquires Physics AI pioneer Emmi to boost industrial capabilities",
+    "bullets": [
+      "Mistral AI acquires Austrian Physics AI company Emmi to strengthen engineering and manufacturing AI systems.",
+      "Emmi's 30+ researchers bring expertise in large engineering models and real-time physics simulations.",
+      "Combined platform targets aerospace, automotive, semiconductors with integrated AI stack for R&D acceleration."
+    ],
+    "why_it_matters": "Enables manufacturers to replace multi-day simulations with real-time AI-driven engineering workflows and digital twins.",
+    "tags": [
+      "model-release",
+      "agents",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:37Z"
+  },
+  {
+    "id": "20567da75ede",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/physics-ai-research",
+    "original_title": "ResearchPhysics AI research that’s shaping the industry.Published breakthroughs pushing the state of the art.May 27, 2026Mistral",
+    "headline": "Mistral acquires Emmi AI, doubles down on physics-based AI research",
+    "bullets": [
+      "Emmi AI acquisition strengthens Mistral's physics AI capabilities for aerospace, automotive, semiconductors, energy sectors.",
+      "Published breakthroughs include neural surrogates for CFD, plasma turbulence modeling, and multi-physics industrial simulations.",
+      "AB-UPT handles 140M volume cells on single GPU without remeshing for aerodynamics applications."
+    ],
+    "why_it_matters": "Physics-based AI accelerates engineering design cycles and operational optimization across capital-intensive industries.",
+    "tags": [
+      "research",
+      "model-release"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:34Z"
+  },
+  {
+    "id": "af8ab909d11b",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
+    "original_title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+    "headline": "Mistral launches physics AI for accelerated engineering design",
+    "bullets": [
+      "Physics AI models predict physical behavior in seconds on GPU, replacing hours-long traditional simulations",
+      "Enables exploration of thousands of design variants instead of handful, reducing development time and cost",
+      "Real-time digital twins allow predictive maintenance and optimization of operating assets without downtime"
+    ],
+    "why_it_matters": "Engineers can iterate faster on hardware designs, reducing time-to-market and development costs across aerospace, automotive, and energy sectors.",
+    "tags": [
+      "model-release",
+      "product",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:30Z"
+  },
+  {
+    "id": "6b398ac7c77d",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/vibe-agent",
+    "original_title": "Vibe gets to work.",
+    "headline": "Mistral launches Vibe agent for work and coding tasks",
+    "bullets": [
+      "Vibe combines Work Mode for multi-step tasks across email, calendar, databases with Code Mode for end-to-end coding from request to merged pull requests.",
+      "New VS Code extension enables coding agent to read, edit, and execute commands across entire project with GitHub, Jira, Linear integration.",
+      "Pricing: Free tier, Pro $14.99/month, Team $24.99/user/month, Enterprise custom; available at chat.mistral.ai and code.mistral.ai."
+    ],
+    "why_it_matters": "Developers and teams gain unified AI agent for automating complex workflows, research, documentation, and coding tasks with transparent reasoning and tool visibility.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:26Z"
+  },
+  {
+    "id": "75f401ff8fbc",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/ai-now-summit-2026",
+    "original_title": "AI Now Summit 2026",
+    "headline": "Mistral launches industrial AI stack, Vibe agent, new data center",
+    "bullets": [
+      "Physics AI for aerospace, automotive, semiconductors with Airbus, BMW, ASML partnerships",
+      "Vibe agent handles multi-step work: research, coding, pull requests, calendar management",
+      "10 MW Les Ulis data center opens Q3 2026 for inference operations"
+    ],
+    "why_it_matters": "Enterprises gain domain-specific AI for critical workflows while maintaining full data control and security.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-28T10:13:22Z"
+  },
+  {
+    "id": "885b9f75e714",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "original_title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "headline": "New benchmark reveals frontier AI models struggle with enterprise IT tasks",
+    "bullets": [
+      "ITBench-AA SRE benchmark tests Kubernetes incident diagnosis; Claude Opus 4.7 leads at 47%.",
+      "All frontier models score below 50%; open-weights GLM-5.1 reaches 40% at lower cost.",
+      "Models penalized for over-investigation; longer trajectories don't improve accuracy on root-cause identification."
+    ],
+    "why_it_matters": "Reveals significant gaps in agentic AI capabilities for real-world enterprise operations and infrastructure management tasks.",
+    "tags": [
+      "agents",
+      "research",
+      "benchmarking"
+    ],
+    "published": "2026-05-27T17:20:29+00:00",
+    "fetched_at": "2026-05-28T10:13:10Z"
+  },
+  {
+    "id": "a1f161b6a344",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/cisco",
+    "original_title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "headline": "Cisco deploys Codex for enterprise-scale AI-assisted engineering",
+    "bullets": [
+      "95%+ of new AI Defense features written by Codex; development time compressed from quarters to weeks.",
+      "Codex CLI achieved 10-15x defect resolution throughput; saved 1,500+ engineering hours monthly across Cisco.",
+      "Codex integrated into production workflows for cross-repo optimization, framework migrations, and autonomous compile-test-fix loops."
+    ],
+    "why_it_matters": "Demonstrates agentic AI can operate reliably in complex enterprise codebases, reshaping how large organizations approach software development.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-05-27T11:00:00+00:00",
+    "fetched_at": "2026-05-28T10:12:37Z"
+  },
+  {
     "id": "bcd1f238be35",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -41,6 +282,116 @@
     ],
     "published": null,
     "fetched_at": "2026-05-27T10:03:17Z"
+  },
+  {
+    "id": "9da64821c60f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "original_title": "Building self-improving tax agents with Codex",
+    "headline": "OpenAI and Thrive build self-improving tax agent using Codex",
+    "bullets": [
+      "Tax AI processed 7,000 returns, achieving 97% accuracy and 50% throughput increase for accountants.",
+      "System improved from 25% to 86% correct field completion within six weeks through autonomous feedback loops.",
+      "Codex-driven agent learns from practitioner corrections and production traces to continuously enhance performance."
+    ],
+    "why_it_matters": "Demonstrates how AI agents can self-improve in production using structured feedback, reducing manual engineering overhead and accelerating real-world deployment cycles.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": "2026-05-27T07:00:00+00:00",
+    "fetched_at": "2026-05-28T10:12:41Z"
+  },
+  {
+    "id": "fae225528858",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "original_title": "Election information and safeguards in 2026",
+    "headline": "OpenAI deploys election safeguards ahead of 2026 global voting",
+    "bullets": [
+      "ChatGPT will display live AP vote counts in US and Brazil election nights starting fall 2026.",
+      "SynthID watermarks now embedded in ChatGPT-generated images to combat AI-created deepfakes.",
+      "Codex Security and Trusted Access for Cyber program offered to US voting system manufacturers."
+    ],
+    "why_it_matters": "Helps voters access reliable information while reducing election interference risks from AI-generated misinformation.",
+    "tags": [
+      "safety",
+      "product",
+      "transparency"
+    ],
+    "published": "2026-05-27T00:00:00+00:00",
+    "fetched_at": "2026-05-28T10:12:45Z"
+  },
+  {
+    "id": "b36c91942c4f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/warp",
+    "original_title": "Warp’s big bet on building open source with GPT-5.5",
+    "headline": "Warp uses GPT-5.5 to power open-source agent orchestration",
+    "bullets": [
+      "GPT-5.5 reduces token usage by 30% per agentic coding task versus GPT-5.4",
+      "Warp's agents now co-create 90% of internal pull requests using Open Agentic Development model",
+      "Oz orchestration platform coordinates agents across local and cloud environments with persistent memory"
+    ],
+    "why_it_matters": "Demonstrates practical scaling of autonomous agents in production software development workflows with measurable efficiency gains.",
+    "tags": [
+      "agents",
+      "coding",
+      "model-release"
+    ],
+    "published": "2026-05-27T00:00:00+00:00",
+    "fetched_at": "2026-05-28T10:12:48Z"
+  },
+  {
+    "id": "5b218fefef6f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "original_title": "Reachy Mini goes fully local",
+    "headline": "Reachy Mini robot now runs conversations entirely locally",
+    "bullets": [
+      "Speech-to-speech pipeline (VAD→STT→LLM→TTS) runs on-device via WebSocket API",
+      "Recommended stack: Gemma 4 LLM, Silero VAD, Parakeet-TDT STT, Qwen3 TTS",
+      "No cloud dependency, API keys, or data transmission required"
+    ],
+    "why_it_matters": "Developers can deploy private, cost-free voice agents with full pipeline control and component swapping flexibility.",
+    "tags": [
+      "product",
+      "voice",
+      "open-weights"
+    ],
+    "published": "2026-05-27T00:00:00+00:00",
+    "fetched_at": "2026-05-28T10:13:14Z"
+  },
+  {
+    "id": "e2e168c60835",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "original_title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "headline": "Hugging Face cuts RL model sync costs by 99 percent",
+    "bullets": [
+      "Delta Weight Sync encodes only changed weights as sparse files, reducing per-step payload from 1.2 GB to 20-35 MB on Qwen3-0.6B.",
+      "99% of bf16 weights remain unchanged between RL optimizer steps due to learning rate and precision arithmetic properties.",
+      "Trainer and inference can run in separate regions using shared Hub bucket; no RDMA, VPN, or shared cluster required."
+    ],
+    "why_it_matters": "Dramatically reduces bandwidth and infrastructure costs for distributed RL training at scale, enabling frontier model training without mega-clusters.",
+    "tags": [
+      "api",
+      "tooling",
+      "research"
+    ],
+    "published": "2026-05-27T00:00:00+00:00",
+    "fetched_at": "2026-05-28T10:13:19Z"
   },
   {
     "id": "2958e44acb3b",
