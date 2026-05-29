@@ -1,5 +1,200 @@
 [
   {
+    "id": "c401ee87a219",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/workflows",
+    "original_title": "ProductWorkflows for work that runs the businessWorkflows is now in public preview.April 27, 2026Mistral AI",
+    "headline": "Mistral launches Workflows orchestration platform in public preview",
+    "bullets": [
+      "Enterprise AI orchestration layer with durability, observability, fault tolerance for production workloads",
+      "Built on Temporal engine; supports human-in-the-loop approvals, multi-step processes, full audit trails",
+      "Customers including ASML, ABANCA, CMA-CGM already automating cargo, compliance, support triage workflows"
+    ],
+    "why_it_matters": "Enterprises can move AI from prototypes to production reliably in days instead of months of custom engineering.",
+    "tags": [
+      "product",
+      "agents",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:50Z"
+  },
+  {
+    "id": "435451114e08",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/connectors",
+    "original_title": "ProductConnect the dots: Build with built-in and custom MCPs in StudioConnect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.May 22, 2026Mistral AI",
+    "headline": "Mistral releases connectors for enterprise AI app integration",
+    "bullets": [
+      "Built-in and custom MCPs now available via API/SDK for all model and agent calls",
+      "Direct tool calling enables precise control; human-in-the-loop approval flows ensure governance",
+      "Connectors centrally registered, reusable across LeChat, Studio, and upcoming Vibe"
+    ],
+    "why_it_matters": "Developers can build enterprise AI agents with secure, reusable integrations without rebuilding authentication and tool logic repeatedly.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:46Z"
+  },
+  {
+    "id": "392e2ba0621c",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/search-toolkit",
+    "original_title": "Introducing Search Toolkit",
+    "headline": "Mistral releases Search Toolkit for production RAG pipelines",
+    "bullets": [
+      "Open-source framework unifies ingestion, retrieval, and evaluation in single interface",
+      "Includes BM25, dense embedding, hybrid retrieval; built-in metrics for quality measurement",
+      "Runs on cloud, on-premises, or edge; starter template with Vespa indexing included"
+    ],
+    "why_it_matters": "Reduces engineering overhead for teams building search infrastructure, enabling faster RAG deployment and quality iteration.",
+    "tags": [
+      "product",
+      "tooling",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:42Z"
+  },
+  {
+    "id": "79ae92d8dc3d",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-build-0-1",
+    "original_title": "May 28, 2026Grok Build 0.1 on APILatest postMay 28, 2026Grok Build 0.1 on APIGrok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.Read More",
+    "headline": "xAI releases Grok Build 0.1 coding model via API",
+    "bullets": [
+      "Fastest coding model at 100+ tokens/second, priced $1/M input, $2/M output tokens",
+      "Trained for agentic coding: web development, debugging, MCP support",
+      "Available via xAI API, OpenRouter, Vercel AI Gateway in public beta"
+    ],
+    "why_it_matters": "Developers gain fast, affordable agentic coding model for building and debugging applications at scale.",
+    "tags": [
+      "model-release",
+      "coding",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:37Z"
+  },
+  {
+    "id": "aaee48ad131b",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+    "original_title": "May 25, 2026AnnouncementsAnthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "headline": "Anthropic co-founder discusses AI ethics at Vatican encyclical event",
+    "bullets": [
+      "Chris Olah spoke at Pope Leo XIV's encyclical presentation on AI and human dignity in Vatican City.",
+      "Olah emphasized AI labs face commercial and geopolitical pressures conflicting with safety priorities.",
+      "He identified three key discernment areas: global wealth distribution, human flourishing, and understanding AI model internals."
+    ],
+    "why_it_matters": "Highlights need for external oversight and moral guidance from non-technical communities in AI development governance.",
+    "tags": [
+      "safety",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:31Z"
+  },
+  {
+    "id": "2e779f2f08bd",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/milan-office-opening",
+    "original_title": "May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers",
+    "headline": "Anthropic opens Milan office to expand European presence",
+    "bullets": [
+      "Sixth European office; serves Italian enterprises, researchers, and developers with Claude",
+      "Italian companies like Generali, Enel, Satispay already deploying Claude across teams",
+      "Satispay compressed 18-month roadmap to seven months using Claude for engineering"
+    ],
+    "why_it_matters": "Anthropic strengthens European footprint and demonstrates Claude adoption across finance, energy, and tech sectors.",
+    "tags": [
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:26Z"
+  },
+  {
+    "id": "a3d8c6fadccf",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/series-h",
+    "original_title": "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation",
+    "headline": "Anthropic raises $65B at $965B valuation, hits $47B revenue",
+    "bullets": [
+      "Series H funding led by Altimeter, Dragoneer, Greenoaks, Sequoia; includes $15B from hyperscalers.",
+      "Run-rate revenue crossed $47 billion; Claude deployed across enterprise operations globally.",
+      "New compute agreements: 5GW from Amazon, 5GW TPU from Google/Broadcom, GPU access from SpaceX."
+    ],
+    "why_it_matters": "Massive capital and compute expansion signals Anthropic's dominance in enterprise AI deployment and infrastructure scaling.",
+    "tags": [
+      "pricing",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:19Z"
+  },
+  {
+    "id": "918121c45d59",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "original_title": "Introducing Claude Opus 4.8ProductMay 28, 2026An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "headline": "Claude Opus 4.8 launches with improved coding and agentic capabilities",
+    "bullets": [
+      "Opus 4.8 scores 84% on Online-Mind2Web browser tasks, outperforming Opus 4.7 and GPT-5.5.",
+      "Fast mode now 3× cheaper; dynamic workflows enable parallel subagents for large-scale tasks.",
+      "Model shows 4× fewer unremarked code flaws; improved honesty and alignment assessment results."
+    ],
+    "why_it_matters": "Developers building agents and autonomous systems gain more reliable, cost-effective tooling for production workloads.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-05-29T10:02:16Z"
+  },
+  {
+    "id": "c4a9a577612d",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/endava",
+    "original_title": "How Endava builds an agentic organization with Codex",
+    "headline": "Endava scales engineering with Codex agentic organization model",
+    "bullets": [
+      "Endava reduced requirements analysis from weeks to hours using Codex across full delivery lifecycle.",
+      "Senior architects codify expertise into Codex agents, enabling junior developers to produce senior-level outputs.",
+      "Legal team compressed contract review specification from weeks to two meetings using Codex transcripts."
+    ],
+    "why_it_matters": "Organizations can compress delivery timelines and democratize senior expertise by embedding architectural knowledge into AI agents.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": "2026-05-28T12:00:00+00:00",
+    "fetched_at": "2026-05-29T10:02:04Z"
+  },
+  {
     "id": "e04e3432fb0a",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -195,6 +390,49 @@
     ],
     "published": null,
     "fetched_at": "2026-05-28T10:13:22Z"
+  },
+  {
+    "id": "cb031b5cf3e3",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/mufg",
+    "original_title": "MUFG aims to become AI-native with OpenAI",
+    "headline": "MUFG deploys ChatGPT Enterprise to 35,000 employees for AI transformation",
+    "bullets": [
+      "Mitsubishi UFJ Bank rolled out ChatGPT Enterprise to approximately 35,000 employees starting 2026.",
+      "100% training participation; employees created 1,800+ custom GPTs in four months.",
+      "Selected research tasks showed 20-30% workload reduction; focus shifting to customer value."
+    ],
+    "why_it_matters": "Demonstrates large-scale enterprise AI adoption in regulated finance, showing path for organizational transformation beyond efficiency gains.",
+    "tags": [
+      "product",
+      "adoption",
+      "tooling"
+    ],
+    "published": "2026-05-28T00:00:00+00:00",
+    "fetched_at": "2026-05-29T10:02:07Z"
+  },
+  {
+    "id": "3e9dde27d098",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "original_title": "OpenAI’s Frontier Governance Framework",
+    "headline": "OpenAI publishes governance framework for frontier AI safety",
+    "bullets": [
+      "Framework aligns safety practices with California Transparency Act and EU AI Act requirements.",
+      "Covers risk assessment for cyber offense, CBRN, manipulation, loss of control scenarios.",
+      "Built on OpenAI's Preparedness Framework; includes incident response and external expert input."
+    ],
+    "why_it_matters": "Establishes transparent regulatory compliance standards as frontier AI governance requirements accelerate globally.",
+    "tags": [
+      "safety",
+      "research"
+    ],
+    "published": "2026-05-28T00:00:00+00:00",
+    "fetched_at": "2026-05-29T10:02:11Z"
   },
   {
     "id": "885b9f75e714",
