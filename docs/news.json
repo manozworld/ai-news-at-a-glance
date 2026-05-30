@@ -1,5 +1,49 @@
 [
   {
+    "id": "e63fa88b5624",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "original_title": "Boston Children’s uses AI to unlock new diagnoses",
+    "headline": "Boston Children's Hospital diagnoses 40+ rare diseases using AI infrastructure",
+    "bullets": [
+      "Deployed enterprise ChatGPT layer across clinical, research, and administrative teams hospital-wide.",
+      "Diagnosed 40+ previously unresolved rare conditions using AI-integrated genetic and medical data synthesis.",
+      "Captured 60,000 hours in time savings ($7M+ labor redeployment) across 50+ operational automations."
+    ],
+    "why_it_matters": "Demonstrates AI's potential to solve previously intractable medical problems while reducing operational costs at scale.",
+    "tags": [
+      "product",
+      "safety",
+      "research"
+    ],
+    "published": "2026-05-29T12:00:00+00:00",
+    "fetched_at": "2026-05-30T08:33:18Z"
+  },
+  {
+    "id": "507ec0fdf629",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/braintrust",
+    "original_title": "How Braintrust turns customer requests into code with Codex",
+    "headline": "Braintrust ships customer features in minutes using Codex",
+    "bullets": [
+      "Braintrust team converts feature requests to preview branches using Codex with GPT-5.5",
+      "50% of engineering team adopted Codex within one month for faster iteration",
+      "Speed enables real-time customer feedback loops instead of backlog queuing"
+    ],
+    "why_it_matters": "Faster code generation reduces feature request cycle time, enabling real-time customer collaboration and experimentation.",
+    "tags": [
+      "coding",
+      "product",
+      "api"
+    ],
+    "published": "2026-05-29T12:00:00+00:00",
+    "fetched_at": "2026-05-30T08:33:21Z"
+  },
+  {
     "id": "c401ee87a219",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -171,6 +215,71 @@
     ],
     "published": null,
     "fetched_at": "2026-05-29T10:02:16Z"
+  },
+  {
+    "id": "8337eeb248ea",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "original_title": "Strengthening societal resilience with Rosalind Biodefense",
+    "headline": "OpenAI launches Rosalind Biodefense program for trusted partners",
+    "bullets": [
+      "Rosalind Biodefense enables vetted developers to build pandemic preparedness and biodefense applications using GPT-Rosalind.",
+      "Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners supporting public health missions.",
+      "Program supports epidemiological modeling, early detection, screening, and medical countermeasure development across biological defense lifecycle."
+    ],
+    "why_it_matters": "Concentrates advanced AI capabilities with vetted defenders to strengthen pandemic preparedness and biological threat response infrastructure.",
+    "tags": [
+      "product",
+      "safety",
+      "research"
+    ],
+    "published": "2026-05-29T03:00:00+00:00",
+    "fetched_at": "2026-05-30T08:33:25Z"
+  },
+  {
+    "id": "33e1df4abe4e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "original_title": "A shared playbook for trustworthy third party evaluations",
+    "headline": "OpenAI shares framework for evaluating frontier AI model safety",
+    "bullets": [
+      "Third-party evaluations must account for modern models' tool use, state management, and multi-step reasoning capabilities.",
+      "Evaluation reports should specify claims tested, validity evidence, and potential confounds like reward hacking or contamination.",
+      "Harness design critically impacts measured capability; standardized setups enable fair comparison but may understate performance."
+    ],
+    "why_it_matters": "Standardized evaluation practices improve transparency and reliability of AI safety claims, enabling better industry oversight.",
+    "tags": [
+      "safety",
+      "research"
+    ],
+    "published": "2026-05-29T00:00:00+00:00",
+    "fetched_at": "2026-05-30T08:33:30Z"
+  },
+  {
+    "id": "357d064be869",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "original_title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "headline": "PyTorch profiling guide teaches optimization through torch.profiler",
+    "bullets": [
+      "Educational series starting with matrix multiplication, scaling to LLMs with transformers",
+      "Teaches reading profiler tables and traces to identify CPU/GPU bottlenecks and kernel launches",
+      "Demonstrates torch.compile impact on execution chains from Python calls to CUDA kernels"
+    ],
+    "why_it_matters": "Developers can systematically optimize model performance by understanding profiler output and identifying GPU underutilization.",
+    "tags": [
+      "tooling",
+      "coding",
+      "research"
+    ],
+    "published": "2026-05-29T00:00:00+00:00",
+    "fetched_at": "2026-05-30T08:33:41Z"
   },
   {
     "id": "c4a9a577612d",
