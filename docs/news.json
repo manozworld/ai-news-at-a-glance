@@ -1,5 +1,27 @@
 [
   {
+    "id": "7c8c63c46b4b",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "original_title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "headline": "NVIDIA Cosmos 3 unified model handles robotics and world simulation",
+    "bullets": [
+      "Single omni-model combines video generation, physical reasoning, and action prediction in one forward pass",
+      "Two sizes: Cosmos 3 Nano (8B) runs on RTX PRO 6000; Cosmos 3 Super (32B) for large-scale synthetic data",
+      "Integrated with Hugging Face Diffusers; supports text, image, video, audio, and action inputs"
+    ],
+    "why_it_matters": "Developers can now build robotics and autonomous systems with one foundation model instead of juggling separate pipelines.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "agents"
+    ],
+    "published": "2026-06-01T04:44:55+00:00",
+    "fetched_at": "2026-06-01T11:45:11Z"
+  },
+  {
     "id": "e63fa88b5624",
     "provider_id": "openai",
     "provider_name": "OpenAI",
