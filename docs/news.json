@@ -1,5 +1,178 @@
 [
   {
+    "id": "1410b1a514a7",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/composer-2-5",
+    "original_title": "Jun 1, 2026Composer 2.5Latest postJun 1, 2026Composer 2.5Composer 2.5 is now available in Grok Build. Try it from the /models menu.Read More",
+    "headline": "xAI releases Composer 2.5 model in Grok Build",
+    "bullets": [
+      "Composer 2.5 now available in Grok Build via /models menu for SuperGrok and X Premium+ users",
+      "Model excels at long-running tasks and complex instruction following with fast inference",
+      "Access via CLI install or web interface; positioned as xAI's latest coding model"
+    ],
+    "why_it_matters": "Developers gain faster, more capable model for complex coding tasks and long-context work.",
+    "tags": [
+      "model-release",
+      "coding",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-02T10:45:16Z"
+  },
+  {
+    "id": "ea58427a703f",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "original_title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
+    "headline": "Anthropic confidentially files S-1 registration statement with SEC",
+    "bullets": [
+      "Anthropic submitted draft S-1 to SEC for proposed initial public offering of common stock.",
+      "IPO timing depends on SEC review completion, market conditions, and other factors.",
+      "Share count and pricing not yet determined; announcement made under Securities Act Rule 135."
+    ],
+    "why_it_matters": "Signals Anthropic's path toward public markets, potentially increasing capital access and market transparency.",
+    "tags": [
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-02T10:45:10Z"
+  },
+  {
+    "id": "8c810ea5d0c7",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "original_title": "Codex is becoming a productivity tool for everyone",
+    "headline": "Codex expands beyond coding to knowledge worker productivity",
+    "bullets": [
+      "5 million weekly active users, 6x growth since February desktop launch",
+      "Knowledge workers now 20% of users, growing 3x faster than developers",
+      "Primary uses: reports, spreadsheets, data analysis, workflow automation, research"
+    ],
+    "why_it_matters": "AI automation is shifting from developer-only tools to broad workplace productivity, potentially reshaping job scope and career trajectories.",
+    "tags": [
+      "product",
+      "coding",
+      "tooling"
+    ],
+    "published": "2026-06-02T02:00:00+00:00",
+    "fetched_at": "2026-06-02T10:44:43Z"
+  },
+  {
+    "id": "c8b9a6b007c1",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "original_title": "Our views on AI policy and political advocacy",
+    "headline": "OpenAI outlines AI policy stance, rejects political action committees",
+    "bullets": [
+      "OpenAI has not created employee PACs, donated to super PACs, or funded political candidates.",
+      "Company clarifies that employee political activities are personal, not representative of OpenAI's positions.",
+      "OpenAI advocates for thoughtful regulation, safety standards, and broad AI access transparency."
+    ],
+    "why_it_matters": "Clarifies OpenAI's governance approach amid growing corporate political involvement in AI policy debates.",
+    "tags": [
+      "policy",
+      "safety"
+    ],
+    "published": "2026-06-01T17:00:00+00:00",
+    "fetched_at": "2026-06-02T10:44:46Z"
+  },
+  {
+    "id": "2995ca1c3636",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "original_title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "headline": "JetBrains releases Mellum2, efficient 12B mixture-of-experts model",
+    "bullets": [
+      "12B parameters with 2.5B active per token; 2x faster inference than similar models",
+      "Optimized for code and text; supports routing, RAG, agents, and private deployment",
+      "Apache 2.0 licensed; designed for latency-sensitive production workloads"
+    ],
+    "why_it_matters": "Enables cost-effective, fast inference for intermediate AI system tasks without requiring large frontier models.",
+    "tags": [
+      "model-release",
+      "coding",
+      "open-weights"
+    ],
+    "published": "2026-06-01T15:45:17+00:00",
+    "fetched_at": "2026-06-02T10:45:19Z"
+  },
+  {
+    "id": "65ae950e23b0",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "original_title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "headline": "Agent Logic Reduces LLM Token Use, Enables Enterprise AI Scaling",
+    "bullets": [
+      "IBM's agent logic approach achieves 30× lower token consumption on legacy code understanding tasks.",
+      "Test generation agents improve code coverage 20-45% with 15× fewer tokens than baseline LLMs.",
+      "Knowledge graphs and program analysis steer LLMs toward enterprise workflows, reducing hallucinations and costs."
+    ],
+    "why_it_matters": "Structured agent logic makes AI practical for enterprises by cutting costs and improving reliability in mission-critical workflows.",
+    "tags": [
+      "agents",
+      "coding",
+      "research"
+    ],
+    "published": "2026-06-01T13:51:18+00:00",
+    "fetched_at": "2026-06-02T10:45:23Z"
+  },
+  {
+    "id": "dadd123def02",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "original_title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "headline": "OpenAI breaks ground on 1GW Michigan data center with community commitments",
+    "bullets": [
+      "The Barn data center in Saline, Michigan will create 2,500 union construction jobs plus 450 permanent positions.",
+      "OpenAI commits $45 million in Codex credits for 400,000+ Michigan college and trade school students.",
+      "Project projected to generate $1 billion in tax revenue; local residents protected from infrastructure cost increases."
+    ],
+    "why_it_matters": "Demonstrates how large AI infrastructure projects can integrate labor partnerships, community investment, and workforce development at scale.",
+    "tags": [
+      "product",
+      "pricing",
+      "agents"
+    ],
+    "published": "2026-06-01T12:00:00+00:00",
+    "fetched_at": "2026-06-02T10:44:50Z"
+  },
+  {
+    "id": "00ed5eb9be7b",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "original_title": "OpenAI frontier models and Codex are now available on AWS",
+    "headline": "OpenAI models and Codex now available on AWS Bedrock",
+    "bullets": [
+      "GPT-5.5 and frontier models accessible via Amazon Bedrock with AWS security controls",
+      "Codex available to 5M+ weekly users for code writing, review, and debugging",
+      "Supports Commercial and GovCloud regions; future Daybreak cyber tools planned"
+    ],
+    "why_it_matters": "Enterprises can deploy OpenAI capabilities within existing AWS workflows, reducing procurement and security barriers to production AI adoption.",
+    "tags": [
+      "product",
+      "api",
+      "coding"
+    ],
+    "published": "2026-06-01T10:00:00+00:00",
+    "fetched_at": "2026-06-02T10:44:54Z"
+  },
+  {
     "id": "7c8c63c46b4b",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
