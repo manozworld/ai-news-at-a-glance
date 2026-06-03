@@ -1,5 +1,71 @@
 [
   {
+    "id": "67b62c8d9d32",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "original_title": "Jun 2, 2026AnnouncementsExpanding Project Glasswing",
+    "headline": "Anthropic expands Project Glasswing to 150 new security partners",
+    "bullets": [
+      "150 new organizations across 15+ countries gain access to Claude Mythos Preview for vulnerability scanning",
+      "Initial 50 partners found 10,000+ high/critical-severity security flaws in their codebases",
+      "Anthropic released Claude Security product using Claude Opus 4.8 for public codebase scanning"
+    ],
+    "why_it_matters": "Prepares critical infrastructure defenders for imminent widespread AI cyber capabilities by establishing secure access patterns before malicious actors deploy similar models.",
+    "tags": [
+      "safety",
+      "coding",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-03T11:09:22Z"
+  },
+  {
+    "id": "440b7646f576",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "original_title": "Holo3.1: Fast & Local Computer Use Agents",
+    "headline": "Holo3.1 brings computer-use agents to mobile, desktop, local deployment",
+    "bullets": [
+      "Four model sizes (0.8B to 35B) with quantized weights for local inference on consumer hardware",
+      "Mobile performance jumps to 79.3% on AndroidWorld; 25% improvement in agent framework compatibility",
+      "NVFP4 quantization delivers 1.74× throughput vs. full-precision, 2× end-to-end speedup on DGX Spark"
+    ],
+    "why_it_matters": "Developers can now deploy computer-use agents locally and privately across web, mobile, and desktop without cloud dependency.",
+    "tags": [
+      "model-release",
+      "agents",
+      "open-weights"
+    ],
+    "published": "2026-06-02T14:13:23+00:00",
+    "fetched_at": "2026-06-03T11:09:30Z"
+  },
+  {
+    "id": "6421a7340260",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/travelers",
+    "original_title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "headline": "Travelers launches nationwide AI voice claims assistant with OpenAI",
+    "bullets": [
+      "85-90% of customers complete auto claims through AI assistant without human intervention",
+      "Fully autonomous voice solution uses OpenAI Realtime API to handle policy questions and claim submission",
+      "Expanded from 8 states to nationwide in two months; handles 24/7 support during catastrophe events"
+    ],
+    "why_it_matters": "Demonstrates enterprise-scale deployment of real-time AI for customer-facing operations, reducing wait times and freeing human experts for complex cases.",
+    "tags": [
+      "voice",
+      "api",
+      "product"
+    ],
+    "published": "2026-06-02T12:00:00+00:00",
+    "fetched_at": "2026-06-03T11:09:10Z"
+  },
+  {
     "id": "1410b1a514a7",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -40,6 +106,49 @@
     ],
     "published": null,
     "fetched_at": "2026-06-02T10:45:10Z"
+  },
+  {
+    "id": "597005b4447f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "original_title": "Codex for every role, tool, and workflow",
+    "headline": "OpenAI expands Codex with role-specific plugins and shareable sites",
+    "bullets": [
+      "Six new plugins for analytics, creative, sales, design, investing, and banking roles launched today.",
+      "Sites feature lets teams create and share interactive dashboards and apps via URL in preview.",
+      "Non-developers now comprise 20% of Codex's 5M weekly users, growing 3x faster than developers."
+    ],
+    "why_it_matters": "Codex becomes accessible to non-technical teams, expanding AI productivity tools beyond software development into business operations.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": "2026-06-02T09:00:00+00:00",
+    "fetched_at": "2026-06-03T11:09:14Z"
+  },
+  {
+    "id": "00e733aa1592",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "original_title": "Advancing youth safety and opportunity through global leadership",
+    "headline": "OpenAI proposes global youth AI safety institute at G7 summit",
+    "bullets": [
+      "OpenAI calls for dedicated international institute to coordinate youth AI safety standards and research.",
+      "Proposes age-detection, annual risk assessments, parental controls, and content safeguards as core framework principles.",
+      "Building on initiatives like Common Sense Media's Youth AI Safety Institute and Estonia's school ChatGPT rollout."
+    ],
+    "why_it_matters": "Establishes coordinated global standards for protecting minors using AI while preserving educational benefits and access.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": "2026-06-02T07:00:00+00:00",
+    "fetched_at": "2026-06-03T11:09:18Z"
   },
   {
     "id": "8c810ea5d0c7",
