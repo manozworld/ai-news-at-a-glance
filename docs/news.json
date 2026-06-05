@@ -1,5 +1,49 @@
 [
   {
+    "id": "3c2e7a73efc4",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "original_title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "headline": "NVIDIA releases Nemotron 3.5 multimodal safety model with custom policies",
+    "bullets": [
+      "4B-parameter model evaluates text, images, and responses together in single pass",
+      "Supports 12 trained languages plus zero-shot generalization across ~140 languages",
+      "Custom policy enforcement allows domain-specific safety rules at inference time"
+    ],
+    "why_it_matters": "Enterprises can now deploy customizable, auditable content safety across languages and modalities without retraining.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "reasoning"
+    ],
+    "published": "2026-06-04T18:57:45+00:00",
+    "fetched_at": "2026-06-05T10:00:40Z"
+  },
+  {
+    "id": "d9c42ca0bc64",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "original_title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "headline": "EVA-Bench expands to three enterprise domains with 213 scenarios",
+    "bullets": [
+      "Covers Airline CSM, Enterprise ITSM, and Healthcare HRSD with 121 tools total",
+      "Validated against GPT-5.4, Gemini 3.1 Pro, and Claude Opus 4.6 for fairness",
+      "Open-source datasets with reproducible single-path resolution for each scenario"
+    ],
+    "why_it_matters": "Enables realistic evaluation of voice agents across diverse enterprise workflows with domain-specific complexity and authentication patterns.",
+    "tags": [
+      "research",
+      "agents",
+      "voice"
+    ],
+    "published": "2026-06-04T12:24:58+00:00",
+    "fetched_at": "2026-06-05T10:00:44Z"
+  },
+  {
     "id": "d0841d29a362",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -86,6 +130,71 @@
     ],
     "published": null,
     "fetched_at": "2026-06-04T10:03:18Z"
+  },
+  {
+    "id": "58a72a3a66c9",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "original_title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "headline": "OpenAI Launches Dreaming V3 for Smarter ChatGPT Memory",
+    "bullets": [
+      "New memory architecture automatically synthesizes context from chat history without explicit save requests.",
+      "Addresses staleness and correctness issues affecting hundreds of millions of users over multi-year periods.",
+      "Rolling out to Plus and Pro users in US; Free and Go users coming in following weeks."
+    ],
+    "why_it_matters": "ChatGPT can now maintain accurate, current context across conversations, reducing user friction and enabling better personalization at scale.",
+    "tags": [
+      "product",
+      "research"
+    ],
+    "published": "2026-06-04T09:00:00+00:00",
+    "fetched_at": "2026-06-05T10:00:25Z"
+  },
+  {
+    "id": "dbb39445d06e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "original_title": "Biodefense in the Intelligence Age",
+    "headline": "OpenAI launches biodefense plan with specialized AI model",
+    "bullets": [
+      "GPT-Rosalind: frontier reasoning model for biology, drug discovery, translational medicine research.",
+      "Rosalind Biodefense program enables trusted developers to build pandemic preparedness capabilities.",
+      "Action plan aims to strengthen biological security while enabling rapid threat detection."
+    ],
+    "why_it_matters": "Dual-use AI for biology requires balancing scientific progress with biosecurity safeguards and responsible governance.",
+    "tags": [
+      "model-release",
+      "safety",
+      "research"
+    ],
+    "published": "2026-06-04T00:00:00+00:00",
+    "fetched_at": "2026-06-05T10:00:28Z"
+  },
+  {
+    "id": "431ad766fff6",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "original_title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "headline": "Hugging Face CLI redesigned for AI coding agents",
+    "bullets": [
+      "hf CLI auto-detects agents (Claude Code, Codex, Cursor) via environment variables and renders output accordingly.",
+      "Agent mode uses TSV format with full data, no truncation, reducing token usage by 6× vs. manual curl/SDK.",
+      "CLI provides next-command hints and structured errors to guide agents through multi-step workflows."
+    ],
+    "why_it_matters": "Agents can now interact with Hugging Face Hub more efficiently, reducing token overhead and enabling autonomous workflows.",
+    "tags": [
+      "agents",
+      "tooling",
+      "api"
+    ],
+    "published": "2026-06-04T00:00:00+00:00",
+    "fetched_at": "2026-06-05T10:00:48Z"
   },
   {
     "id": "bfb45dcad644",
