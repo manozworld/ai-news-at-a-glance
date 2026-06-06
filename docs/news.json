@@ -1,5 +1,26 @@
 [
   {
+    "id": "7244f9fff96d",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/election-safeguards-update",
+    "original_title": "AnnouncementsApr 24, 2026An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+    "headline": "Anthropic strengthens Claude safeguards for global elections",
+    "bullets": [
+      "Claude Opus 4.7 and Sonnet 4.6 scored 95-96% on political bias evaluations across spectrum.",
+      "Models responded appropriately 99.8-100% on 600 election-related policy compliance tests.",
+      "Election banners direct US users to TurboVote for voter registration and polling locations."
+    ],
+    "why_it_matters": "Robust election safeguards help ensure AI systems provide balanced political information without enabling misinformation or interference.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-06T08:39:21Z"
+  },
+  {
     "id": "3c2e7a73efc4",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
