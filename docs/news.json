@@ -1,5 +1,27 @@
 [
   {
+    "id": "47468f27f93c",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "original_title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "headline": "Multi-agent game uses four different small models for emergent economy",
+    "bullets": [
+      "Thousand Token Wood v2 runs heterogeneous agents on gpt-oss-20b, MiniCPM3-4B, Nemotron-Mini-4B, and fine-tuned Qwen 0.5B models simultaneously.",
+      "Serving layer friction (vLLM CUDA toolkit requirements) solved with unified base image; JSON repair layer handles per-model formatting differences.",
+      "Information firewall prevents agents from accessing hidden tip flags via prompt scanning; persistent relationships use bounded sentiment summaries instead of raw history."
+    ],
+    "why_it_matters": "Demonstrates practical patterns for multi-model agent systems: heterogeneity improves emergent behavior, serving infrastructure matters more than model choice, and security requires data-layer enforcement.",
+    "tags": [
+      "agents",
+      "open-weights",
+      "tooling"
+    ],
+    "published": "2026-06-06T19:02:33+00:00",
+    "fetched_at": "2026-06-07T09:21:52Z"
+  },
+  {
     "id": "7244f9fff96d",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
