@@ -1,5 +1,111 @@
 [
   {
+    "id": "4fb2c1cac1f4",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+    "original_title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+    "headline": "Fine-tuned Gemma model helps ADHD users overcome task-initiation paralysis",
+    "bullets": [
+      "NeuroBait uses 12B Gemma 3 with 16-bit LoRA to provide warm, dopamine-sparking responses instead of overwhelming to-do lists.",
+      "Deployed on Hugging Face Spaces with ZeroGPU; trained on hand-curated ADHD-specific data emphasizing real friction points.",
+      "Delivers one tiny actionable step in 3-6 sentences, reconnecting users to what matters rather than clinical guidance."
+    ],
+    "why_it_matters": "Demonstrates how small, domain-specific fine-tuning can outperform base models for neurodivergent users by addressing actual behavioral barriers, not just symptoms.",
+    "tags": [
+      "model-release",
+      "product"
+    ],
+    "published": "2026-06-09T09:04:58+00:00",
+    "fetched_at": "2026-06-09T09:54:35Z"
+  },
+  {
+    "id": "41e74c1497e4",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "original_title": "Confidential submission of draft S-1 to the SEC",
+    "headline": "OpenAI files confidential S-1 with SEC, signals potential IPO",
+    "bullets": [
+      "OpenAI submitted draft S-1 filing to SEC on June 8, 2026.",
+      "Company remains private for now; IPO timing undecided, may take years.",
+      "Filing enables faster public transition if strategic conditions align."
+    ],
+    "why_it_matters": "Signals OpenAI's long-term capital strategy and potential shift toward public markets, affecting investor landscape.",
+    "tags": [
+      "product"
+    ],
+    "published": "2026-06-08T14:00:00+00:00",
+    "fetched_at": "2026-06-09T09:54:17Z"
+  },
+  {
+    "id": "e26a6d525948",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "original_title": "Built to benefit everyone: our plan",
+    "headline": "OpenAI outlines plan to distribute AI benefits globally",
+    "bullets": [
+      "OpenAI aims to build automated AI researchers by March 2028 to accelerate research alongside humans.",
+      "Company commits to making advanced AI abundant, affordable, and accessible to every person worldwide.",
+      "Safety and alignment remain central; human judgment and control must guide increasingly capable systems."
+    ],
+    "why_it_matters": "OpenAI's roadmap signals shift toward democratizing AI access while emphasizing human oversight over full automation.",
+    "tags": [
+      "product",
+      "safety",
+      "research"
+    ],
+    "published": "2026-06-08T01:30:00+00:00",
+    "fetched_at": "2026-06-09T09:54:21Z"
+  },
+  {
+    "id": "63685f806399",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "original_title": "Introducing the OpenAI Economic Research Exchange",
+    "headline": "OpenAI launches research program studying AI's economic impacts",
+    "bullets": [
+      "Platform funds external researchers studying AI effects on workers, firms, and economy",
+      "Selected projects get access to OpenAI tools and datasets with privacy safeguards",
+      "Applications open through July 5, 2026; decisions by July 31, 2026"
+    ],
+    "why_it_matters": "Provides empirical evidence on AI's economic effects to inform policy and business decisions during rapid technological change.",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "published": "2026-06-08T00:00:00+00:00",
+    "fetched_at": "2026-06-09T09:54:24Z"
+  },
+  {
+    "id": "fbaf22fcf62f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "original_title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "headline": "OpenEnv becomes community-governed standard for agent training",
+    "bullets": [
+      "OpenEnv moves to Hugging Face governance with committee including Meta, Nvidia, Unsloth, Modal, and others.",
+      "Standardizes agent environment interfaces using Gymnasium API, HTTP/WebSocket protocols, Docker packaging.",
+      "Focuses on interoperability layer for RL environments, not reward frameworks or training logic."
+    ],
+    "why_it_matters": "Enables open-source models to match proprietary agent training efficiency through standardized, composable infrastructure.",
+    "tags": [
+      "agents",
+      "open-weights",
+      "tooling"
+    ],
+    "published": "2026-06-08T00:00:00+00:00",
+    "fetched_at": "2026-06-09T09:54:38Z"
+  },
+  {
     "id": "47468f27f93c",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
