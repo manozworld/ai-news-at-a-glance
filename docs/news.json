@@ -1,5 +1,247 @@
 [
   {
+    "id": "15dd8e16f40a",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-gopuff",
+    "original_title": "Jun 9, 2026Powering Gopuff's Go agentJun 9, 2026Powering Gopuff's Go agentGopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.Read More",
+    "headline": "Gopuff launches Go shopping agent powered by Grok models",
+    "bullets": [
+      "Go uses Grok's text, audio, and image models for personalized shopping assistance in Gopuff app",
+      "Agent anticipates needs using 13 years of demand data, weather signals, and X/web real-time information",
+      "Visual shopping feed generates hyper-realistic product scenes; available now on iOS and Android in US"
+    ],
+    "why_it_matters": "Demonstrates multimodal AI agents handling real commerce workflows with personalization and real-time context integration.",
+    "tags": [
+      "agents",
+      "multimodal",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-10T10:11:41Z"
+  },
+  {
+    "id": "147a989f3e59",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "original_title": "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.",
+    "headline": "Anthropic releases Claude Fable 5 and Mythos 5 models",
+    "bullets": [
+      "Fable 5 is state-of-the-art on nearly all benchmarks, excels at software engineering and complex reasoning tasks.",
+      "Mythos 5 deployed via Project Glasswing for cyberdefenders; has strongest cybersecurity capabilities of any model.",
+      "Pricing cut to $10 per million input tokens, $50 per million output tokens—less than half previous cost."
+    ],
+    "why_it_matters": "Developers gain access to significantly more capable models at lower cost, enabling faster complex coding and knowledge work.",
+    "tags": [
+      "model-release",
+      "coding",
+      "reasoning"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-10T10:11:20Z"
+  },
+  {
+    "id": "2be94cf79940",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/lseg",
+    "original_title": "From data to decisions: how LSEG is scaling trusted AI",
+    "headline": "LSEG accelerates product cycles to two weeks using OpenAI",
+    "bullets": [
+      "Reduced product release cycles from 3-6 months to 2 weeks using ChatGPT Enterprise and APIs",
+      "Deployed AI across thousands of employees globally, enabling 4-week customer delivery timelines",
+      "Integrated OpenAI models with LSEG's trusted data via Model Context Protocol for client workflows"
+    ],
+    "why_it_matters": "Demonstrates how enterprise AI integration can dramatically compress development cycles and enable faster decision-making in regulated industries.",
+    "tags": [
+      "product",
+      "api",
+      "enterprise"
+    ],
+    "published": "2026-06-10T00:00:00+00:00",
+    "fetched_at": "2026-06-10T10:10:59Z"
+  },
+  {
+    "id": "7a24901e2115",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "original_title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "headline": "Benchmarking ASR Models on Code-Switched Bilingual Speech",
+    "bullets": [
+      "ServiceNow released benchmark dataset with 918 code-switched utterances across four language pairs for enterprise voice agents.",
+      "ElevenLabs Scribe V2, Gemini 3 Flash, and AssemblyAI Universal 3-Pro achieved top performance on transcription accuracy.",
+      "Three evaluation metrics (WER, SWER, AER) measure transcription accuracy, semantic preservation, and downstream task success."
+    ],
+    "why_it_matters": "Enables enterprises to evaluate voice agents for bilingual customers, ensuring accurate transcription in real support scenarios.",
+    "tags": [
+      "voice",
+      "research",
+      "multimodal"
+    ],
+    "published": "2026-06-09T19:38:28+00:00",
+    "fetched_at": "2026-06-10T10:11:45Z"
+  },
+  {
+    "id": "3b631680ec0a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "original_title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "headline": "Cohere releases North Mini Code, 30B sparse model for agentic coding",
+    "bullets": [
+      "30B-parameter MoE model with 3B active parameters, Apache 2.0 licensed on Hugging Face.",
+      "Scores 33.4 on Artificial Analysis Coding Index, outperforming larger models like Nemotron 3 Super (120B).",
+      "Trained with two-stage SFT plus reinforcement learning on 70k+ verifiable software engineering tasks."
+    ],
+    "why_it_matters": "Developers gain a compact, open-source coding agent foundation that matches or exceeds much larger proprietary models.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": "2026-06-09T15:56:23+00:00",
+    "fetched_at": "2026-06-10T10:11:49Z"
+  },
+  {
+    "id": "8065dada88d8",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "original_title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "headline": "Gemini 3.5 Live Translate enables real-time speech translation across 70+ languages",
+    "bullets": [
+      "Speech-to-speech translation in 70+ languages with near real-time latency, preserving speaker tone and pacing.",
+      "Rolling out to Gemini Live API, Google Meet private preview, and Google Translate mobile apps globally.",
+      "Handles multilingual inputs without manual configuration; noise-robust for unpredictable environments."
+    ],
+    "why_it_matters": "Developers can build seamless multilingual communication apps; enterprises gain 2000+ language pair combinations in meetings.",
+    "tags": [
+      "model-release",
+      "voice",
+      "api"
+    ],
+    "published": "2026-06-09T15:16:25+00:00",
+    "fetched_at": "2026-06-10T10:11:24Z"
+  },
+  {
+    "id": "9be096effcbb",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "original_title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "headline": "Google DeepMind releases Gemma 4 12B multimodal model for laptops",
+    "bullets": [
+      "Unified encoder-free architecture processes vision and audio directly without separate encoders.",
+      "Runs on consumer laptops with 16GB RAM; performance nears larger 26B model.",
+      "Native audio support, Apache 2.0 license, Multi-Token Prediction drafters for reduced latency."
+    ],
+    "why_it_matters": "Developers can now run advanced multimodal AI agents locally without cloud dependency or expensive hardware.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "agents"
+    ],
+    "published": "2026-06-09T14:10:19+00:00",
+    "fetched_at": "2026-06-10T10:11:28Z"
+  },
+  {
+    "id": "89b36a5b3c5b",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "original_title": "Powering the future of robotics in Europe",
+    "headline": "Google DeepMind launches three-month robotics accelerator for European startups",
+    "bullets": [
+      "15 European robotics startups selected for intensive mentorship and AI model access.",
+      "Companies focus on healthcare, manufacturing, waste sorting, and autonomous systems.",
+      "Participants gain access to Gemini robotics models and Google DeepMind technical expertise."
+    ],
+    "why_it_matters": "Accelerates physical AI adoption in Europe by connecting startups with advanced models and expert guidance for real-world robotics deployment.",
+    "tags": [
+      "product",
+      "agents",
+      "robotics"
+    ],
+    "published": "2026-06-09T14:02:33+00:00",
+    "fetched_at": "2026-06-10T10:11:31Z"
+  },
+  {
+    "id": "d484de5576e8",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/nextdoor",
+    "original_title": "How engineers at Nextdoor use Codex to build without limits",
+    "headline": "Nextdoor engineers use Codex for end-to-end product development",
+    "bullets": [
+      "Single engineers now build features across mobile, frontend, and backend without cross-team coordination.",
+      "Codex with GPT-5.4/5.5 debugs complex Rust systems and race conditions faster than traditional methods.",
+      "Engineering productivity increased so much that strategy, not coding, became the bottleneck."
+    ],
+    "why_it_matters": "AI agents enable individual engineers to own full product experiences, compressing development cycles and shifting organizational focus from execution to strategic planning.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-06-09T12:00:00+00:00",
+    "fetched_at": "2026-06-10T10:11:02Z"
+  },
+  {
+    "id": "92ae8342b636",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "original_title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "headline": "Agent chains Hugging Face Spaces to build 3D monument galleries",
+    "bullets": [
+      "Agent automatically generated Paris monument images via Ideogram, then reconstructed 3D Gaussian splats using TripoSplat.",
+      "agents.md exposes Space APIs as plain-text schemas, enabling agents to chain outputs without custom integration code.",
+      "New galleries (Egypt, Japan) created with single-sentence prompts, demonstrating reusable multimedia pipelines."
+    ],
+    "why_it_matters": "Agents can now compose AI models across organizations by chaining documented Spaces, dramatically lowering multimedia app development costs.",
+    "tags": [
+      "agents",
+      "multimodal",
+      "product"
+    ],
+    "published": "2026-06-09T10:46:19+00:00",
+    "fetched_at": "2026-06-10T10:11:53Z"
+  },
+  {
+    "id": "e8e11bcb3ae6",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/notion",
+    "original_title": "What Codex unlocks for Notion",
+    "headline": "Notion cuts feature development time from weeks to hours with Codex",
+    "bullets": [
+      "Notion engineer built voice input feature in 3-4 hours solo, previously took two engineers two weeks",
+      "Codex explores codebases autonomously, writes production-ready code matching existing standards without manual cleanup",
+      "Engineers now run multiple parallel tasks; managers ship features while supporting teams, previously impossible"
+    ],
+    "why_it_matters": "AI coding agents enable small teams to ship complex features faster while freeing engineers for higher-level work and mentorship.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-06-09T10:00:00+00:00",
+    "fetched_at": "2026-06-10T10:11:06Z"
+  },
+  {
     "id": "4fb2c1cac1f4",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
@@ -21,6 +263,49 @@
     "fetched_at": "2026-06-09T09:54:35Z"
   },
   {
+    "id": "31f4bff2af38",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "original_title": "Industrial policy for the Intelligence Age",
+    "headline": "OpenAI proposes people-first policies for AI-driven economy",
+    "bullets": [
+      "OpenAI launching fellowship program with grants up to $100K and $1M API credits",
+      "Opening Washington DC workshop in May to convene policy discussions",
+      "Received 400+ responses to industrial policy framework; now reviewing grant recipients"
+    ],
+    "why_it_matters": "Shapes how AI benefits are distributed economically and institutionally as capabilities advance.",
+    "tags": [
+      "policy",
+      "research"
+    ],
+    "published": "2026-06-09T00:00:00+00:00",
+    "fetched_at": "2026-06-10T10:11:10Z"
+  },
+  {
+    "id": "eb987eaf1883",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "original_title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "headline": "Run GitHub CI jobs on Hugging Face infrastructure with GPU support",
+    "bullets": [
+      "Hugging Face Jobs dispatcher bridges GitHub Actions to HF serverless infrastructure for CPU and GPU testing.",
+      "Trackio reduced CPU CI time by 30% and enabled GPU test suites without maintaining dedicated runners.",
+      "Setup involves duplicating dispatcher Space, creating GitHub App, and labeling workflows with hf-jobs-* runners."
+    ],
+    "why_it_matters": "ML projects can now run GPU-accelerated CI tests without maintaining expensive hardware or paying GitHub's premium rates.",
+    "tags": [
+      "tooling",
+      "product",
+      "api"
+    ],
+    "published": "2026-06-09T00:00:00+00:00",
+    "fetched_at": "2026-06-10T10:11:57Z"
+  },
+  {
     "id": "41e74c1497e4",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -39,6 +324,28 @@
     ],
     "published": "2026-06-08T14:00:00+00:00",
     "fetched_at": "2026-06-09T09:54:17Z"
+  },
+  {
+    "id": "e28e77d243e8",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "original_title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "headline": "AI tutoring tool boosts math learning in Sierra Leone trial",
+    "bullets": [
+      "1,763 students across 12 schools showed +0.258 standard deviation math gains in 8-week RCT.",
+      "Gemini posed scaffolding questions in 76% of interactions, direct answers only 2%.",
+      "69% of students met usage targets; skill-building queries rose from 68% to 90%."
+    ],
+    "why_it_matters": "Demonstrates AI can augment teacher effectiveness and improve learning outcomes when pedagogically designed, informing responsible AI deployment in education.",
+    "tags": [
+      "research",
+      "product",
+      "safety"
+    ],
+    "published": "2026-06-08T13:04:59+00:00",
+    "fetched_at": "2026-06-10T10:11:35Z"
   },
   {
     "id": "e26a6d525948",
