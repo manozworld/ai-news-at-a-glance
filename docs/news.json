@@ -1,5 +1,136 @@
 [
   {
+    "id": "e3809d6b6461",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-etoro",
+    "original_title": "Jun 10, 2026Bringing real-time market sentiment to Tori, from eToroJun 10, 2026Bringing real-time market sentiment to Tori, from eToroTori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.Read More",
+    "headline": "eToro's Tori AI agent gains real-time market sentiment via xAI",
+    "bullets": [
+      "Tori now analyzes live market mood using xAI's text models and X platform data",
+      "eToro serves 40M+ users across 75 countries with AI-powered investing insights",
+      "xAI APIs available for developers building sentiment dashboards and research tools"
+    ],
+    "why_it_matters": "Developers can now build market intelligence tools with real-time social sentiment data via xAI's API.",
+    "tags": [
+      "agents",
+      "api",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-11T10:45:36Z"
+  },
+  {
+    "id": "436a674e3bf2",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "original_title": "How an astrophysicist uses Codex to help simulate black holes",
+    "headline": "Astrophysicist uses Codex to accelerate black hole plasma simulations",
+    "bullets": [
+      "Codex helps derive algorithms for modeling trillions of electrons and ions spiraling around black holes.",
+      "New mathematical approaches could reduce computational timesteps, enabling previously impossible large-scale simulations.",
+      "Researcher tests AI-generated algorithms rigorously before acceptance, treating them like any scientific hypothesis."
+    ],
+    "why_it_matters": "AI-assisted algorithm discovery could unlock realistic simulations of extreme physics near black holes, advancing astrophysical understanding.",
+    "tags": [
+      "coding",
+      "research",
+      "product"
+    ],
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-11T10:45:04Z"
+  },
+  {
+    "id": "8875a0080dac",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "original_title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "headline": "OpenAI backs EU code for transparent AI-generated content",
+    "bullets": [
+      "OpenAI supports EU Code of Practice on AI content transparency, building on C2PA metadata work since 2024.",
+      "Multi-layered provenance approach combines C2PA credentials, SynthID watermarks, and public verification tool at openai.com/verify.",
+      "Joined C2PA Steering Committee to advance interoperable standards across industry for detecting AI-generated images."
+    ],
+    "why_it_matters": "Standardized provenance methods help users identify AI-generated content and combat disinformation at scale.",
+    "tags": [
+      "product",
+      "safety",
+      "api"
+    ],
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-11T10:45:11Z"
+  },
+  {
+    "id": "4600462b11c1",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "original_title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "headline": "OpenAI models now accessible via Oracle Cloud commitments",
+    "bullets": [
+      "Oracle customers can apply Universal Credits toward OpenAI models and Codex starting in coming weeks.",
+      "Eliminates separate purchasing process; integrates with existing Oracle Cloud Infrastructure workflows.",
+      "Enables enterprises to deploy AI applications while maintaining established procurement and governance frameworks."
+    ],
+    "why_it_matters": "Reduces adoption friction for enterprises by aligning AI deployment with existing cloud investments and procurement processes.",
+    "tags": [
+      "api",
+      "product",
+      "pricing"
+    ],
+    "published": "2026-06-10T20:00:00+00:00",
+    "fetched_at": "2026-06-11T10:45:17Z"
+  },
+  {
+    "id": "d9665153cdf2",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "original_title": "DiffusionGemma: 4x faster text generation",
+    "headline": "Google DeepMind releases DiffusionGemma for 4x faster text generation",
+    "bullets": [
+      "26B MoE model generates 256 tokens in parallel, achieving 1000+ tokens/sec on H100 GPUs",
+      "Uses diffusion-based approach instead of sequential token prediction for local inference",
+      "Apache 2.0 licensed, fits in 18GB VRAM when quantized, optimized for interactive workflows"
+    ],
+    "why_it_matters": "Enables real-time local AI applications with dramatically reduced latency for speed-critical tasks like code editing and inline generation.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "coding"
+    ],
+    "published": "2026-06-10T16:24:11+00:00",
+    "fetched_at": "2026-06-11T10:45:29Z"
+  },
+  {
+    "id": "c71f854be1a8",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "original_title": "PRC-linked influence operations are targeting AI debates in the US",
+    "headline": "OpenAI exposes Chinese influence operations targeting US AI policy debates",
+    "bullets": [
+      "Two ChatGPT account clusters banned for spreading false narratives about data center electricity costs and US tariffs.",
+      "Operations attempted to manipulate legitimate AI policy discussions while concealing Chinese origin and intent.",
+      "No evidence of significant public opinion shift, but reveals foreign actors testing influence tactics on AI infrastructure."
+    ],
+    "why_it_matters": "Demonstrates adversaries exploiting AI systems for covert influence campaigns, requiring industry vigilance in detecting and disrupting foreign manipulation of democratic debates.",
+    "tags": [
+      "safety",
+      "research"
+    ],
+    "published": "2026-06-10T12:00:00+00:00",
+    "fetched_at": "2026-06-11T10:45:20Z"
+  },
+  {
     "id": "15dd8e16f40a",
     "provider_id": "xai",
     "provider_name": "xAI",
