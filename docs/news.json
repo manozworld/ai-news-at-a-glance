@@ -1,5 +1,92 @@
 [
   {
+    "id": "ec20be66493b",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-plugin-marketplace",
+    "original_title": "Jun 11, 2026Grok Build Plugin MarketplaceJun 11, 2026Grok Build Plugin MarketplaceLaunching the built-in plugin marketplace for Grok Build.Read More",
+    "headline": "xAI launches plugin marketplace for Grok Build IDE",
+    "bullets": [
+      "Built-in marketplace with plugins from MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare at launch",
+      "Install plugins via /marketplace command or CLI; all remote plugins pinned to specific commit SHA",
+      "Open catalog allows developers to submit plugins via pull request to xai-org/plugin-marketplace"
+    ],
+    "why_it_matters": "Extends Grok Build's capabilities through curated integrations, reducing setup friction for developers using popular tools.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-12T10:21:41Z"
+  },
+  {
+    "id": "27ec170172da",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "original_title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "headline": "DXC to deploy Claude across banking, airline, insurance systems",
+    "bullets": [
+      "DXC will train tens of thousands of Claude-certified engineers embedded in customer organizations.",
+      "Claude generated 95% of code for DXC OASIS, DXC's new AI-native orchestration platform.",
+      "Alliance covers insurance, legacy modernization, cybersecurity, and application services for regulated industries."
+    ],
+    "why_it_matters": "Brings Claude into mission-critical systems for banks, airlines, and insurers, expanding enterprise AI adoption in highly regulated sectors.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-12T10:21:33Z"
+  },
+  {
+    "id": "e1ca2354b2dc",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "original_title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "headline": "Anthropic launches Claude Corps fellowship for AI-nonprofit partnerships",
+    "bullets": [
+      "1,000 fellows receive $85,000 salary plus training to work full-time at nonprofits for 12 months",
+      "Anthropic commits $150 million initial funding; 400+ nonprofits will host fellows across America",
+      "Partnership with CodePath and Social Finance provides ongoing mentorship, technical support, and program evaluation"
+    ],
+    "why_it_matters": "Distributes AI expertise to underserved communities while building workforce skills during economic transition.",
+    "tags": [
+      "product",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-12T10:21:29Z"
+  },
+  {
+    "id": "dcc2fd07a9e8",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/preply",
+    "original_title": "How Preply combines AI and human tutors to personalize learning",
+    "headline": "Preply deploys OpenAI to generate personalized lesson summaries for tutors",
+    "bullets": [
+      "Lesson Insights uses OpenAI APIs to analyze transcripts and generate grammar, vocabulary, pronunciation feedback after each lesson.",
+      "75% of English learners actively use the feature; 70%+ tutors adopt it with 4.7/5 satisfaction rating.",
+      "94% of Preply engineers use Codex for code generation, reducing routine tasks to focus on product development."
+    ],
+    "why_it_matters": "AI augments human tutoring by automating administrative work, enabling personalized feedback at scale while preserving human connection.",
+    "tags": [
+      "product",
+      "api",
+      "multimodal"
+    ],
+    "published": "2026-06-12T00:00:00+00:00",
+    "fetched_at": "2026-06-12T10:21:14Z"
+  },
+  {
     "id": "e3809d6b6461",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -66,6 +153,72 @@
     "fetched_at": "2026-06-11T10:45:11Z"
   },
   {
+    "id": "6600f3e4b964",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "original_title": "OpenAI to acquire Ona",
+    "headline": "OpenAI acquires Ona for secure agent infrastructure",
+    "bullets": [
+      "Ona's cloud execution technology enables Codex agents to work persistently across sessions and devices.",
+      "Codex now has 5M weekly users, up 400% this year, expanding beyond software developers.",
+      "Ona's customer-controlled environments let enterprises deploy agents securely with full governance control."
+    ],
+    "why_it_matters": "Enterprises can now deploy long-running AI agents in production with security and control requirements met.",
+    "tags": [
+      "agents",
+      "product",
+      "safety"
+    ],
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-12T10:21:18Z"
+  },
+  {
+    "id": "a9f0898c4190",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/bbva",
+    "original_title": "BBVA puts AI at the core of banking with OpenAI",
+    "headline": "BBVA deploys ChatGPT Enterprise across 100,000 employees for banking transformation",
+    "bullets": [
+      "100,000+ BBVA employees globally use ChatGPT Enterprise; 20,000+ custom GPTs built internally.",
+      "Employees save ~3 hours weekly; Peru deployment cut query times from 7.5 to 1 minute.",
+      "Strategic alliance covers customer experience, risk analysis, operations, and software development."
+    ],
+    "why_it_matters": "Demonstrates how regulated financial institutions can scale generative AI securely across entire organizations with measurable efficiency gains.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-12T10:21:22Z"
+  },
+  {
+    "id": "47d05adaf3b5",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "original_title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "headline": "PyTorch MLP profiling reveals kernel fusion opportunities",
+    "bullets": [
+      "nn.Linear uses aten::addmm kernel with bias epilogue, avoiding separate add operation",
+      "torch.compile provides minimal benefit for single Linear layers but enables fusion across multiple ops",
+      "Transpose operation rewrites tensor metadata only; no GPU kernel launched"
+    ],
+    "why_it_matters": "Understanding kernel fusion and profiler traces helps developers optimize deep learning model performance effectively.",
+    "tags": [
+      "tooling",
+      "coding",
+      "research"
+    ],
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-12T10:21:45Z"
+  },
+  {
     "id": "4600462b11c1",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -129,6 +282,28 @@
     ],
     "published": "2026-06-10T12:00:00+00:00",
     "fetched_at": "2026-06-11T10:45:20Z"
+  },
+  {
+    "id": "90b62352ebbd",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "original_title": "Investing in multi-agent AI safety research",
+    "headline": "Google DeepMind funds $10M multi-agent AI safety research globally",
+    "bullets": [
+      "Google DeepMind, Schmidt Sciences, and partners launch $10M funding call for multi-agent safety research worldwide.",
+      "Focus areas: sandboxes, agent networks, infrastructure protocols, and population-level oversight mechanisms.",
+      "Deadline August 8, 2026; addresses emergent behaviors when millions of independent AI agents interact."
+    ],
+    "why_it_matters": "Establishes foundational safety frameworks before widespread multi-agent deployment creates unpredictable systemic risks.",
+    "tags": [
+      "safety",
+      "agents",
+      "research"
+    ],
+    "published": "2026-06-10T10:21:19+00:00",
+    "fetched_at": "2026-06-12T10:21:36Z"
   },
   {
     "id": "15dd8e16f40a",
