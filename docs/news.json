@@ -1,5 +1,92 @@
 [
   {
+    "id": "c63ebd83a0f1",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "original_title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
+    "headline": "TCS partners with Anthropic to deploy Claude across regulated industries",
+    "bullets": [
+      "TCS will deploy Claude to 50,000 employees across 56 countries and build industry-specific solutions.",
+      "Focus areas include financial services, healthcare, public sector with claims processing and lending advisory.",
+      "TCS iON will deliver Claude training; teams contributing plugins to Claude Code ecosystem."
+    ],
+    "why_it_matters": "Brings enterprise-grade AI to regulated industries requiring high accuracy and auditability through established compliance expertise.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-13T09:23:23Z"
+  },
+  {
+    "id": "23b315c3d191",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "original_title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
+    "headline": "Anthropic survey reveals Americans want AI benefits with strict accountability",
+    "bullets": [
+      "48% of Americans rank disease curing as top AI hope; 64% fear job displacement most",
+      "Over 70% support government AI regulation; 47% want companies held legally liable for harm",
+      "Only 15% trust AI companies to decide how AI is developed and deployed"
+    ],
+    "why_it_matters": "Public opinion strongly favors regulatory oversight and corporate accountability, shaping policy pressure on AI developers.",
+    "tags": [
+      "research",
+      "safety"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-13T09:23:20Z"
+  },
+  {
+    "id": "b0d10e8dabf2",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "original_title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5AnnouncementsJun 12, 2026The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+    "headline": "US government orders Anthropic to suspend Fable 5 and Mythos 5 access",
+    "bullets": [
+      "Government cited national security concerns over a jailbreak method affecting Fable 5's safeguards.",
+      "Anthropic must disable both models for all users, including foreign employees, effective immediately.",
+      "Anthropic disputes the decision, arguing the vulnerability is narrow and present in competing models."
+    ],
+    "why_it_matters": "Sets precedent for government intervention in AI model deployments and raises questions about regulatory standards across the industry.",
+    "tags": [
+      "safety",
+      "product",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-13T09:23:16Z"
+  },
+  {
+    "id": "80b8efd89b1a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "original_title": "olmo-eval: An evaluation workbench for the model development loop",
+    "headline": "Allen AI releases olmo-eval, a workbench for iterative LLM development",
+    "bullets": [
+      "olmo-eval extends OLMES standard with flexible benchmark composition and multi-turn agentic evaluation support.",
+      "Modular design lets developers swap models, tools, and runtimes without rewriting benchmarks or evaluation logic.",
+      "Provides statistical analysis (standard error, minimum detectable effect) to distinguish real improvements from noise."
+    ],
+    "why_it_matters": "Streamlines the repetitive evaluation loop during model development, reducing time and cost while improving reproducibility.",
+    "tags": [
+      "tooling",
+      "research",
+      "agents"
+    ],
+    "published": "2026-06-12T15:56:10+00:00",
+    "fetched_at": "2026-06-13T09:23:29Z"
+  },
+  {
     "id": "ec20be66493b",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -63,6 +150,28 @@
     ],
     "published": null,
     "fetched_at": "2026-06-12T10:21:29Z"
+  },
+  {
+    "id": "e17db83823d2",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "original_title": "New OpenAI Academy courses for the next era of work",
+    "headline": "OpenAI launches three new Academy courses for workplace AI adoption",
+    "bullets": [
+      "Three courses cover AI Foundations, Applied AI Foundations, and Agents and Workflows",
+      "Partners include BCG, Accenture, and BBVA to help organizations build practical skills",
+      "Learners receive completion certificates and progress from single tasks to agent-assisted workflows"
+    ],
+    "why_it_matters": "Organizations can systematically build AI fluency across teams and convert individual AI use into repeatable, scalable workflows.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-06-12T10:00:00+00:00",
+    "fetched_at": "2026-06-13T09:23:12Z"
   },
   {
     "id": "dcc2fd07a9e8",
