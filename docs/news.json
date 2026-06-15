@@ -1,5 +1,27 @@
 [
   {
+    "id": "888bd1de6f40",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "original_title": "Introducing the OpenAI Partner Network",
+    "headline": "OpenAI launches partner network with $150M investment",
+    "bullets": [
+      "OpenAI Partner Network enables systems integrators, consultants, and tech firms to build and deploy AI solutions at enterprise scale.",
+      "Program targets 300,000 certified consultants by end of 2026 across three tiers: Select, Advanced, and Elite.",
+      "Partners like Accenture, Bain, BCG already deployed solutions: Paychex achieved 80% wait-time reduction with AI payroll system."
+    ],
+    "why_it_matters": "Enterprises can now access vetted partners to translate AI capabilities into measurable business outcomes through integrated deployment and change management.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": "2026-06-14T17:00:00+00:00",
+    "fetched_at": "2026-06-15T12:26:22Z"
+  },
+  {
     "id": "c63ebd83a0f1",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
