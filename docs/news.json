@@ -1,5 +1,49 @@
 [
   {
+    "id": "51b0395e5456",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-warp",
+    "original_title": "Jun 15, 2026Use Grok in Warp",
+    "headline": "Grok now available inside Warp terminal development environment",
+    "bullets": [
+      "Grok and X Premium subscribers can access grok-build-0.1 model in Warp terminal",
+      "Warp is agentic dev environment used by nearly one million developers",
+      "Setup requires downloading Warp, connecting SuperGrok subscription, selecting model"
+    ],
+    "why_it_matters": "Developers can leverage Grok AI directly in their terminal workflow without switching tools.",
+    "tags": [
+      "product",
+      "api",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-16T11:20:31Z"
+  },
+  {
+    "id": "74e694667f61",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/agent-dashboard",
+    "original_title": "Jun 15, 2026Agent Dashboard in Grok BuildJun 15, 2026Agent Dashboard in Grok BuildManage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.Read More",
+    "headline": "xAI launches Agent Dashboard for managing multiple Grok Build sessions",
+    "bullets": [
+      "Dashboard displays all coding sessions in one view, sorted by state and priority.",
+      "Peek at session output and reply without leaving dashboard; supports inline approvals.",
+      "Dispatch new agents, group by directory, and monitor parallel work from CLI or UI."
+    ],
+    "why_it_matters": "Developers can supervise multiple AI coding agents simultaneously, reducing context-switching and accelerating multi-task workflows.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-16T11:20:28Z"
+  },
+  {
     "id": "888bd1de6f40",
     "provider_id": "openai",
     "provider_name": "OpenAI",
