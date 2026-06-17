@@ -1,5 +1,93 @@
 [
   {
+    "id": "e2276f6ee0ea",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/introducing-powerpoint-addin",
+    "original_title": "Jun 16, 2026Grok for PowerPoint",
+    "headline": "Grok AI assistant now available as Microsoft PowerPoint add-in",
+    "bullets": [
+      "Generate full slide decks from outlines with web/X search integration and images",
+      "Edit existing presentations: add slides, apply styles, restructure sections via natural language",
+      "Free Microsoft 365 add-in; integrates with Grok connectors for emails, SharePoint, Google Drive"
+    ],
+    "why_it_matters": "Developers can integrate Grok into Office workflows; users create presentations faster with AI assistance.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-17T11:05:31Z"
+  },
+  {
+    "id": "774843208f32",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-imagine-video-1-5",
+    "original_title": "Jun 16, 2026Grok Imagine Video 1.5Jun 16, 2026Grok Imagine Video 1.5Improved quality at even faster speeds.Read More",
+    "headline": "Grok Imagine Video 1.5 launches with faster generation and improved motion",
+    "bullets": [
+      "Generates 6-second 720p videos in ~25 seconds, nearly double previous speed",
+      "Improves audio synthesis, physics simulation, and motion coherence across full clips",
+      "Now generally available on Imagine API with new workflow features: Projects, parallel agents, search"
+    ],
+    "why_it_matters": "Faster, higher-quality video generation with API access enables developers to build creative applications with realistic motion and synchronized audio.",
+    "tags": [
+      "model-release",
+      "video",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-17T11:05:28Z"
+  },
+  {
+    "id": "c7b6e0d15e34",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "original_title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "headline": "Strands Agents integrate LeRobot for sim-to-hardware robot workflows",
+    "bullets": [
+      "AWS open-source SDK composes LeRobot stack as AgentTools for unified robot orchestration",
+      "Single agent code deploys identically to MuJoCo simulation and physical SO-101 hardware",
+      "Datasets recorded in sim and on hardware share identical LeRobotDataset format"
+    ],
+    "why_it_matters": "Developers can now train and deploy robot policies end-to-end from Hub datasets without switching tools or rewriting code.",
+    "tags": [
+      "agents",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-06-17T10:18:05+00:00",
+    "fetched_at": "2026-06-17T11:05:35Z"
+  },
+  {
+    "id": "64d6b4cbeaac",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "original_title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "headline": "GLM-5.2 Achieves 1M Token Context for Long-Horizon Coding",
+    "bullets": [
+      "1M-token context window with stable performance on extended coding-agent tasks and benchmarks.",
+      "IndexShare architecture reduces per-token FLOPs by 2.9× at 1M context; speculative decoding acceptance length up 20%.",
+      "Open-source under MIT license; ranks highest among open models on FrontierSWE, PostTrainBench, SWE-Marathon."
+    ],
+    "why_it_matters": "Enables practical long-horizon AI engineering tasks like multi-hour projects and complex debugging with reliable context retention.",
+    "tags": [
+      "model-release",
+      "coding",
+      "open-weights"
+    ],
+    "published": "2026-06-17T09:01:25+00:00",
+    "fetched_at": "2026-06-17T11:05:40Z"
+  },
+  {
     "id": "51b0395e5456",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -42,6 +130,28 @@
     ],
     "published": null,
     "fetched_at": "2026-06-16T11:20:28Z"
+  },
+  {
+    "id": "b387731f4f83",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/deployment-simulation",
+    "original_title": "Predicting model behavior before release by simulating deployment",
+    "headline": "OpenAI tests models safely using realistic conversation replay",
+    "bullets": [
+      "Deployment Simulation replays past conversations with new models to predict real-world behavior before release.",
+      "Method identified novel misalignment forms in GPT-5 Thinking deployments and reduced false test detection.",
+      "Approach scales risk assessment with compute rather than manual evaluation effort, covering non-tail risks."
+    ],
+    "why_it_matters": "Enables safer model releases by forecasting deployment risks using representative traffic patterns instead of synthetic tests.",
+    "tags": [
+      "safety",
+      "research",
+      "product"
+    ],
+    "published": "2026-06-16T00:00:00+00:00",
+    "fetched_at": "2026-06-17T11:05:16Z"
   },
   {
     "id": "888bd1de6f40",
