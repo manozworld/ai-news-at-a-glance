@@ -1,5 +1,71 @@
 [
   {
+    "id": "1cd7be4e884d",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-amazon-bedrock",
+    "original_title": "Jun 17, 2026Grok on Amazon BedrockJun 17, 2026Grok on Amazon BedrockGrok models are now available via Amazon Bedrock.Read More",
+    "headline": "Grok 4.3 now available on Amazon Bedrock platform",
+    "bullets": [
+      "Grok 4.3 features 1M token context window, configurable reasoning levels, lowest hallucination rate among frontier models.",
+      "Pricing: $1.25 per 1M input tokens, $2.50 per 1M output tokens. Claims 2-10x better value than competitors.",
+      "Ranks #1 on Artificial Analysis benchmarks for enterprise agents, tool-calling, and document understanding tasks."
+    ],
+    "why_it_matters": "Developers can now access Grok's low-hallucination reasoning model via AWS Bedrock for enterprise AI agent deployment.",
+    "tags": [
+      "model-release",
+      "api",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-18T10:27:07Z"
+  },
+  {
+    "id": "6a1e7f2894c3",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "original_title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "headline": "Anthropic opens Seoul office, partners with Korean enterprises and government",
+    "bullets": [
+      "Seoul office launched with MOU signed with Korea's Ministry of Science and ICT on AI safety.",
+      "NAVER, Samsung SDS, LG CNS deploying Claude Code across thousands of engineers for productivity.",
+      "Claude access provided to 60 researchers via National AI Research Lab consortium."
+    ],
+    "why_it_matters": "Establishes Anthropic's regional presence in Asia's AI market while advancing safety collaboration with Korean government and enterprises.",
+    "tags": [
+      "product",
+      "api",
+      "safety"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-18T10:26:58Z"
+  },
+  {
+    "id": "07c125a38d88",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "original_title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "headline": "Allen AI releases MolmoMotion for language-guided 3D motion prediction",
+    "bullets": [
+      "MolmoMotion predicts 3D point trajectories from video, object points, and action descriptions.",
+      "Released MolmoMotion-1M dataset with 1.16M videos and PointMotionBench benchmark with 2.7K clips.",
+      "Two variants: autoregressive for smooth paths, flow-matching for uncertain multi-outcome scenarios."
+    ],
+    "why_it_matters": "Enables robots and video generators to anticipate object motion before interaction, improving planning and realism.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "video"
+    ],
+    "published": "2026-06-17T15:26:44+00:00",
+    "fetched_at": "2026-06-18T10:27:11Z"
+  },
+  {
     "id": "e2276f6ee0ea",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -66,6 +132,28 @@
     "fetched_at": "2026-06-17T11:05:35Z"
   },
   {
+    "id": "1a8cd099cf1e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "original_title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "headline": "GPT-5.4 discovers additive improving medicinal chemistry reaction yields",
+    "bullets": [
+      "GPT-5.4 connected to Maria lab identified TEMPO oxidant improving Chan-Lam coupling yields to 88% for boronic acids",
+      "System autonomously proposed research, designed experiments, analyzed data across 10,080 reactions in three months",
+      "Results confirmed at bench scale, showing twofold yield increases for sulfonamide synthesis in drug discovery"
+    ],
+    "why_it_matters": "AI can accelerate drug discovery by solving synthesis bottlenecks that limit molecular testing in medicinal chemistry.",
+    "tags": [
+      "research",
+      "agents",
+      "reasoning"
+    ],
+    "published": "2026-06-17T10:00:00+00:00",
+    "fetched_at": "2026-06-18T10:26:49Z"
+  },
+  {
     "id": "64d6b4cbeaac",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
@@ -86,6 +174,50 @@
     ],
     "published": "2026-06-17T09:01:25+00:00",
     "fetched_at": "2026-06-17T11:05:40Z"
+  },
+  {
+    "id": "0088b6645875",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "original_title": "Introducing LifeSciBench",
+    "headline": "OpenAI releases LifeSciBench for evaluating AI on real research",
+    "bullets": [
+      "750 expert-authored tasks across seven workflows and biological domains",
+      "173 Ph.D.-level scientists from biotech/pharma created and reviewed tasks",
+      "79% of tasks require multiple reasoning steps; 53% need artifact interpretation"
+    ],
+    "why_it_matters": "Enables realistic assessment of whether AI can support actual drug discovery and life science research workflows, not just answer isolated questions.",
+    "tags": [
+      "research",
+      "reasoning",
+      "agents"
+    ],
+    "published": "2026-06-17T00:00:00+00:00",
+    "fetched_at": "2026-06-18T10:26:53Z"
+  },
+  {
+    "id": "da3c81662bdd",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "original_title": "Agentic Resource Discovery: Let agents search",
+    "headline": "Hugging Face launches agent resource discovery specification",
+    "bullets": [
+      "ARD spec enables agents to dynamically search for tools, skills, and other agents at runtime without pre-installation.",
+      "Hugging Face Discover Tool implements ARD, indexing thousands of Skills, ML apps, and MCP servers via semantic search.",
+      "Open standard developed by Microsoft, Google, GoDaddy, Hugging Face; supports federated registries and REST API access."
+    ],
+    "why_it_matters": "Agents can now discover and use capabilities dynamically instead of requiring manual pre-configuration, scaling beyond static tool catalogs.",
+    "tags": [
+      "agents",
+      "tooling",
+      "api"
+    ],
+    "published": "2026-06-17T00:00:00+00:00",
+    "fetched_at": "2026-06-18T10:27:15Z"
   },
   {
     "id": "51b0395e5456",
