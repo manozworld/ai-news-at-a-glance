@@ -1,5 +1,115 @@
 [
   {
+    "id": "f15e6dd96920",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-databricks",
+    "original_title": "Jun 18, 2026Grok on Databricks",
+    "headline": "Grok models now available on Databricks Agent Bricks platform",
+    "bullets": [
+      "Grok models integrated into Databricks Agent Bricks for native AI agent development",
+      "Partnership enables Grok access alongside frontier and open-source models in governed platform",
+      "Enterprises can run Grok on Bedrock, keeping models where data resides"
+    ],
+    "why_it_matters": "Developers can build data-aware AI agents using Grok within existing Databricks infrastructure without data movement.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-19T10:45:39Z"
+  },
+  {
+    "id": "930a1981a21f",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/introducing-word-addin",
+    "original_title": "Jun 18, 2026Grok for WordJun 18, 2026Grok for WordUse the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.Read More",
+    "headline": "Grok AI add-in launches for Microsoft Word",
+    "bullets": [
+      "Free Microsoft 365 add-in transforms notes into structured documents and long-form content",
+      "Integrates web search, X search, and connectors to SharePoint and Google Drive",
+      "Also available for PowerPoint and Excel with grammar fixing and style alignment"
+    ],
+    "why_it_matters": "Developers and knowledge workers can streamline document creation and research integration directly within familiar Office tools.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-19T10:45:36Z"
+  },
+  {
+    "id": "e9b8182dcfcc",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "original_title": "MosaicLeaks: Can your research agent keep a secret?",
+    "headline": "Research agents leak private data through web queries",
+    "bullets": [
+      "MosaicLeaks benchmark reveals agents inadvertently expose enterprise secrets via external search patterns.",
+      "Privacy-Aware Deep Research (PA-DR) reduces full-information leakage from 34.0% to 9.9% using RL training.",
+      "Standard task training worsens leakage; simple prompts asking agents not to leak prove ineffective."
+    ],
+    "why_it_matters": "Organizations deploying research agents must address privacy risks from query patterns before handling sensitive enterprise data.",
+    "tags": [
+      "safety",
+      "agents",
+      "research"
+    ],
+    "published": "2026-06-18T18:13:13+00:00",
+    "fetched_at": "2026-06-19T10:45:43Z"
+  },
+  {
+    "id": "217d8a1a56f1",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "original_title": "New usage analytics and updated spend controls for enterprises",
+    "headline": "ChatGPT Enterprise gains detailed usage analytics and flexible spend controls",
+    "bullets": [
+      "Global Admin Console now shows granular credit usage across users, products, and models in one view.",
+      "Admins can set workspace defaults, group limits, and individual overrides; employees request additional credits with context.",
+      "Cost API enables deeper analysis; available today for ChatGPT Enterprise customers."
+    ],
+    "why_it_matters": "Enterprises can now optimize AI spending, identify adoption patterns, and scale deployments with granular cost visibility and control.",
+    "tags": [
+      "product",
+      "api",
+      "pricing"
+    ],
+    "published": "2026-06-18T17:00:00+00:00",
+    "fetched_at": "2026-06-19T10:45:06Z"
+  },
+  {
+    "id": "33383567514a",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "original_title": "Improving health intelligence in ChatGPT",
+    "headline": "GPT-5.5 Instant brings physician-validated health intelligence to all users",
+    "bullets": [
+      "GPT-5.5 Instant matches frontier Thinking models on health evaluations, available free to all ChatGPT users.",
+      "Physician-led HealthBench evaluations measure accuracy, safety, context awareness, and appropriate care escalation.",
+      "Production data shows 71% reduction in factuality issues in health responses over two months."
+    ],
+    "why_it_matters": "Millions rely on ChatGPT for health guidance; improved accuracy and safety reduce misinformation risks.",
+    "tags": [
+      "product",
+      "safety",
+      "research"
+    ],
+    "published": "2026-06-18T11:00:00+00:00",
+    "fetched_at": "2026-06-19T10:45:12Z"
+  },
+  {
     "id": "1cd7be4e884d",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -42,6 +152,72 @@
     ],
     "published": null,
     "fetched_at": "2026-06-18T10:26:58Z"
+  },
+  {
+    "id": "2155d7cb8c43",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "original_title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "headline": "AI model helps diagnose 18 previously unsolved rare genetic diseases",
+    "bullets": [
+      "OpenAI o3 Deep Research analyzed 376 undiagnosed cases, surfacing leads for 18 diagnoses (4.8% yield).",
+      "Model generated evidence-linked hypotheses reviewed by specialists; no autonomous clinical decisions made.",
+      "Neurodevelopmental cohort showed 10% diagnostic yield; early psychosis cohort achieved 13.3%."
+    ],
+    "why_it_matters": "AI-assisted reanalysis of existing genetic data could help scale diagnosis of rare diseases as scientific knowledge evolves.",
+    "tags": [
+      "research",
+      "reasoning",
+      "product"
+    ],
+    "published": "2026-06-18T08:00:00+00:00",
+    "fetched_at": "2026-06-19T10:45:23Z"
+  },
+  {
+    "id": "dc672d008682",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "original_title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "headline": "Hugging Face benchmarks PEFT techniques beyond dominant LoRA",
+    "bullets": [
+      "LoRA dominates: 98.4% of Hugging Face model cards mention only LoRA among PEFT techniques.",
+      "New benchmarks compare 40+ PEFT methods on LLM math reasoning and image generation tasks.",
+      "Evaluation tracks VRAM, forgetting, runtime, checkpoint size under identical conditions."
+    ],
+    "why_it_matters": "Developers can now empirically compare fine-tuning techniques instead of defaulting to LoRA based on popularity alone.",
+    "tags": [
+      "tooling",
+      "research",
+      "product"
+    ],
+    "published": "2026-06-18T00:00:00+00:00",
+    "fetched_at": "2026-06-19T10:45:46Z"
+  },
+  {
+    "id": "d44bbcfdf323",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "original_title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "headline": "Hugging Face releases agentic benchmarking tool for open models",
+    "bullets": [
+      "Measures agent efficiency on tasks: token usage, turns, latency—not just correctness.",
+      "Tests transformers library across three tiers: pip install, source clone, packaged Skill.",
+      "Runs on open models via pi agent; parallelized across identical hardware for fair comparison."
+    ],
+    "why_it_matters": "Developers can optimize libraries for agent usability by measuring actual agent paths, not just final answers.",
+    "tags": [
+      "agents",
+      "tooling",
+      "research"
+    ],
+    "published": "2026-06-18T00:00:00+00:00",
+    "fetched_at": "2026-06-19T10:45:50Z"
   },
   {
     "id": "07c125a38d88",
@@ -218,6 +394,28 @@
     ],
     "published": "2026-06-17T00:00:00+00:00",
     "fetched_at": "2026-06-18T10:27:15Z"
+  },
+  {
+    "id": "ae74216dee38",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "original_title": "Securing the future of AI agents",
+    "headline": "Google DeepMind releases AI Control Roadmap for agent security",
+    "bullets": [
+      "Defense-in-depth framework treats AI agents as potential insider threats, monitoring behavior continuously.",
+      "Analyzed one million coding agent tasks to identify behavioral patterns beyond keyword filtering.",
+      "Security scales with model capability: detection evasion levels D1-D4, response levels R1-R3."
+    ],
+    "why_it_matters": "Provides industry blueprint for safely deploying increasingly capable AI agents despite imperfect alignment.",
+    "tags": [
+      "agents",
+      "safety",
+      "research"
+    ],
+    "published": "2026-06-16T15:46:31+00:00",
+    "fetched_at": "2026-06-19T10:45:31Z"
   },
   {
     "id": "51b0395e5456",
