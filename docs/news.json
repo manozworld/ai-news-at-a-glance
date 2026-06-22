@@ -1,5 +1,27 @@
 [
   {
+    "id": "eebdb7f63bb5",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "original_title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "headline": "Samsung deploys ChatGPT and Codex across global workforce",
+    "bullets": [
+      "ChatGPT Enterprise and Codex available to all Samsung Korea employees and Device eXperience division worldwide",
+      "One of OpenAI's largest enterprise deployments; Codex weekly users in Korea grew 800% since February",
+      "Tools deployed across R&D, manufacturing, marketing, software development, and non-technical workflows"
+    ],
+    "why_it_matters": "Demonstrates enterprise-scale AI adoption beyond development teams, setting precedent for workforce transformation across industries.",
+    "tags": [
+      "product",
+      "coding",
+      "api"
+    ],
+    "published": "2026-06-21T23:00:00+00:00",
+    "fetched_at": "2026-06-22T12:12:57Z"
+  },
+  {
     "id": "f15e6dd96920",
     "provider_id": "xai",
     "provider_name": "xAI",
