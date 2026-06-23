@@ -1,5 +1,159 @@
 [
   {
+    "id": "676577ce317b",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/introducing-goal",
+    "original_title": "Jun 22, 2026Introducing /goalJun 22, 2026Introducing /goalUse /goal for long-running autonomous task execution in Grok Build.Read More",
+    "headline": "xAI launches /goal for autonomous long-running task execution",
+    "bullets": [
+      "/goal mode enables agents to autonomously execute and verify tasks without constant user intervention.",
+      "Developers can monitor progress with /goal status, pause, resume, or clear tasks as needed.",
+      "Available now in Grok Build CLI; supports code migration, webpage inspection, and script execution."
+    ],
+    "why_it_matters": "Reduces developer friction by enabling agents to handle multi-step implementation tasks autonomously with minimal oversight.",
+    "tags": [
+      "agents",
+      "coding",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-23T09:51:36Z"
+  },
+  {
+    "id": "0c794cbb255f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/omio",
+    "original_title": "How Omio is building the future of conversational travel",
+    "headline": "Omio uses OpenAI to transform travel booking into conversational experiences",
+    "bullets": [
+      "Connected ChatGPT to 3,000+ transportation providers across 47 countries for real-time booking",
+      "Reduced product development time to 20% of previous effort; projects now take one month instead of a quarter",
+      "Deployed AI across engineering and business functions with human oversight maintaining accountability"
+    ],
+    "why_it_matters": "Demonstrates how conversational AI can reshape customer-facing commerce and internal operations simultaneously, reducing development cycles while maintaining human control.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": "2026-06-23T00:00:00+00:00",
+    "fetched_at": "2026-06-23T09:51:19Z"
+  },
+  {
+    "id": "49c160394cb9",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "original_title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "headline": "Hugging Face automates weekly releases with AI and human oversight",
+    "bullets": [
+      "huggingface_hub now ships weekly via GitHub Actions workflow using open-weights GLM-5.2 model for release notes.",
+      "AI drafts changelogs; deterministic script validates PR completeness before human review and publication.",
+      "Stack uses only open-source tools and models—no vendor contracts or proprietary infrastructure required."
+    ],
+    "why_it_matters": "Demonstrates practical AI-in-the-loop automation for library maintenance, reducing manual release overhead while maintaining quality control.",
+    "tags": [
+      "tooling",
+      "open-weights",
+      "agents"
+    ],
+    "published": "2026-06-23T00:00:00+00:00",
+    "fetched_at": "2026-06-23T09:51:40Z"
+  },
+  {
+    "id": "493a508e4cea",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "original_title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "headline": "PaddlePaddle releases PP-OCRv6 with 50-language support across three model sizes",
+    "bullets": [
+      "Three tiers: 1.5M (tiny), 7.7M (small), 34.5M (medium) parameters for different deployment needs.",
+      "Medium tier achieves 86.2% detection and 83.2% recognition accuracy, +4.6pp and +5.1pp over v5.",
+      "Supports 50 languages including Chinese, English, Japanese, and 46 Latin-script languages in unified models."
+    ],
+    "why_it_matters": "Developers can deploy accurate multilingual OCR on edge devices to servers without separate models per language.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "tooling"
+    ],
+    "published": "2026-06-22T13:18:56+00:00",
+    "fetched_at": "2026-06-23T09:51:44Z"
+  },
+  {
+    "id": "f7e9d38ae732",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "original_title": "Daybreak: Tools for securing every organization in the world",
+    "headline": "OpenAI launches Daybreak platform for automated vulnerability patching",
+    "bullets": [
+      "GPT-5.5-Cyber model achieves 85.6% on CyberGym benchmark, outperforming GPT-5.5's 81.8%.",
+      "Codex Security scanned 30M+ commits, auto-fixed 500K+ findings across 30K+ codebases.",
+      "Patch the Planet initiative includes 30+ open-source projects: Python, Go, cURL, Sigstore."
+    ],
+    "why_it_matters": "Shifts cybersecurity bottleneck from finding vulnerabilities to patching them at machine speed across organizations.",
+    "tags": [
+      "safety",
+      "tooling",
+      "product"
+    ],
+    "published": "2026-06-22T10:00:00+00:00",
+    "fetched_at": "2026-06-23T09:51:23Z"
+  },
+  {
+    "id": "f0ab1740b8b7",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/patch-the-planet",
+    "original_title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "headline": "OpenAI launches Patch the Planet to secure open-source software",
+    "bullets": [
+      "AI-assisted security research paired with human expert review identifies and patches vulnerabilities in critical open-source projects.",
+      "Initial participants include cURL, Python, Go, Sigstore, and eight other widely-used infrastructure projects.",
+      "Trail of Bits security engineers already found hundreds of issues and merged dozens of patches using GPT-5.5-Cyber."
+    ],
+    "why_it_matters": "Reduces maintainer burden by validating AI findings before submission, accelerating security improvements across foundational software.",
+    "tags": [
+      "safety",
+      "open-weights",
+      "agents"
+    ],
+    "published": "2026-06-22T10:00:00+00:00",
+    "fetched_at": "2026-06-23T09:51:27Z"
+  },
+  {
+    "id": "d1c7fe87ce16",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "headline": "Local models triage GitHub issues without API costs",
+    "bullets": [
+      "Gemma and Qwen models classify OpenClaw PRs using agent harness with structured outputs.",
+      "Restricted bash shell (reposhell) prevents prompt injection while enabling repo inspection.",
+      "Real-time notifications on local hardware eliminate API quota limits and latency."
+    ],
+    "why_it_matters": "Demonstrates cost-free, real-time issue triage using open-weight models instead of expensive closed APIs.",
+    "tags": [
+      "agents",
+      "open-weights",
+      "tooling"
+    ],
+    "published": "2026-06-22T00:00:00+00:00",
+    "fetched_at": "2026-06-23T09:51:48Z"
+  },
+  {
     "id": "eebdb7f63bb5",
     "provider_id": "openai",
     "provider_name": "OpenAI",
