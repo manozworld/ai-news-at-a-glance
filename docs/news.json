@@ -1,5 +1,115 @@
 [
   {
+    "id": "5cf9082081aa",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/ocr-4",
+    "original_title": "Introducing Mistral OCR 4",
+    "headline": "Mistral releases OCR 4 with bounding boxes and multilingual support",
+    "bullets": [
+      "Supports 170 languages, achieves 85.20 on OlmOCRBench, 72% human preference win rate",
+      "Returns bounding boxes, block classification, confidence scores alongside extracted text",
+      "Deployable in single container; API priced at $4 per 1,000 pages"
+    ],
+    "why_it_matters": "Enables structured document processing for RAG, enterprise search, and agent workflows with self-hosted deployment options.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-24T09:39:22Z"
+  },
+  {
+    "id": "2a799425b04b",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "original_title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+    "headline": "Claude Tag launches on Slack for team collaboration",
+    "bullets": [
+      "Claude joins Slack channels as a team member, accessible via @Claude mentions for task delegation.",
+      "65% of Anthropic's product team code now created using internal Claude Tag version.",
+      "Available in beta for Enterprise and Team customers with granular access controls and spending limits."
+    ],
+    "why_it_matters": "Teams can delegate work to Claude asynchronously while maintaining context across conversations and controlling data access.",
+    "tags": [
+      "product",
+      "agents",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-24T09:39:07Z"
+  },
+  {
+    "id": "7c36fb32c628",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "original_title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "headline": "GPT-5 helps immunologist crack three-year immune cell mystery",
+    "bullets": [
+      "GPT-5 Pro identified that deoxyglucose blocks IL-2 protein, preventing T cells from becoming inflammatory Th17 cells.",
+      "Model correctly predicted outcomes of unpublished lymphoma experiment, demonstrating deep scientific understanding.",
+      "AI now functions as research collaborator, simulating experiments and narrowing hypotheses to accelerate biology research."
+    ],
+    "why_it_matters": "AI can dramatically accelerate scientific discovery by analyzing complex data and predicting experimental outcomes, potentially advancing cancer and immunotherapy treatments.",
+    "tags": [
+      "research",
+      "reasoning",
+      "product"
+    ],
+    "published": "2026-06-23T17:00:00+00:00",
+    "fetched_at": "2026-06-24T09:38:55Z"
+  },
+  {
+    "id": "6507bbb39777",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "original_title": "Helping build shared standards for advanced AI",
+    "headline": "OpenAI co-founds Appia to establish interoperable AI safety standards",
+    "bullets": [
+      "Appia Foundation, hosted by Linux Foundation, develops open specifications for AI evaluation across the value chain.",
+      "OpenAI participates in ISO, NIST, and multiple standards bodies to create comparable assessment practices.",
+      "Framework aims to enable governments and third parties to verify AI safety conformity consistently."
+    ],
+    "why_it_matters": "Standardized evaluation practices enable regulators worldwide to assess frontier AI systems using compatible methods and trusted evidence.",
+    "tags": [
+      "safety",
+      "research",
+      "product"
+    ],
+    "published": "2026-06-23T13:00:00+00:00",
+    "fetched_at": "2026-06-24T09:38:52Z"
+  },
+  {
+    "id": "f0c4ab467506",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "original_title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "headline": "IBM releases CUGA agent harness with two dozen working examples",
+    "bullets": [
+      "CUGA handles orchestration, planning, execution loops, and state management automatically.",
+      "Twenty-four single-file FastAPI apps demonstrate real agentic use cases from recommenders to cloud advisors.",
+      "Supports multiple LLM providers, reasoning modes (Fast/Balanced/Accurate), and sandbox execution options via config."
+    ],
+    "why_it_matters": "Developers can build production agents by defining tools and prompts, eliminating weeks of infrastructure plumbing.",
+    "tags": [
+      "agents",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-06-23T12:51:55+00:00",
+    "fetched_at": "2026-06-24T09:39:14Z"
+  },
+  {
     "id": "676577ce317b",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -64,6 +174,28 @@
     ],
     "published": "2026-06-23T00:00:00+00:00",
     "fetched_at": "2026-06-23T09:51:40Z"
+  },
+  {
+    "id": "dba1e8f05869",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "original_title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "headline": "Transformers.js experiments with cross-origin storage API proposal",
+    "bullets": [
+      "Browser cache isolation causes duplicate downloads of shared AI models and Wasm files across different origins.",
+      "Proposed Cross-Origin Storage API enables apps to share cached resources via cryptographic hash instead of URL.",
+      "Chrome extension polyfill available now to test cross-origin storage before native browser implementation."
+    ],
+    "why_it_matters": "Reduces redundant model downloads and storage waste when multiple web apps use the same AI models across different origins.",
+    "tags": [
+      "tooling",
+      "api",
+      "research"
+    ],
+    "published": "2026-06-23T00:00:00+00:00",
+    "fetched_at": "2026-06-24T09:39:18Z"
   },
   {
     "id": "493a508e4cea",
@@ -152,6 +284,28 @@
     ],
     "published": "2026-06-22T00:00:00+00:00",
     "fetched_at": "2026-06-23T09:51:48Z"
+  },
+  {
+    "id": "6fdda2fdc1d8",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "original_title": "Codex-maxxing for long-running work",
+    "headline": "Codex enables persistent workspace for extended multi-step projects",
+    "bullets": [
+      "Codex maintains context across long-running workflows beyond single prompts",
+      "Framework breaks ambitious goals into verifiable steps with human oversight",
+      "Helps organizations sustain progress on complex, multi-workstream projects"
+    ],
+    "why_it_matters": "Developers can now structure AI-assisted work that spans days or weeks while preserving context and control.",
+    "tags": [
+      "coding",
+      "agents",
+      "product"
+    ],
+    "published": "2026-06-22T00:00:00+00:00",
+    "fetched_at": "2026-06-24T09:38:59Z"
   },
   {
     "id": "eebdb7f63bb5",
