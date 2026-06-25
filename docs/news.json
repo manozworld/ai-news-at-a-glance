@@ -1,5 +1,115 @@
 [
   {
+    "id": "0a69ac6087c4",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/more-control-over-connectors",
+    "original_title": "Bringing more control over your connectors",
+    "headline": "Mistral adds admin controls and debugging for enterprise connectors",
+    "bullets": [
+      "Enriched admin controls let orgs govern tool access per workspace and toggle individual tools on/off.",
+      "API keys with connector scopes prevent impersonation; multi-account connectors support multiple logins per connector.",
+      "Connectors Debugger traces 11-step connection failures; Workflows and Vibe Code integrate connectors for long-running tasks."
+    ],
+    "why_it_matters": "Production AI agents now have enterprise-grade security, auditability, and reliability for connecting to external data sources.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-25T09:31:03Z"
+  },
+  {
+    "id": "e66d2cc51614",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-interactive-brokers",
+    "original_title": "Jun 25, 2026Explore the markets with Interactive Brokers and Grok",
+    "headline": "Interactive Brokers integrates Grok AI for portfolio analysis and trading",
+    "bullets": [
+      "Clients can connect existing Interactive Brokers accounts to Grok at no cost in minutes",
+      "Grok analyzes portfolios, models scenarios, researches markets, and generates real-time order instructions",
+      "Features include dividend forecasting, sector exposure analysis, and automated hedge strategy creation"
+    ],
+    "why_it_matters": "Traders gain instant AI-powered insights and order generation directly within their brokerage workflow, reducing analysis time.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-25T09:30:50Z"
+  },
+  {
+    "id": "2b6976f96bb5",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "original_title": "How agents are transforming work",
+    "headline": "Codex agents become primary work tool across OpenAI departments",
+    "bullets": [
+      "80.6% of users delegate tasks exceeding 30 minutes; 25.6% exceed 8 hours by May 2026.",
+      "Non-developer adoption grew 137x-189x since August 2025 across user groups.",
+      "Codex now accounts for 99.8% of OpenAI's weekly output tokens."
+    ],
+    "why_it_matters": "Agentic AI is shifting knowledge work from short interactions to long-horizon task delegation across all job functions.",
+    "tags": [
+      "agents",
+      "product",
+      "research"
+    ],
+    "published": "2026-06-25T02:00:00+00:00",
+    "fetched_at": "2026-06-25T09:30:33Z"
+  },
+  {
+    "id": "0ce8c6adc247",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "original_title": "Introducing computer use in Gemini 3.5 Flash",
+    "headline": "Gemini 3.5 Flash gains native computer use for agent automation",
+    "bullets": [
+      "Computer use now built into Gemini 3.5 Flash, previously standalone feature in 2.5 model.",
+      "Enables agents to see, reason, and act across browser, mobile, and desktop environments.",
+      "Includes adversarial training and optional enterprise safeguards against prompt injection attacks."
+    ],
+    "why_it_matters": "Developers can build more capable autonomous agents for enterprise automation and testing without separate models.",
+    "tags": [
+      "agents",
+      "product",
+      "safety"
+    ],
+    "published": "2026-06-24T16:30:01+00:00",
+    "fetched_at": "2026-06-25T09:30:44Z"
+  },
+  {
+    "id": "9662972e681e",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "original_title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "headline": "NVIDIA NeMo AutoModel accelerates MoE fine-tuning with 3.4x speedup",
+    "bullets": [
+      "3.4-3.7x higher training throughput and 29-32% less GPU memory versus Transformers v5",
+      "Single import swap enables Expert Parallelism, DeepEP dispatch, and TransformerEngine kernels",
+      "Tested on Nemotron 3 Ultra 550B across 16 nodes and 30B models on single node"
+    ],
+    "why_it_matters": "Developers can fine-tune large MoE models faster with zero API changes, reducing training costs significantly.",
+    "tags": [
+      "model-release",
+      "tooling",
+      "coding"
+    ],
+    "published": "2026-06-24T16:00:13+00:00",
+    "fetched_at": "2026-06-25T09:30:54Z"
+  },
+  {
     "id": "5cf9082081aa",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -42,6 +152,50 @@
     ],
     "published": null,
     "fetched_at": "2026-06-24T09:39:07Z"
+  },
+  {
+    "id": "1a015f5dfa42",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "original_title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "headline": "OpenAI and Broadcom unveil Jalapeño LLM inference chip",
+    "bullets": [
+      "Jalapeño accelerator delivers substantially better performance per watt than current state-of-the-art systems.",
+      "Custom chip designed from scratch for LLM inference, developed in nine months with OpenAI models.",
+      "Multi-generation platform deploying at gigawatt scale with data center partners starting 2026."
+    ],
+    "why_it_matters": "Custom inference hardware could significantly reduce AI inference costs and latency, making advanced models faster and more affordable for users and developers.",
+    "tags": [
+      "model-release",
+      "product",
+      "tooling"
+    ],
+    "published": "2026-06-24T06:00:00+00:00",
+    "fetched_at": "2026-06-25T09:30:37Z"
+  },
+  {
+    "id": "c8f3104266f9",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "original_title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "headline": "First open far-field ASR benchmark launches with realistic acoustic conditions",
+    "bullets": [
+      "Evaluates models across 14 simulated rooms with reverberation, noise, and varying microphone distances.",
+      "Far-field WER at low SNR consistently several times higher than near-field performance.",
+      "Includes RTFx latency metrics and Pareto front plots for accuracy-speed tradeoffs."
+    ],
+    "why_it_matters": "Enables developers to test ASR robustness in real-world conditions like robots and conference rooms, closing the gap between lab benchmarks and actual deployment.",
+    "tags": [
+      "research",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-06-24T00:00:00+00:00",
+    "fetched_at": "2026-06-25T09:30:58Z"
   },
   {
     "id": "7c36fb32c628",
