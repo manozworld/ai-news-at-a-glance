@@ -1,5 +1,48 @@
 [
   {
+    "id": "7f1a19cb8458",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "original_title": "Run a vLLM Server on HF Jobs in One Command",
+    "headline": "Deploy vLLM servers on Hugging Face with single command",
+    "bullets": [
+      "One-command vLLM deployment on HF infrastructure with OpenAI-compatible API",
+      "Pay-per-second billing, scales from 4B to 122B models across GPU flavors",
+      "Token-gated endpoints, queryable via curl, Python OpenAI client, or Gradio UI"
+    ],
+    "why_it_matters": "Developers can rapidly prototype and test LLM endpoints without infrastructure setup or Kubernetes knowledge.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-06-26T00:00:00+00:00",
+    "fetched_at": "2026-06-26T09:35:35Z"
+  },
+  {
+    "id": "04bd48744b58",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "original_title": "Which tokens does a hybrid model predict better?",
+    "headline": "Hybrid models excel at semantic tokens, transformers at repetition",
+    "bullets": [
+      "Olmo Hybrid outperforms Olmo 3 transformer on content words (nouns, verbs, adjectives) with 0.04 loss gap.",
+      "Transformer advantage emerges on repeated n-grams and closing brackets where exact recall matters.",
+      "Hybrid recurrence tracks sequential meaning; transformer attention excels at distant token lookup."
+    ],
+    "why_it_matters": "Token-level analysis reveals architectural tradeoffs, enabling better model selection and evaluation for specific tasks.",
+    "tags": [
+      "research",
+      "model-release"
+    ],
+    "published": "2026-06-25T16:11:42+00:00",
+    "fetched_at": "2026-06-26T09:35:38Z"
+  },
+  {
     "id": "0a69ac6087c4",
     "provider_id": "mistral",
     "provider_name": "Mistral",
