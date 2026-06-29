@@ -1,5 +1,48 @@
 [
   {
+    "id": "5b79476b1142",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "original_title": "Mapping Europe’s AI Workforce Opportunity",
+    "headline": "OpenAI maps EU labor market impacts from AI adoption",
+    "bullets": [
+      "12% of EU employment may grow with AI; 14% faces higher automation risk.",
+      "27% of jobs likely to reorganize with AI workflow changes, not elimination.",
+      "Luxembourg, Sweden, Netherlands show larger AI-growth occupations; Germany, Greece, Italy face higher automation pressure."
+    ],
+    "why_it_matters": "Policymakers can proactively plan workforce transitions by identifying sector-specific AI impacts before labor statistics reveal major shifts.",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "published": "2026-06-29T07:00:00+00:00",
+    "fetched_at": "2026-06-29T11:08:51Z"
+  },
+  {
+    "id": "1ae317c00ced",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "original_title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "headline": "HP scales OpenAI Frontier partnership across enterprise operations",
+    "bullets": [
+      "HP engineer processed 122 pull requests across 43 projects in weeks using OpenAI models",
+      "Security team remediated software bugs in one day versus estimated month without AI tools",
+      "Frontier deployment spans customer support, device management, security, and software development workflows"
+    ],
+    "why_it_matters": "Demonstrates how enterprise AI platforms can compress development cycles and unlock significant operational capacity at scale.",
+    "tags": [
+      "agents",
+      "product",
+      "coding"
+    ],
+    "published": "2026-06-28T17:00:00+00:00",
+    "fetched_at": "2026-06-29T11:08:55Z"
+  },
+  {
     "id": "7f1a19cb8458",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
