@@ -1,5 +1,48 @@
 [
   {
+    "id": "3c5753723cca",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+    "original_title": "Read From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+    "headline": "Meta releases Brain2Qwerty v2 for non-invasive brain-to-text decoding",
+    "bullets": [
+      "Achieves 61% word accuracy decoding sentences from brain waves without surgery using MEG devices.",
+      "Trained on 22,000 sentences from nine participants; best performer reaches 78% accuracy.",
+      "Meta releases full training code and dataset to accelerate neuroscience research and applications."
+    ],
+    "why_it_matters": "Non-invasive brain-computer interfaces could restore communication for millions with paralysis or speech disorders.",
+    "tags": [
+      "research",
+      "agents",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-06-30T09:48:08Z"
+  },
+  {
+    "id": "91d16542fa1f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "original_title": "DiScoFormer: One transformer for density and score, across distributions",
+    "headline": "DiScoFormer: Single transformer estimates density and score simultaneously",
+    "bullets": [
+      "One model estimates both distribution density and score in single forward pass without retraining.",
+      "Outperforms kernel density estimation 6.5x on score error, 37x on density in 100 dimensions.",
+      "Generalizes across distributions; trained on Gaussian Mixture Models with exact closed-form targets."
+    ],
+    "why_it_matters": "Reusable pretrained model reduces computational cost for generative modeling, Bayesian inference, and scientific computing.",
+    "tags": [
+      "model-release",
+      "research"
+    ],
+    "published": "2026-06-29T18:02:48+00:00",
+    "fetched_at": "2026-06-30T09:48:11Z"
+  },
+  {
     "id": "5b79476b1142",
     "provider_id": "openai",
     "provider_name": "OpenAI",
