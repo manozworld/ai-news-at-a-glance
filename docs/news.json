@@ -1,5 +1,135 @@
 [
   {
+    "id": "d5f7bd1f6df8",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "original_title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "headline": "Anthropic launches Claude Science, AI workbench for researchers",
+    "bullets": [
+      "Integrates 60+ scientific databases, tools, and connectors for genomics, proteomics, structural biology",
+      "Produces fully reproducible artifacts with auditable code history and native 3D protein visualization",
+      "Manages compute across local machines, HPC clusters, and on-demand GPUs without moving sensitive data"
+    ],
+    "why_it_matters": "Scientists can consolidate fragmented research workflows into one environment, accelerating discovery while maintaining reproducibility and data privacy.",
+    "tags": [
+      "product",
+      "tooling",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-01T09:58:12Z"
+  },
+  {
+    "id": "0f764e9bc764",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "original_title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "headline": "Anthropic releases Claude Sonnet 5 with improved agentic capabilities",
+    "bullets": [
+      "Sonnet 5 matches Opus 4.8 performance on many tasks at lower cost ($3/$15 per million tokens)",
+      "Improved reasoning, tool use, coding, and autonomous task completion over Sonnet 4.6",
+      "Safer model with lower hallucination rates; available across all Claude plans today"
+    ],
+    "why_it_matters": "Developers can now build autonomous agents with frontier capabilities at mid-tier pricing, reducing costs for production agentic systems.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-01T09:58:01Z"
+  },
+  {
+    "id": "ff1300aa6cce",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "original_title": "Redeploying Fable 5AnnouncementsJun 30, 2026Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "headline": "Fable 5 returns globally after export control lift",
+    "bullets": [
+      "Fable 5 available July 1 on Claude Platform, Claude.ai, Claude Code, Claude Cowork globally.",
+      "Anthropic deployed improved safety classifier blocking reported jailbreak technique in 99% of cases.",
+      "Industry framework for jailbreak severity scoring developed with Amazon, Microsoft, Google, Glasswing partners."
+    ],
+    "why_it_matters": "Enables broader access to capable AI while establishing shared standards for assessing and communicating model safety risks across industry.",
+    "tags": [
+      "safety",
+      "model-release",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-01T09:57:51Z"
+  },
+  {
+    "id": "8654826289ec",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "original_title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "headline": "ScarfBench: New Benchmark for AI Agents on Java Framework Migration",
+    "bullets": [
+      "204 migration tasks across Spring, Jakarta EE, Quarkus with 34 applications and 151K lines of code.",
+      "Frontier agents achieve <10% behavioral success; agents overconfident about build completion.",
+      "Configuration and dependency management dominate migration effort, not code translation alone."
+    ],
+    "why_it_matters": "Reveals AI agents struggle with real-world enterprise modernization despite strong code-generation benchmarks; validates need for independent verification.",
+    "tags": [
+      "research",
+      "coding",
+      "agents"
+    ],
+    "published": "2026-06-30T18:32:50+00:00",
+    "fetched_at": "2026-07-01T09:58:26Z"
+  },
+  {
+    "id": "adbaffb551ff",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "original_title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "headline": "Google releases faster image model and video generation API",
+    "bullets": [
+      "Nano Banana 2 Lite generates images in 4 seconds at $0.034 per 1K images.",
+      "Gemini Omni Flash enables video generation and conversational editing via API.",
+      "Both models available in Google AI Studio, Gemini API, and Enterprise Agent Platform."
+    ],
+    "why_it_matters": "Developers can now build faster multimedia workflows combining rapid image generation with high-quality video creation at competitive costs.",
+    "tags": [
+      "model-release",
+      "image",
+      "video"
+    ],
+    "published": "2026-06-30T16:02:40+00:00",
+    "fetched_at": "2026-07-01T09:58:17Z"
+  },
+  {
+    "id": "d7f8db1c666b",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "original_title": "Why Specialization Is Inevitable",
+    "headline": "Specialization outperforms generality across optimization, biology, markets, AI",
+    "bullets": [
+      "No single algorithm excels across all problems; finite resources force task-specific optimization.",
+      "Biology and markets independently converge on specialization as superior to broad generality.",
+      "Machine learning systems show negative transfer when trained on multiple tasks simultaneously."
+    ],
+    "why_it_matters": "Developers should design focused AI systems for specific domains rather than pursuing universal generality.",
+    "tags": [
+      "research"
+    ],
+    "published": "2026-06-30T14:39:11+00:00",
+    "fetched_at": "2026-07-01T09:58:29Z"
+  },
+  {
     "id": "3c5753723cca",
     "provider_id": "meta",
     "provider_name": "Meta AI",
@@ -20,6 +150,93 @@
     ],
     "published": null,
     "fetched_at": "2026-06-30T09:48:08Z"
+  },
+  {
+    "id": "fb435a036a32",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "original_title": "How ChatGPT adoption has expanded",
+    "headline": "ChatGPT usage deepens globally with diverse user base expansion",
+    "bullets": [
+      "Six months after signup, users send 50% more daily messages and try double the capabilities.",
+      "Africa and Asia show fastest regional growth; non-English speakers now exceed 50% of active users.",
+      "Spanish, Portuguese, Arabic lead non-English adoption; feminine-named users now represent majority globally."
+    ],
+    "why_it_matters": "Demonstrates sustained AI adoption across geographies and demographics, informing product development and market expansion strategies.",
+    "tags": [
+      "product",
+      "research"
+    ],
+    "published": "2026-06-30T09:00:00+00:00",
+    "fetched_at": "2026-07-01T09:57:21Z"
+  },
+  {
+    "id": "3c923494434c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "original_title": "Introducing GeneBench-Pro",
+    "headline": "OpenAI releases GeneBench-Pro for evaluating AI research judgment",
+    "bullets": [
+      "129 synthetic biology problems across 10 domains testing iterative analysis and decision-making",
+      "Measures AI ability to handle ambiguity, revise assumptions, and choose correct analytical paths",
+      "External domain experts validated realism; problems designed to prevent benchmark gaming shortcuts"
+    ],
+    "why_it_matters": "Enables rigorous assessment of whether AI can assist with judgment-heavy computational biology research beyond pattern matching.",
+    "tags": [
+      "research",
+      "agents",
+      "reasoning"
+    ],
+    "published": "2026-06-30T00:00:00+00:00",
+    "fetched_at": "2026-07-01T09:57:25Z"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "original_title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "headline": "OpenAI fixes eighteen-year-old bug in widely-used C++ library",
+    "bullets": [
+      "Crashes in Rockset data infrastructure traced to race condition in GNU libunwind library.",
+      "Also discovered silent hardware corruption on Azure host causing incorrect CPU math.",
+      "Used population-level crash analysis across regions to identify two unrelated bugs simultaneously."
+    ],
+    "why_it_matters": "Demonstrates how statistical debugging methods can solve seemingly impossible infrastructure bugs affecting production AI systems.",
+    "tags": [
+      "research",
+      "tooling",
+      "safety"
+    ],
+    "published": "2026-06-30T00:00:00+00:00",
+    "fetched_at": "2026-07-01T09:57:29Z"
+  },
+  {
+    "id": "3f0a56fa7011",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "original_title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "headline": "Every Eval Ever and Hugging Face Community Evals now interoperable",
+    "bullets": [
+      "EEE and Community Evals enable cross-posting evaluation results with unified JSON schema and metadata.",
+      "Datastore now contains 229,000 evaluation results across 22,000 models and 2,200 benchmarks.",
+      "Converter automatically maps EEE records to Hugging Face YAML format; supports MMLU-Pro, GPQA, HLE, GSM8K."
+    ],
+    "why_it_matters": "Standardized evaluation reporting reduces fragmentation, improves model comparability, and prevents costly duplicate evaluation runs.",
+    "tags": [
+      "tooling",
+      "research",
+      "product"
+    ],
+    "published": "2026-06-30T00:00:00+00:00",
+    "fetched_at": "2026-07-01T09:58:33Z"
   },
   {
     "id": "91d16542fa1f",
