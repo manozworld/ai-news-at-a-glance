@@ -1,5 +1,27 @@
 [
   {
+    "id": "bf56d5c95a04",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-voice-agent-builder",
+    "original_title": "Jul 1, 2026Introducing the Voice Agent BuilderJul 1, 2026Introducing the Voice Agent BuilderCreate a personalized voice agent in under 2 minutes without a single line of code.Read More",
+    "headline": "xAI launches no-code Voice Agent Builder for production calls",
+    "bullets": [
+      "Create working voice agents in under 2 minutes without coding; includes telephony, knowledge retrieval, tools, and observability.",
+      "Grok Voice scores 67.3% on τ-voice Bench, outperforming Gemini 3.1 Flash (43.8%) and GPT-4 Realtime (35.3%).",
+      "Pricing: $0.05/min audio + $0.01/min telephony; supports 80+ voices, document uploads, API integrations, and real-time call monitoring."
+    ],
+    "why_it_matters": "Developers can deploy production voice agents without assembling separate STT/LLM/TTS providers, reducing latency, cost, and operational complexity.",
+    "tags": [
+      "voice",
+      "agents",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-02T09:20:18Z"
+  },
+  {
     "id": "d5f7bd1f6df8",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
@@ -64,6 +86,28 @@
     ],
     "published": null,
     "fetched_at": "2026-07-01T09:57:51Z"
+  },
+  {
+    "id": "b7f49b2bc148",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "original_title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "headline": "Hugging Face and Cerebras enable real-time speech-to-speech AI",
+    "bullets": [
+      "Open modular pipeline combines Parakeet ASR, Gemma 4 31B, Qwen3TTS for natural conversations",
+      "Cerebras inference dramatically reduces latency and P95 delays in production systems",
+      "Already powers 9,000+ Reachy Mini robots with responsive, natural interactions"
+    ],
+    "why_it_matters": "Low-latency voice AI enables natural conversational experiences for robots and assistants at scale.",
+    "tags": [
+      "voice",
+      "model-release",
+      "agents"
+    ],
+    "published": "2026-07-01T00:00:00+00:00",
+    "fetched_at": "2026-07-02T09:20:21Z"
   },
   {
     "id": "8654826289ec",
