@@ -1,5 +1,27 @@
 [
   {
+    "id": "50819ea9c0ae",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+    "original_title": "Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "headline": "Anthropic releases Fable 5 with cyber safeguards and jailbreak severity framework",
+    "bullets": [
+      "Fable 5 deployed globally with safety classifiers detecting dangerous cybersecurity misuse across four risk categories.",
+      "Anthropic proposes first AI jailbreak severity framework with Glasswing to standardize risk assessment across industry.",
+      "HackerOne program launched for security researchers to report cyber jailbreaks in Fable 5."
+    ],
+    "why_it_matters": "Establishes industry standards for evaluating AI safety risks and enables coordinated defense against model misuse.",
+    "tags": [
+      "safety",
+      "model-release",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-03T09:26:04Z"
+  },
+  {
     "id": "bf56d5c95a04",
     "provider_id": "xai",
     "provider_name": "xAI",
