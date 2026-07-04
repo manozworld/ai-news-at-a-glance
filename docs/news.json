@@ -1,5 +1,49 @@
 [
   {
+    "id": "5fa8133bc14c",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/leanstral-1-5",
+    "original_title": "Leanstral 1.5: Proof Abundance for All",
+    "headline": "Leanstral 1.5 achieves state-of-the-art formal verification with 6B parameters",
+    "bullets": [
+      "Free Apache-2.0 model saturates miniF2F, solves 587/672 PutnamBench problems, reaches 87% on FATE-H.",
+      "Trained via mid-training, supervised fine-tuning, and reinforcement learning with CISPO for proof engineering.",
+      "Discovered 5 previously unknown bugs across 57 repositories; proves AVL tree complexity in 2.7M tokens."
+    ],
+    "why_it_matters": "Open-source formal verification becomes practical and cost-effective for real-world code correctness and bug discovery.",
+    "tags": [
+      "model-release",
+      "reasoning",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-04T08:43:42Z"
+  },
+  {
+    "id": "e29a8bbb0a77",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "original_title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "headline": "Google DeepMind partners with A24 on creative AI research",
+    "bullets": [
+      "Google DeepMind and A24 collaborate on multi-project R&D spanning filmmaking and creative workflows.",
+      "Partnership gives filmmakers direct input shaping AI tools; Google invests in A24.",
+      "Focus: bridging cutting-edge technology with next-generation entertainment and storytelling possibilities."
+    ],
+    "why_it_matters": "Embeds AI development within creative workflows, ensuring tools serve artists' needs rather than vice versa.",
+    "tags": [
+      "product",
+      "research",
+      "tooling"
+    ],
+    "published": "2026-07-03T14:25:43+00:00",
+    "fetched_at": "2026-07-04T08:43:32Z"
+  },
+  {
     "id": "50819ea9c0ae",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
