@@ -1,5 +1,27 @@
 [
   {
+    "id": "c57690ad336e",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "original_title": "🤗 Kernels: Major Updates",
+    "headline": "Hugging Face Kernels Gets Major Redesign with Security Features",
+    "bullets": [
+      "New 'kernel' repository type on Hub enables discovery and filtering by accelerators, OS, backends.",
+      "Trusted publishers and code signing via Sigstore cosign prevent malicious kernel execution.",
+      "Torch Stable ABI and Apache TVM FFI support enable cross-framework kernel development."
+    ],
+    "why_it_matters": "Standardized, secure kernel distribution reduces friction for developers optimizing compute while protecting users from malicious code.",
+    "tags": [
+      "tooling",
+      "safety",
+      "api"
+    ],
+    "published": "2026-07-06T00:00:00+00:00",
+    "fetched_at": "2026-07-06T10:46:24Z"
+  },
+  {
     "id": "5fa8133bc14c",
     "provider_id": "mistral",
     "provider_name": "Mistral",
