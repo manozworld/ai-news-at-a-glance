@@ -1,5 +1,93 @@
 [
   {
+    "id": "bf7ecf7e78c0",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/new-flagship-voices",
+    "original_title": "Jul 6, 202621 New Flagship Grok VoicesJul 6, 202621 New Flagship Grok VoicesNew multilingual voices for Grok Voice, plus improved naturalness for the original five.Read More",
+    "headline": "xAI releases 21 new multilingual voices for Grok",
+    "bullets": [
+      "21 new flagship voices join original five, all supporting 25+ languages natively",
+      "Voices optimized for support, characters, commentary, advertising, education use cases",
+      "Available in realtime Voice Agent API, Text to Speech API, and Voice Agent Builder"
+    ],
+    "why_it_matters": "Developers can build multilingual voice agents with specialized voices for diverse applications without custom training.",
+    "tags": [
+      "voice",
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-07T09:50:43Z"
+  },
+  {
+    "id": "2902cfd98ebb",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+    "original_title": "Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+    "headline": "Alberta government scans 466M lines of code using Claude in 20 hours",
+    "bullets": [
+      "Claude Code with Opus and Sonnet models reviewed all Alberta government repositories, finding security vulnerabilities traditional tools missed.",
+      "50 autonomous agents completed security assessment in 20 hours; traditional approach would take 6.5 years.",
+      "Specialized red team and blue team agents now run continuous security checks against 95 controls per application."
+    ],
+    "why_it_matters": "Demonstrates AI-assisted code review can dramatically accelerate government cybersecurity modernization while reducing technical debt costs.",
+    "tags": [
+      "coding",
+      "safety",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-07T09:50:36Z"
+  },
+  {
+    "id": "0a1d2bd6cc12",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "original_title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "headline": "LeRobot v0.6.0 adds world models, reward APIs, and benchmarks",
+    "bullets": [
+      "Three new world model policies (VLA-JEPA, LingBot-VA, FastWAM) learn to imagine future actions during training.",
+      "Five new VLAs added: GR00T N1.7, MolmoAct2, EO-1, EVO1, Multitask DiT with varying parameter counts.",
+      "Unified reward models API with Robometer and TOPReward; six simulation benchmarks via lerobot-eval CLI."
+    ],
+    "why_it_matters": "Enables robot policies to predict outcomes before acting and measure success, closing the learning loop for practical deployment.",
+    "tags": [
+      "model-release",
+      "agents",
+      "tooling"
+    ],
+    "published": "2026-07-07T00:00:00+00:00",
+    "fetched_at": "2026-07-07T09:50:49Z"
+  },
+  {
+    "id": "088a18b234ed",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "original_title": "PRX Part 4: Our Data Strategy",
+    "headline": "Photoroom shares PRX image generation model data pipeline strategy",
+    "bullets": [
+      "Mixed public and internal datasets with VLM re-captioning; long, accurate captions crucial for pre-training quality.",
+      "Uses Lance for curation, MDS for streaming; JPEG quality 92 encoding reduces storage 3-10× versus PNG with imperceptible quality loss.",
+      "Switched to on-the-fly text encoding with Qwen3-VL, adding only 3-4% throughput cost while enabling future encoder changes."
+    ],
+    "why_it_matters": "Demonstrates practical data engineering trade-offs for scaling image models: breadth over perfection in pre-training, efficient storage formats, and flexible encoding strategies.",
+    "tags": [
+      "research",
+      "tooling",
+      "image"
+    ],
+    "published": "2026-07-06T15:30:55+00:00",
+    "fetched_at": "2026-07-07T09:50:54Z"
+  },
+  {
     "id": "c57690ad336e",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
