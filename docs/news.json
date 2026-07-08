@@ -1,5 +1,71 @@
 [
   {
+    "id": "d3d113bb08b2",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "original_title": "FEATURED",
+    "headline": "Meta launches Muse Image and previews Muse Video generation models",
+    "bullets": [
+      "Muse Image uses agentic reasoning with search, coding tools, and self-refinement at test-time compute scaling.",
+      "Ranks #2 on Arena for text-to-image and editing; Muse Video ranks #3 for text-to-video generation.",
+      "Available now on Meta AI app, Instagram Stories (US), WhatsApp; includes Content Seal invisible watermarking."
+    ],
+    "why_it_matters": "Agentic image generation with tool use and test-time scaling sets new standard for accuracy and iterative creative workflows.",
+    "tags": [
+      "model-release",
+      "image",
+      "video"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-08T08:35:51Z"
+  },
+  {
+    "id": "ca9a2a21da07",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "original_title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "headline": "Hugging Face models now launch directly into SageMaker Studio",
+    "bullets": [
+      "One-click deep links from Hugging Face to SageMaker Studio for fine-tuning or deployment workflows.",
+      "Auto-provisioned domains with pre-configured IAM permissions and GPU quota visibility in instance selection.",
+      "Model context preserved end-to-end; eliminates manual setup, permission configuration, and environment provisioning."
+    ],
+    "why_it_matters": "Developers can iterate from model discovery to production deployment in seconds without AWS console navigation or permission troubleshooting.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-07-07T21:15:33+00:00",
+    "fetched_at": "2026-07-08T08:35:55Z"
+  },
+  {
+    "id": "024a3808c07a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "original_title": "Hugging Face Models on Foundry Managed Compute",
+    "headline": "Microsoft Foundry integrates curated Hugging Face models with managed compute",
+    "bullets": [
+      "Weekly-refreshed catalog of open-weight models from Hugging Face, deployable in one click on Azure",
+      "Foundry Managed Compute offers GPU platform-as-a-service for open-source models with unified endpoints and SDKs",
+      "All models security-screened, SafeTensors format only, with enterprise governance and observability built-in"
+    ],
+    "why_it_matters": "Developers can now deploy production-grade open models on enterprise infrastructure without managing operational complexity.",
+    "tags": [
+      "product",
+      "open-weights",
+      "api"
+    ],
+    "published": "2026-07-07T15:20:06+00:00",
+    "fetched_at": "2026-07-08T08:35:59Z"
+  },
+  {
     "id": "bf7ecf7e78c0",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -64,6 +130,50 @@
     ],
     "published": "2026-07-07T00:00:00+00:00",
     "fetched_at": "2026-07-07T09:50:49Z"
+  },
+  {
+    "id": "60d1b56766e3",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "original_title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "headline": "Australian Payments Plus accelerates with ChatGPT and Codex",
+    "bullets": [
+      "77% of employees save 2+ hours weekly; 80% report improved work quality using ChatGPT Enterprise",
+      "Codex reduces complex reconciliation investigation from 4 hours to 30 minutes; builds simulations in 1 day vs weeks",
+      "AP+ deployed 300+ custom GPTs and 1,000+ Projects across finance and payments infrastructure teams"
+    ],
+    "why_it_matters": "Demonstrates how regulated financial organizations can safely scale AI for knowledge work, investigation, and product development while maintaining governance and accountability.",
+    "tags": [
+      "product",
+      "coding",
+      "api"
+    ],
+    "published": "2026-07-07T00:00:00+00:00",
+    "fetched_at": "2026-07-08T08:35:37Z"
+  },
+  {
+    "id": "b29a21395768",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "original_title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "headline": "SkyPilot integrates Hugging Face storage for zero-egress multi-cloud compute",
+    "bullets": [
+      "Mount Hub repos and Buckets into SkyPilot jobs via hf:// URLs with no egress fees",
+      "Run same workload across 20+ clouds, Kubernetes, Slurm; data reads cost nothing anywhere",
+      "Xet-backed dedup stores only changed chunks; lazy MOUNT streams data as GPU reads it"
+    ],
+    "why_it_matters": "Teams can now run training and inference on cheapest available GPUs without paying cross-cloud data transfer costs.",
+    "tags": [
+      "api",
+      "tooling",
+      "product"
+    ],
+    "published": "2026-07-07T00:00:00+00:00",
+    "fetched_at": "2026-07-08T08:36:03Z"
   },
   {
     "id": "088a18b234ed",
