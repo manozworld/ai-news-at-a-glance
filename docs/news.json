@@ -1,5 +1,137 @@
 [
   {
+    "id": "9f661bf376d1",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/robostral-navigate",
+    "original_title": "Introducing Robostral Navigate",
+    "headline": "Mistral releases 8B robot navigation model using single camera",
+    "bullets": [
+      "Robostral Navigate achieves 76.6% success on R2R-CE benchmark with only RGB camera input",
+      "8B model trained entirely in simulation on 400,000 trajectories across 6,000 scenes",
+      "Works on wheeled, legged, and flying robots; outperforms multi-sensor approaches"
+    ],
+    "why_it_matters": "Enables practical autonomous robot navigation in real-world environments with minimal hardware requirements and efficient training.",
+    "tags": [
+      "model-release",
+      "agents",
+      "robotics"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-09T09:48:32Z"
+  },
+  {
+    "id": "6258cf13f3d5",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-4-5",
+    "original_title": "Grok 4.5Jul 8, 2026Introducing Grok 4.5Jul 8, 2026Introducing Grok 4.5Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.Read More",
+    "headline": "xAI launches Grok 4.5, optimized for coding and agentic work",
+    "bullets": [
+      "Trained on tens of thousands of NVIDIA GB300 GPUs with focus on software engineering tasks",
+      "Achieves 62% on DeepSWE 1.0, uses 4.2× fewer tokens than Opus 4.8 on SWE Bench Pro",
+      "Priced at $2 per million input tokens, $6 per million output tokens; serves at 80 TPS"
+    ],
+    "why_it_matters": "Developers get a faster, cheaper coding model with strong engineering benchmarks and native integration in Cursor and Grok Build.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-09T09:48:21Z"
+  },
+  {
+    "id": "5535aeb9eb9d",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "original_title": "Data for Agents",
+    "headline": "NVIDIA releases open agent training data and synthetic datasets",
+    "bullets": [
+      "Released 10+ trillion pre-training tokens and millions of post-training samples across domains",
+      "Nemotron Post-Training v3 Prompt Atlas provides interactive visualization of post-training data composition",
+      "Nemotron-Personas synthetic data represents 2.4B people across 10 countries for localized testing"
+    ],
+    "why_it_matters": "Open agent data and synthetic personas enable developers to build more robust, inspectable AI agents while preserving organizational secrets through synthetic alternatives.",
+    "tags": [
+      "open-weights",
+      "agents",
+      "research"
+    ],
+    "published": "2026-07-08T17:16:05+00:00",
+    "fetched_at": "2026-07-09T09:48:25Z"
+  },
+  {
+    "id": "41b85c9cdb7a",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "original_title": "Our approach to government and national security partnerships",
+    "headline": "OpenAI publishes national security partnership principles",
+    "bullets": [
+      "Established Trusted Access for Cyber partnerships with nine allied nations and EU institutions.",
+      "Contractual restrictions prohibit mass surveillance, autonomous weapons direction, and high-stakes automated decisions.",
+      "Expanded GPT-Rosalind access to select governments for public health and biodefense missions."
+    ],
+    "why_it_matters": "Clarifies how AI labs balance government security needs with democratic accountability and human oversight.",
+    "tags": [
+      "policy",
+      "safety",
+      "product"
+    ],
+    "published": "2026-07-08T13:30:00+00:00",
+    "fetched_at": "2026-07-09T09:47:59Z"
+  },
+  {
+    "id": "eaad4cbcfa7f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "original_title": "Separating signal from noise in coding evaluations",
+    "headline": "OpenAI finds 30% of SWE-Bench Pro coding tasks are broken",
+    "bullets": [
+      "Audit identified 249 broken tasks (34.1%) via human review and 200 (27.4%) via automated pipeline.",
+      "Main issues: overly strict tests, underspecified prompts, low-coverage tests, misleading instructions.",
+      "OpenAI recommends developers carefully examine results before relying on benchmark for capability claims."
+    ],
+    "why_it_matters": "Flawed benchmarks misrepresent model capabilities and can mislead safety decisions and research priorities.",
+    "tags": [
+      "research",
+      "coding",
+      "safety"
+    ],
+    "published": "2026-07-08T13:00:00+00:00",
+    "fetched_at": "2026-07-09T09:48:03Z"
+  },
+  {
+    "id": "de9286311527",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "original_title": "Helping K–12 educators build practical AI skills",
+    "headline": "OpenAI launches K-12 educator AI skills training program nationwide",
+    "bullets": [
+      "AI Skills Jam brings 1,600+ teachers and administrators across eight U.S. cities for hands-on workshops this summer.",
+      "Teachers using AI weekly save average 5.9 hours per week, equivalent to six weeks annually.",
+      "Participants receive mentorship, access free OpenAI Academy platform for ongoing AI literacy and responsible adoption guidance."
+    ],
+    "why_it_matters": "Equips educators with practical AI tools and confidence to improve teaching efficiency while advancing responsible AI adoption in schools.",
+    "tags": [
+      "product",
+      "tooling",
+      "education"
+    ],
+    "published": "2026-07-08T10:00:00+00:00",
+    "fetched_at": "2026-07-09T09:48:07Z"
+  },
+  {
     "id": "d3d113bb08b2",
     "provider_id": "meta",
     "provider_name": "Meta AI",
@@ -20,6 +152,50 @@
     ],
     "published": null,
     "fetched_at": "2026-07-08T08:35:51Z"
+  },
+  {
+    "id": "d7499a6963c6",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "original_title": "Introducing GPT-Live",
+    "headline": "OpenAI launches GPT-Live, full-duplex voice model for natural conversations",
+    "bullets": [
+      "GPT-Live uses full-duplex architecture to listen and speak simultaneously, enabling natural back-and-forth dialogue.",
+      "Model delegates complex tasks to GPT-5.5 while maintaining conversation flow without interruption.",
+      "Two versions (GPT-Live-1 and mini) rolling out to ChatGPT users globally; API access coming soon."
+    ],
+    "why_it_matters": "Enables more natural, responsive voice interactions with AI while handling complex reasoning seamlessly in background.",
+    "tags": [
+      "voice",
+      "model-release",
+      "product"
+    ],
+    "published": "2026-07-08T00:00:00+00:00",
+    "fetched_at": "2026-07-09T09:48:11Z"
+  },
+  {
+    "id": "f2a3364a10eb",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "original_title": "Native-speed vLLM transformers modeling backend",
+    "headline": "Transformers vLLM backend now matches native inference speed",
+    "bullets": [
+      "Transformers models run at native vLLM speeds via torch.fx graph optimization and runtime layer fusion.",
+      "Tested on Qwen3 models: 4B single-GPU, 32B tensor-parallel, 235B MoE across 8×H100s.",
+      "Single flag --model-impl transformers enables optimization; no custom porting required."
+    ],
+    "why_it_matters": "Model authors get production-grade inference performance automatically without writing custom vLLM implementations.",
+    "tags": [
+      "model-release",
+      "optimization",
+      "api"
+    ],
+    "published": "2026-07-08T00:00:00+00:00",
+    "fetched_at": "2026-07-09T09:48:28Z"
   },
   {
     "id": "ca9a2a21da07",
