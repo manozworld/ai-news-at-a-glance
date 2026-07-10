@@ -1,5 +1,265 @@
 [
   {
+    "id": "c829f7bdab40",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+    "original_title": "Your Prompts and Skills need a system of record.",
+    "headline": "Mistral Studio adds version control for AI prompts and skills",
+    "bullets": [
+      "Studio provides centralized versioning, ownership tracking, and audit logs for prompts and skills used in production AI systems.",
+      "Non-developers can now iterate and test prompts instantly without CI/CD pipelines, while production changes still require approvals.",
+      "Immutable versions, rollback capability, and observability connect prompts to actual AI behavior for compliance and governance."
+    ],
+    "why_it_matters": "Enterprises can now govern AI behavior as production assets, reducing inconsistency, enabling faster iteration, and meeting compliance requirements.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:54Z"
+  },
+  {
+    "id": "9fc4a4963406",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "original_title": "FEATURED",
+    "headline": "Meta releases Muse Spark 1.1 multimodal reasoning model for agents",
+    "bullets": [
+      "Muse Spark 1.1 handles agentic tasks with 1M token context, improved coding, and computer use capabilities.",
+      "Meta Model API now in public preview; model available in Meta AI app with Thinking mode.",
+      "Passes safety evaluations across chemical, biological, cybersecurity, and control risk categories."
+    ],
+    "why_it_matters": "Developers can now build complex agentic workflows with stronger reasoning, coding, and multimodal capabilities at enterprise scale.",
+    "tags": [
+      "model-release",
+      "agents",
+      "reasoning"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:45Z"
+  },
+  {
+    "id": "d7ccf9cc0fa2",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "original_title": "Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude",
+    "headline": "Claude introduces usage reflection dashboard for self-assessment",
+    "bullets": [
+      "Beta feature tracks Claude usage patterns, topics, and time spent over 1-12 month periods",
+      "Includes 4D AI Fluency Framework covering delegation, description, discernment, diligence",
+      "Privacy-focused: excludes incognito chats, source files, health integration conversations"
+    ],
+    "why_it_matters": "Helps users understand AI integration effectiveness and align usage with personal goals and values.",
+    "tags": [
+      "product",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:39Z"
+  },
+  {
+    "id": "d015b138db17",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/ben-bernanke",
+    "original_title": "Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "headline": "Former Fed Chair Ben Bernanke joins Anthropic's governance trust",
+    "bullets": [
+      "Bernanke appointed to Long-Term Benefit Trust, independent body overseeing AI development responsibility.",
+      "Trust has authority to appoint board members and advise on AI risks and societal impacts.",
+      "Bernanke brings economic expertise to study how AI affects workforces and global economies."
+    ],
+    "why_it_matters": "Adds credible external oversight to AI governance, signaling commitment to responsible development beyond profit motives.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:32Z"
+  },
+  {
+    "id": "8fd51b42b585",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "original_title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
+    "headline": "UST deploys Claude across chip validation, healthcare, telecom systems",
+    "bullets": [
+      "UST integrating Claude into iDEC platform cuts chip validation cycles by 50-70%, from four days to 48 hours.",
+      "Training 20,000 UST engineers, architects, consultants on Claude for physical AI and enterprise workflows.",
+      "Claude deployed in healthcare CarePath, telecom IntelliOps, banking FinX with human approval gates."
+    ],
+    "why_it_matters": "Demonstrates Claude's capability in high-stakes regulated industries, accelerating hardware validation and enterprise operations with safety controls.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:28Z"
+  },
+  {
+    "id": "5e689a649359",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "original_title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "headline": "Anthropic invites public questions about AI's societal impact",
+    "bullets": [
+      "Launched hard questions initiative seeking public concerns on jobs, society, medicine, and AI governance.",
+      "Surveyed 52,000 Americans and 81,000 Claude users across 159 countries on AI hopes and risks.",
+      "Commits to publicly track and report specific actions addressing identified concerns and potential shortfalls."
+    ],
+    "why_it_matters": "Establishes transparent accountability mechanism for AI developers to address public concerns about safety, fairness, and societal impact.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-10T09:43:24Z"
+  },
+  {
+    "id": "027b05f9d0fa",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "original_title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "headline": "Deutsche Telekom deploys AI across operations, customer service, networks",
+    "bullets": [
+      "50,000+ monthly ChatGPT users; 546% increase in AI tool usage since early 2026",
+      "Integrating real-time translation, call assistants, and summaries into voice communications",
+      "Redesigning workflows across customer care, network optimization, and employee processes"
+    ],
+    "why_it_matters": "Demonstrates how large enterprises can embed AI into core infrastructure and customer experiences rather than treating it as isolated tooling.",
+    "tags": [
+      "product",
+      "voice",
+      "agents"
+    ],
+    "published": "2026-07-10T07:00:00+00:00",
+    "fetched_at": "2026-07-10T09:42:58Z"
+  },
+  {
+    "id": "145fbd552c75",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "original_title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "headline": "PyTorch attention profiling reveals optimization opportunities in transformers",
+    "bullets": [
+      "Naive attention implementation shows five expected kernels plus unexpected memory copy overhead.",
+      "Switching masked_fill to masked_fill_ eliminates memcpy kernel, reducing operations per layer.",
+      "Series demonstrates reading profiler traces to identify and eliminate bottlenecks in transformer models."
+    ],
+    "why_it_matters": "Developers can apply profiling techniques to optimize attention mechanisms, compounding savings across transformer layers.",
+    "tags": [
+      "tooling",
+      "coding",
+      "research"
+    ],
+    "published": "2026-07-10T00:00:00+00:00",
+    "fetched_at": "2026-07-10T09:43:50Z"
+  },
+  {
+    "id": "e799563c0958",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "original_title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "headline": "GPT-5.6 becomes default model in Microsoft 365 Copilot",
+    "bullets": [
+      "GPT-5.6 now preferred model across Word, Excel, PowerPoint, Chat, Cowork",
+      "Delivers stronger performance per dollar with improved token efficiency",
+      "Enables higher-quality outputs with fewer prompts across productivity apps"
+    ],
+    "why_it_matters": "Microsoft 365 users gain access to OpenAI's latest flagship model for everyday work, improving productivity and reducing iteration cycles.",
+    "tags": [
+      "model-release",
+      "product",
+      "api"
+    ],
+    "published": "2026-07-09T13:00:00+00:00",
+    "fetched_at": "2026-07-10T09:43:05Z"
+  },
+  {
+    "id": "54ee76ae9206",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/gpt-5-6",
+    "original_title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "headline": "OpenAI releases GPT-5.6 family with Sol flagship model",
+    "bullets": [
+      "GPT-5.6 Sol achieves state-of-the-art coding and reasoning at lower cost than competitors",
+      "Ultra mode coordinates four parallel agents for complex tasks with faster completion",
+      "Terra and Luna models outperform Claude Fable 5 at one-sixteenth the estimated cost"
+    ],
+    "why_it_matters": "Developers gain more capable, cost-efficient models with agentic capabilities for production workflows.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-10T09:43:08Z"
+  },
+  {
+    "id": "5941cef110c0",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "original_title": "ChatGPT is now a partner for your most ambitious work",
+    "headline": "OpenAI launches ChatGPT Work agent for multi-step task automation",
+    "bullets": [
+      "ChatGPT Work powered by GPT-5.6 can autonomously complete complex workflows across apps for hours",
+      "Integrates with Slack, Teams, Google Drive, email, and CRMs via plugins to gather context",
+      "Rolling out to Pro, Enterprise, Edu plans today; Plus and Business plans within days"
+    ],
+    "why_it_matters": "Enterprises can automate repetitive multi-app workflows, reducing manual work from weeks to hours while maintaining human oversight.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-10T09:43:15Z"
+  },
+  {
+    "id": "8fd74bd3f519",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "original_title": "GPT-5.5 Bio Bug Bounty",
+    "headline": "OpenAI doubles bio jailbreak bounty rewards to fifty thousand",
+    "bullets": [
+      "Universal jailbreak reward increased from $25,000 to $50,000 for GPT-5.6 and GPT-5.5",
+      "Program evolves into ongoing private initiative focused on biosafety challenge testing",
+      "GPT-5.5 testing ends July 27, 2026; GPT-5.6 becomes primary scope going forward"
+    ],
+    "why_it_matters": "Higher rewards incentivize security researchers to identify critical biosafety vulnerabilities in frontier models before deployment.",
+    "tags": [
+      "safety",
+      "model-release"
+    ],
+    "published": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-10T09:43:18Z"
+  },
+  {
     "id": "9f661bf376d1",
     "provider_id": "mistral",
     "provider_name": "Mistral",
