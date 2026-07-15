@@ -1,5 +1,71 @@
 [
   {
+    "id": "42ba56cb55d4",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/canadian-ai-research",
+    "original_title": "Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research",
+    "headline": "Anthropic invests $10 million in Canadian AI research institutions",
+    "bullets": [
+      "Funding partnerships with Amii, Mila, Vector Institute, and five universities for AI safety and applications research.",
+      "Hundreds of Canadian startups receive $5,000+ USD in API credits through Anthropic for Startups program.",
+      "Canada ranks eighth globally in Claude.ai usage, with per-capita adoption four times population baseline."
+    ],
+    "why_it_matters": "Strengthens Canadian AI research capacity and accelerates adoption of advanced AI tools across key sectors.",
+    "tags": [
+      "product",
+      "research",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-15T08:21:47Z"
+  },
+  {
+    "id": "d37ce11fa5e9",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "original_title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
+    "headline": "Anthropic Launches Claude for Teachers with Free Premium Access",
+    "bullets": [
+      "Free premium Claude access for verified US K-12 educators with curriculum mapping to all 50 states.",
+      "Integrates with 9+ education tools including ASSISTments, Canva Education, and Diffit for lesson planning.",
+      "Includes Claude Code for automated tasks like daily exit ticket analysis and differentiated material creation."
+    ],
+    "why_it_matters": "Teachers gain AI-powered support for lesson planning and differentiation while protecting student data under FERPA compliance.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-15T08:21:37Z"
+  },
+  {
+    "id": "92ab1f77dd8c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "original_title": "How to manage AI investments in the agentic era",
+    "headline": "Five strategies for managing AI spending in agentic workflows",
+    "bullets": [
+      "GPT-5.6 delivers 54% fewer output tokens and 57% less time per task versus prior versions.",
+      "New Admin Console analytics show usage by user, team, product, and model with spend tracking.",
+      "Evaluate models on cost-per-accepted-outcome, not token price alone, for ROI clarity."
+    ],
+    "why_it_matters": "Enterprises need frameworks to control AI costs while scaling agentic workflows across systems safely.",
+    "tags": [
+      "product",
+      "agents",
+      "pricing"
+    ],
+    "published": "2026-07-14T10:00:00+00:00",
+    "fetched_at": "2026-07-15T08:21:28Z"
+  },
+  {
     "id": "c829f7bdab40",
     "provider_id": "mistral",
     "provider_name": "Mistral",
