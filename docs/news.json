@@ -1,5 +1,71 @@
 [
   {
+    "id": "7a6e0dd34e66",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-build-open-source",
+    "original_title": "Jul 15, 2026Grok Build is Now Open Source",
+    "headline": "xAI Open-Sources Grok Build Coding Agent and TUI",
+    "bullets": [
+      "Grok Build source code now available on GitHub for inspection and extension.",
+      "Includes agent loop, tools, terminal UI, and extension system for skills and plugins.",
+      "Supports fully local-first operation with custom inference and config-driven setup."
+    ],
+    "why_it_matters": "Developers can now inspect, extend, and run Grok Build locally without external dependencies.",
+    "tags": [
+      "open-weights",
+      "coding",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-16T08:20:56Z"
+  },
+  {
+    "id": "1e97faa490fa",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "original_title": "The US is advancing AI safety through state and federal action",
+    "headline": "US builds unified AI safety framework through state and federal coordination",
+    "bullets": [
+      "California, New York, Illinois passed aligned frontier AI safety laws establishing disclosure and audit requirements.",
+      "Federal government developing consistent testing standards for advanced AI models in cybersecurity by early August.",
+      "OpenAI advocates reverse federalism approach: states create de facto national standard to prevent regulatory patchwork."
+    ],
+    "why_it_matters": "Coordinated safety standards enable faster deployment of advanced AI tools to government and critical infrastructure while maintaining democratic oversight.",
+    "tags": [
+      "safety",
+      "policy",
+      "research"
+    ],
+    "published": "2026-07-15T12:00:00+00:00",
+    "fetched_at": "2026-07-16T08:20:36Z"
+  },
+  {
+    "id": "ee230258f27f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "original_title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "headline": "OpenAI trains automated red-teamer to harden GPT-5.6 against attacks",
+    "bullets": [
+      "GPT-Red automated red-teamer discovers vulnerabilities at scale, improving safety efficiency.",
+      "GPT-5.6 achieves 6x fewer prompt injection failures versus prior production model.",
+      "Self-play reinforcement learning trains attacker and defender models simultaneously."
+    ],
+    "why_it_matters": "Automated red-teaming scales safety testing alongside model capabilities, enabling faster vulnerability discovery and remediation before deployment.",
+    "tags": [
+      "safety",
+      "model-release",
+      "reasoning"
+    ],
+    "published": "2026-07-15T10:00:00+00:00",
+    "fetched_at": "2026-07-16T08:20:43Z"
+  },
+  {
     "id": "42ba56cb55d4",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
