@@ -1,5 +1,91 @@
 [
   {
+    "id": "0d2817854dc7",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-automations",
+    "original_title": "Jul 16, 2026Automations in Grok",
+    "headline": "Grok launches automations for scheduled tasks and email triggers",
+    "bullets": [
+      "Schedule jobs daily, weekly, or monthly; email triggers fire when inbox matches filters.",
+      "Describe task once in chat, Grok executes with current data on each run.",
+      "Results saved to history; choose notification via email, app, or manual check."
+    ],
+    "why_it_matters": "Users automate repetitive research, monitoring, and email tasks without manual intervention or coding.",
+    "tags": [
+      "product",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-17T08:17:29Z"
+  },
+  {
+    "id": "ff8c14b3821e",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "original_title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "headline": "NVIDIA Nemotron 3 Embed tops RTEB leaderboard for retrieval",
+    "bullets": [
+      "8B model ranks #1 on RTEB with 78.5% score; 1B variants for cost-sensitive deployment",
+      "32k context window supports long documents, code, and multi-turn agent histories",
+      "NVFP4 quantization on Blackwell delivers 2x throughput with 99%+ accuracy retention"
+    ],
+    "why_it_matters": "Better retrieval reduces wasted agent queries and token costs in production RAG and agentic workflows.",
+    "tags": [
+      "model-release",
+      "agents",
+      "open-weights"
+    ],
+    "published": "2026-07-16T16:01:21+00:00",
+    "fetched_at": "2026-07-17T08:17:34Z"
+  },
+  {
+    "id": "8fe39edff791",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "original_title": "Why teens deserve access to safe AI",
+    "headline": "OpenAI outlines teen safety features and learning tools for ChatGPT",
+    "bullets": [
+      "Nearly 9 in 10 teens use ChatGPT weekly for learning, skill-building, and productivity.",
+      "Study Mode guides step-by-step problem solving; 18M weekly users engage with interactive math/science.",
+      "Age-appropriate safeguards include stronger content filters, break reminders, and expanded parental controls."
+    ],
+    "why_it_matters": "Teens need AI access with age-appropriate protections to prepare for technology-driven futures while maintaining safety.",
+    "tags": [
+      "safety",
+      "product",
+      "tooling"
+    ],
+    "published": "2026-07-16T16:00:00+00:00",
+    "fetched_at": "2026-07-17T08:17:16Z"
+  },
+  {
+    "id": "4babaf3e269b",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "original_title": "Newer Models, Same Advantage",
+    "headline": "Domain-specialized OCR outperforms newer multilingual models on Portuguese",
+    "bullets": [
+      "DharmaOCR scored 0.925 vs Mistral OCR4's 0.798 and Unlimited-OCR's 0.7587 on Portuguese benchmark.",
+      "Two-stage training: supervised fine-tuning on Portuguese texts, then Direct Preference Optimization for stability.",
+      "Specialization concentrates all model parameters on one language instead of distributing across multilingual space."
+    ],
+    "why_it_matters": "Demonstrates that domain specialization can outperform newer, larger models when task-specific training is prioritized over broad capability.",
+    "tags": [
+      "model-release",
+      "research"
+    ],
+    "published": "2026-07-16T11:49:48+00:00",
+    "fetched_at": "2026-07-17T08:17:37Z"
+  },
+  {
     "id": "7a6e0dd34e66",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -20,6 +106,94 @@
     ],
     "published": null,
     "fetched_at": "2026-07-16T08:20:56Z"
+  },
+  {
+    "id": "6f16a999c8dd",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/cars24",
+    "original_title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "headline": "Cars24 scales with OpenAI agents handling 1M monthly conversation minutes",
+    "bullets": [
+      "AI agents handle 1M+ monthly conversation minutes, recover 12% lost leads, boost support resolution 50%",
+      "Deployed voice and chat agents across full customer journey: buying, selling, financing, follow-ups",
+      "600 employees use ChatGPT Enterprise and Codex; finance, legal, marketing teams build custom workflows"
+    ],
+    "why_it_matters": "Demonstrates how agentic AI scales customer operations and enables non-technical teams to automate workflows independently.",
+    "tags": [
+      "agents",
+      "api",
+      "product"
+    ],
+    "published": "2026-07-16T00:00:00+00:00",
+    "fetched_at": "2026-07-17T08:17:20Z"
+  },
+  {
+    "id": "d8ed319939f5",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "original_title": "Security incident disclosure — July 2026",
+    "headline": "Hugging Face discloses autonomous AI-driven security breach",
+    "bullets": [
+      "Attacker used autonomous agent framework executing thousands of actions across sandboxed environments.",
+      "Initial access via dataset code-execution vulnerabilities; lateral movement to internal clusters occurred.",
+      "Hugging Face used GLM 5.2 open-weight model for forensic analysis to bypass API safety guardrails."
+    ],
+    "why_it_matters": "Demonstrates AI-powered attacks are operational reality; defenders must deploy capable local models and treat data pipelines as critical attack surfaces.",
+    "tags": [
+      "safety",
+      "agents",
+      "research"
+    ],
+    "published": "2026-07-16T00:00:00+00:00",
+    "fetched_at": "2026-07-17T08:17:41Z"
+  },
+  {
+    "id": "53e3149d2cc1",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "original_title": "What building Shippy taught us about building agents",
+    "headline": "Shippy maritime agent reveals lessons on building reliable AI systems",
+    "bullets": [
+      "Shippy uses modular architecture: soul (system prompt), skills (markdown specs), config (runtime settings).",
+      "Deterministic CLI wraps complex Skylight API to prevent agent errors in pagination, geometry, filtering.",
+      "Isolated Kubernetes deployments per user ensure data privacy across 70+ countries, hundreds of agencies."
+    ],
+    "why_it_matters": "High-stakes AI agents require layered reliability architecture, not just better models, to prevent real-world operational failures.",
+    "tags": [
+      "agents",
+      "safety",
+      "product"
+    ],
+    "published": "2026-07-15T17:29:41+00:00",
+    "fetched_at": "2026-07-17T08:17:45Z"
+  },
+  {
+    "id": "5c8332d4091e",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "original_title": "Model Routing Is Simple. Until It Isn’t.",
+    "headline": "Model routing requires system optimization, not just classification",
+    "bullets": [
+      "Claude Sonnet cost $79 vs GPT-4.1's $155 on 417 tasks due to caching benefits, despite lower GPT pricing.",
+      "Routers must balance cost, latency, compliance, and reliability simultaneously, not just task difficulty.",
+      "IBM's optimization-based router achieves 84% accuracy at $93 with 21% cost reduction versus single-model baseline."
+    ],
+    "why_it_matters": "Developers building agentic systems need system-level routing strategies, not simple model classifiers, to optimize real-world tradeoffs.",
+    "tags": [
+      "agents",
+      "research",
+      "tooling"
+    ],
+    "published": "2026-07-15T17:27:01+00:00",
+    "fetched_at": "2026-07-17T08:17:48Z"
   },
   {
     "id": "1e97faa490fa",
@@ -108,6 +282,50 @@
     ],
     "published": null,
     "fetched_at": "2026-07-15T08:21:37Z"
+  },
+  {
+    "id": "210f6726bf4a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "original_title": "Welcome Inkling by Thinking Machines",
+    "headline": "Thinking Machines releases Inkling, 1T-parameter multimodal open model",
+    "bullets": [
+      "1 trillion parameter decoder-only MoE model with 1M context window supporting image, text, and audio inputs.",
+      "Trained on 45 trillion tokens; includes BF16 and NVFP4 quantized variants with speculative MTP for faster inference.",
+      "Day-0 support in transformers, SGLang, llama.cpp; uses hybrid attention and short convolution for efficiency."
+    ],
+    "why_it_matters": "Enables developers to build multimodal reasoning applications with native support for audio, images, and text in one open model.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "open-weights"
+    ],
+    "published": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-17T08:17:56Z"
+  },
+  {
+    "id": "5d7569c2afe3",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "original_title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "headline": "New benchmark measures real-world voice AI quality beyond word accuracy",
+    "bullets": [
+      "Real World VoiceEQ evaluates 40+ models across 15+ dimensions using 1M+ human ratings.",
+      "No single voice model excels across all tasks; systems specialize in different strengths.",
+      "Models struggle with emotion, accents, noise, and paralinguistic cues humans naturally detect."
+    ],
+    "why_it_matters": "Reveals that traditional benchmarks mask real-world voice AI failures, guiding better model selection and development priorities.",
+    "tags": [
+      "voice",
+      "research",
+      "safety"
+    ],
+    "published": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-17T08:18:00Z"
   },
   {
     "id": "92ab1f77dd8c",
@@ -6334,224 +6552,5 @@
     ],
     "published": "2026-05-06T00:00:00+00:00",
     "fetched_at": "2026-05-14T19:52:04Z"
-  },
-  {
-    "id": "6af9b6a70003",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "original_title": "Granite 4.1 LLMs: How They’re Built",
-    "headline": "IBM Granite 4.1: Dense LLMs trained on 15T tokens with 512K context",
-    "bullets": [
-      "Three model sizes (3B, 8B, 30B) trained on ~15 trillion tokens across five pre-training phases.",
-      "8B instruct model matches 32B MoE predecessor using simpler dense architecture with fewer parameters.",
-      "Extended context window to 512K tokens; refined via 4.1M curated SFT samples and GRPO reinforcement learning."
-    ],
-    "why_it_matters": "Demonstrates efficient dense model training can match larger MoE systems, enabling practical deployment of capable smaller models.",
-    "tags": [
-      "model-release",
-      "open-weights",
-      "reasoning"
-    ],
-    "published": "2026-04-29T15:01:48+00:00",
-    "fetched_at": "2026-05-14T19:52:08Z"
-  },
-  {
-    "id": "a89e6f10b7ac",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "original_title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "headline": "DeepInfra joins Hugging Face as supported inference provider",
-    "bullets": [
-      "DeepInfra now integrated into Hub model pages and Python/JS SDKs for serverless inference",
-      "Supports 100+ models including DeepSeek V4, Kimi-K2.6, GLM-5.1 with text generation tasks",
-      "Users can set custom API keys or route requests through HF; PRO members get $2 monthly credits"
-    ],
-    "why_it_matters": "Developers gain cost-effective serverless inference access directly from model pages without provider setup.",
-    "tags": [
-      "api",
-      "product",
-      "pricing"
-    ],
-    "published": "2026-04-29T00:00:00+00:00",
-    "fetched_at": "2026-05-14T19:52:12Z"
-  },
-  {
-    "id": "5b7c46b20d14",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "original_title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "headline": "NVIDIA releases Nemotron 3 Nano Omni multimodal model for documents and video",
-    "bullets": [
-      "Handles documents, audio, video, and images with 9x higher throughput than alternatives.",
-      "Combines Mamba-Transformer MoE backbone with vision and audio encoders for long contexts.",
-      "Leads benchmarks on document understanding, video reasoning, and voice interaction tasks."
-    ],
-    "why_it_matters": "Enables efficient enterprise agents for document analysis, video understanding, and multimodal reasoning at scale.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "agents"
-    ],
-    "published": "2026-04-28T15:58:57+00:00",
-    "fetched_at": "2026-05-14T19:52:15Z"
-  },
-  {
-    "id": "e548e0e285fc",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "original_title": "How to build scalable web apps with OpenAI's Privacy Filter",
-    "headline": "OpenAI Privacy Filter enables three scalable PII detection web apps",
-    "bullets": [
-      "1.5B-parameter model detects eight PII categories in single 128k-token pass with Apache 2.0 license",
-      "Three production apps built: document explorer with highlighting, image anonymizer with canvas editing, shareable redacted pastebin",
-      "gradio.Server backend handles queuing, GPU allocation, and consistent API across HTML/JS frontends"
-    ],
-    "why_it_matters": "Developers can now build privacy-preserving applications with efficient PII detection and flexible frontend architectures.",
-    "tags": [
-      "model-release",
-      "tooling",
-      "safety"
-    ],
-    "published": "2026-04-27T00:00:00+00:00",
-    "fetched_at": "2026-05-14T19:52:20Z"
-  },
-  {
-    "id": "bdf480e0ad99",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "original_title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-    "headline": "Google DeepMind introduces resilient distributed LLM training across data centers",
-    "bullets": [
-      "Decoupled DiLoCo trains 12B models across four US regions using only 2-5 Gbps bandwidth, 20x faster than conventional methods.",
-      "System isolates hardware failures to individual compute islands, maintaining training while others continue learning uninterrupted.",
-      "Enables mixing different TPU generations in single training run, extending hardware lifespan and increasing available compute."
-    ],
-    "why_it_matters": "Enables cost-effective, fault-tolerant AI training at global scale using existing internet infrastructure instead of custom networks.",
-    "tags": [
-      "research",
-      "tooling"
-    ],
-    "published": "2026-04-22T10:20:03+00:00",
-    "fetched_at": "2026-05-14T19:50:06Z"
-  },
-  {
-    "id": "15929aafa9b3",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "original_title": "Partnering with industry leaders to accelerate AI transformation",
-    "headline": "DeepMind partners with major consultancies for enterprise AI adoption",
-    "bullets": [
-      "Google DeepMind collaborates with Accenture, Bain, BCG, Deloitte, McKinsey on agentic AI transformation",
-      "Partners gain early access to Gemini frontier models and industry-specific AI solutions",
-      "Focus on finance, manufacturing, retail, media sectors to close enterprise AI adoption gap"
-    ],
-    "why_it_matters": "Accelerates enterprise AI deployment at scale by combining frontier research with consulting expertise and real-world implementation.",
-    "tags": [
-      "agents",
-      "product",
-      "api"
-    ],
-    "published": "2026-04-21T14:54:15+00:00",
-    "fetched_at": "2026-05-14T19:50:10Z"
-  },
-  {
-    "id": "c6cbf678fecc",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-    "original_title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "headline": "Google releases Gemini 3.1 Flash TTS with granular audio control",
-    "bullets": [
-      "Audio tags enable precise control over vocal style, pace, and delivery across 70+ languages.",
-      "Achieved 1,211 Elo score on Artificial Analysis TTS leaderboard for quality and cost efficiency.",
-      "All output watermarked with SynthID to identify AI-generated speech and prevent misinformation."
-    ],
-    "why_it_matters": "Developers gain fine-grained control over speech generation, enabling more natural, localized AI applications at scale.",
-    "tags": [
-      "voice",
-      "product",
-      "api"
-    ],
-    "published": "2026-04-15T16:03:19+00:00",
-    "fetched_at": "2026-05-14T19:50:13Z"
-  },
-  {
-    "id": "e43bbdcd6d14",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "original_title": "Gemma 4: Byte for byte, the most capable open models",
-    "headline": "Google DeepMind releases Gemma 4 open models with advanced reasoning",
-    "bullets": [
-      "Four sizes: 2B, 4B, 26B MoE, 31B dense; 31B ranks #3 on Arena AI leaderboard",
-      "Native multimodal support: video, images, audio; up to 256K context window",
-      "Apache 2.0 license; runs on Android devices, laptops, and enterprise hardware"
-    ],
-    "why_it_matters": "Developers can deploy frontier-class reasoning locally without proprietary restrictions or cloud dependency.",
-    "tags": [
-      "model-release",
-      "open-weights",
-      "multimodal"
-    ],
-    "published": "2026-04-02T16:00:49+00:00",
-    "fetched_at": "2026-05-14T19:50:17Z"
-  },
-  {
-    "id": "0ebb03b34cbe",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/ai-pointer/",
-    "original_title": "Reimagining the mouse pointer for the AI era",
-    "headline": "Google DeepMind reimagines mouse pointer with AI context awareness",
-    "bullets": [
-      "AI-enabled pointer understands visual context without detailed prompts, powered by Gemini.",
-      "Rolling out in Chrome and Googlebook laptop; users point and speak instead of typing prompts.",
-      "Four design principles: maintain workflow, capture context visually, enable natural shorthand, convert pixels to actionable entities."
-    ],
-    "why_it_matters": "Eliminates friction in AI interactions by bringing capabilities directly into existing workflows rather than forcing users into separate AI tools.",
-    "tags": [
-      "product",
-      "multimodal",
-      "tooling"
-    ],
-    "published": "2026-03-29T10:50:49+00:00",
-    "fetched_at": "2026-05-14T19:50:21Z"
-  },
-  {
-    "id": "33b1a16fe380",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "original_title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "headline": "Google releases Gemini 3.1 Flash Live audio model for natural voice interactions",
-    "bullets": [
-      "Gemini 3.1 Flash Live scores 90.8% on ComplexFuncBench Audio for multi-step function calling tasks.",
-      "Model available via Gemini Live API for developers, enterprises, and 200+ countries via Search Live.",
-      "All audio output watermarked with SynthID to detect AI-generated content and prevent misinformation."
-    ],
-    "why_it_matters": "Developers can build more reliable voice agents handling complex tasks with improved tone understanding and lower latency.",
-    "tags": [
-      "model-release",
-      "voice",
-      "api"
-    ],
-    "published": "2026-03-26T15:23:35+00:00",
-    "fetched_at": "2026-05-14T19:50:25Z"
   }
 ]
