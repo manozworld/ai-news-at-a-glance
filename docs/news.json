@@ -1,5 +1,49 @@
 [
   {
+    "id": "a0bbc2c6e6f2",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "original_title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "headline": "NVIDIA NeMo Automodel enables scalable diffusion model fine-tuning",
+    "bullets": [
+      "Supports FLUX.1-dev, Wan 2.1/2.2, HunyuanVideo, Qwen-Image with no checkpoint conversion needed.",
+      "Offers FSDP2, tensor, context, pipeline parallelism via YAML config; scales from single GPU to hundreds.",
+      "Full fine-tuning and LoRA-style PEFT both supported; checkpoints load directly into Diffusers pipelines."
+    ],
+    "why_it_matters": "Developers can now fine-tune production-grade diffusion models at scale without custom training scripts or format conversions.",
+    "tags": [
+      "model-release",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-07-17T15:57:54+00:00",
+    "fetched_at": "2026-07-18T07:59:21Z"
+  },
+  {
+    "id": "3ebda52fc80e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "original_title": "A scorecard for the AI age",
+    "headline": "OpenAI proposes measuring AI value by useful work per dollar",
+    "bullets": [
+      "GPT-5.6 released with three tiers: Sol (flagship), Terra (balanced), Luna (fastest/cheapest)",
+      "GPT-5.6 Sol achieves 72.7% on coding tasks using 54% fewer tokens than competitors",
+      "Framework tracks work completion, task cost, reliability, and value scaling per dollar spent"
+    ],
+    "why_it_matters": "Helps enterprises move beyond token costs to measure actual business value and ROI from AI deployments.",
+    "tags": [
+      "model-release",
+      "product",
+      "pricing"
+    ],
+    "published": "2026-07-17T10:00:00+00:00",
+    "fetched_at": "2026-07-18T07:59:04Z"
+  },
+  {
     "id": "0d2817854dc7",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -6508,49 +6552,5 @@
     ],
     "published": "2026-05-06T19:06:55+00:00",
     "fetched_at": "2026-05-14T19:52:00Z"
-  },
-  {
-    "id": "049666cfa3c7",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "original_title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "headline": "Gemini-powered coding agent improves DNA sequencing accuracy by 30%",
-    "bullets": [
-      "AlphaEvolve optimized DeepConsensus model, reducing variant detection errors by 30%.",
-      "PacBio using improved model for more accurate, cost-effective genetic data analysis.",
-      "Higher accuracy may enable discovery of previously undetected disease-causing mutations."
-    ],
-    "why_it_matters": "AI-assisted code optimization can accelerate scientific breakthroughs in genomics and disease research.",
-    "tags": [
-      "agents",
-      "coding",
-      "research"
-    ],
-    "published": "2026-05-06T10:43:49+00:00",
-    "fetched_at": "2026-05-14T19:50:02Z"
-  },
-  {
-    "id": "351d00366b56",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "original_title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "headline": "Open ASR Leaderboard adds private datasets to prevent benchmarking optimization",
-    "bullets": [
-      "Appen and DataoceanAI contributed high-quality English ASR datasets covering scripted, conversational speech across multiple accents.",
-      "Private test sets kept hidden to prevent benchmaxxing and test-set contamination while maintaining public leaderboard transparency.",
-      "New metrics highlight performance gaps between controlled settings and conversational, non-American accent conditions."
-    ],
-    "why_it_matters": "Private evaluation data reduces gaming of benchmarks while providing more realistic ASR performance assessment across diverse real-world conditions.",
-    "tags": [
-      "research",
-      "tooling",
-      "safety"
-    ],
-    "published": "2026-05-06T00:00:00+00:00",
-    "fetched_at": "2026-05-14T19:52:04Z"
   }
 ]
