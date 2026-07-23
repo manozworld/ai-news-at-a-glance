@@ -1,5 +1,180 @@
 [
   {
+    "id": "92c58c1b9560",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "original_title": "Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action",
+    "headline": "Anthropic donates $20M more to AI policy advocacy group",
+    "bullets": [
+      "Total commitment to Public First Action reaches $40 million for public education and policy work.",
+      "Anthropic advocates for government verification of AI safety claims and deployment restrictions for catastrophic-risk models.",
+      "Claude Mythos Preview found thousands of vulnerabilities in major operating systems through Project Glasswing."
+    ],
+    "why_it_matters": "Signals major AI company pushing for regulatory frameworks and government oversight before capabilities advance further.",
+    "tags": [
+      "safety",
+      "policy",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-23T08:37:04Z"
+  },
+  {
+    "id": "85aa09c15ed0",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "original_title": "Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index",
+    "headline": "Claude connector lets users query Anthropic Economic Index data",
+    "bullets": [
+      "New connector in claude.ai enables direct queries about AI adoption across occupations and tasks",
+      "Users can ask questions like job automation trends, regional Claude usage patterns, and industry-specific applications",
+      "Index data reflects Claude usage patterns; connector works with any Claude model, no installation required"
+    ],
+    "why_it_matters": "Makes labor market AI impact data accessible to workers and researchers exploring automation effects on their fields.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-23T08:36:57Z"
+  },
+  {
+    "id": "6d76bdb9b968",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "original_title": "Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund",
+    "headline": "Anthropic commits $200M to study AI's economic impact",
+    "bullets": [
+      "$200 million fund supports external research on AI workforce disruption interventions",
+      "Five priorities: workplace AI integration, retraining, income support, worker stakes, public investment evidence",
+      "Funds $5-30M projects from universities, research institutes, nonprofits running field experiments"
+    ],
+    "why_it_matters": "Provides empirical evidence on which economic policies actually mitigate AI-driven job displacement and inequality.",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-23T08:36:49Z"
+  },
+  {
+    "id": "37c9890bc32e",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "original_title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "headline": "Nunchaku 4-bit quantization now integrated into Diffusers library",
+    "bullets": [
+      "SVDQuant method enables 4-bit weights and activations, reducing VRAM from 24GB to 12GB",
+      "Nunchaku Lite loads quantized models via standard from_pretrained() with ~30% speedup",
+      "diffuse-compressor toolkit lets users quantize custom architectures and publish as Diffusers repos"
+    ],
+    "why_it_matters": "Developers can now run large diffusion models on consumer GPUs without separate inference engines or compilation.",
+    "tags": [
+      "model-release",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-07-23T00:00:00+00:00",
+    "fetched_at": "2026-07-23T08:37:14Z"
+  },
+  {
+    "id": "15eb5b1c419a",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "original_title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "headline": "Google commits $40M in AI tools to accelerate US scientific research",
+    "bullets": [
+      "Google DeepMind provides frontier AI tools including AlphaFold 3, AlphaEvolve, and WeatherNext to all 17 DOE National Laboratories.",
+      "Gemini for Government access extended to tens of thousands of DOE researchers for one year.",
+      "PNNL scientist uses AlphaEvolve to map complex mathematical systems; NLR cuts microscope calibration time from 90 to 13 minutes."
+    ],
+    "why_it_matters": "Accelerates scientific breakthroughs in energy and materials discovery by giving researchers direct access to cutting-edge AI capabilities.",
+    "tags": [
+      "product",
+      "research",
+      "agents"
+    ],
+    "published": "2026-07-22T13:38:54+00:00",
+    "fetched_at": "2026-07-23T08:37:08Z"
+  },
+  {
+    "id": "bd6ce42035f5",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "original_title": "Building AI infrastructure with the Effingham County community",
+    "headline": "OpenAI announces Georgia datacenter project with community commitments",
+    "bullets": [
+      "Project Camellia: 3.2 gigawatt datacenter in Effingham County, Georgia, operational 2028-2032.",
+      "OpenAI commits $80 million community benefits plus $71 million Codex credits for Georgia students.",
+      "Closed-loop water system, no residential rate increases, independent annual audits required."
+    ],
+    "why_it_matters": "Demonstrates how major AI infrastructure projects can address community concerns through transparent commitments and local benefit-sharing.",
+    "tags": [
+      "product",
+      "tooling",
+      "coding"
+    ],
+    "published": "2026-07-22T13:00:00+00:00",
+    "fetched_at": "2026-07-23T08:36:19Z"
+  },
+  {
+    "id": "130e23c4bd2f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "original_title": "How news organizations are using AI to advance their vital missions",
+    "headline": "News organizations embed AI across reporting and business operations",
+    "bullets": [
+      "AP uses AI for document verification, story discovery, and converting filings into searchable data.",
+      "POLITICO, Axios, Philadelphia Inquirer built custom tools for research, meeting transcripts, and open records requests.",
+      "Le Monde integrated translation style guides into ChatGPT; Daily Beast created AI agents for data analysis."
+    ],
+    "why_it_matters": "AI automation frees journalists for original reporting while improving content accessibility, verification, and business sustainability.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": "2026-07-22T13:00:00+00:00",
+    "fetched_at": "2026-07-23T08:36:22Z"
+  },
+  {
+    "id": "fc3528d001b5",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "original_title": "Advancing the next era of national science",
+    "headline": "OpenAI commits $17M to accelerate US scientific research via AI",
+    "bullets": [
+      "$4M Codex access for 2,000 researchers at National Labs and universities",
+      "Two major campaigns: high-temperature superconductors and machine-accessible scientific frontier",
+      "Partnership with DOE Genesis Mission aims to double American research productivity in decade"
+    ],
+    "why_it_matters": "Integrating frontier AI with national labs could compress years of scientific discovery into months, accelerating breakthroughs in energy, medicine, and materials science.",
+    "tags": [
+      "api",
+      "research",
+      "reasoning"
+    ],
+    "published": "2026-07-22T12:00:00+00:00",
+    "fetched_at": "2026-07-23T08:36:26Z"
+  },
+  {
     "id": "5d5986221c3c",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -42,6 +217,50 @@
     ],
     "published": null,
     "fetched_at": "2026-07-22T08:35:20Z"
+  },
+  {
+    "id": "c54f46e53d48",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "original_title": "Introducing OpenAI Presence",
+    "headline": "OpenAI launches Presence, enterprise AI agent platform for production workflows",
+    "bullets": [
+      "Handles customer support, billing, claims via voice and chat with 75% autonomous resolution rate",
+      "Includes policy guardrails, escalation rules, and Codex-powered improvement loop for continuous adaptation",
+      "Live with BBVA, SoftBank, IAG; powers OpenAI's own support channel at 1-888-GPT-0090"
+    ],
+    "why_it_matters": "Enterprises can now deploy reliable AI agents for high-value workflows with built-in safety controls and continuous improvement mechanisms.",
+    "tags": [
+      "product",
+      "agents",
+      "voice"
+    ],
+    "published": "2026-07-22T05:30:00+00:00",
+    "fetched_at": "2026-07-23T08:36:30Z"
+  },
+  {
+    "id": "ce627deb9928",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/ntt-data",
+    "original_title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "headline": "NTT DATA deploys Codex to 9,000 employees, cuts incident analysis to 30 minutes",
+    "bullets": [
+      "Codex completed complex incident analysis in 30 minutes versus five engineers working three days.",
+      "9,000 employees across technical and nontechnical roles now use Codex for task automation.",
+      "Nontechnical staff use Codex for data analysis, expense extraction, and report generation without engineering support."
+    ],
+    "why_it_matters": "Demonstrates agentic AI scaling beyond developers to enterprise-wide productivity gains and cost reduction.",
+    "tags": [
+      "agents",
+      "product",
+      "coding"
+    ],
+    "published": "2026-07-22T00:00:00+00:00",
+    "fetched_at": "2026-07-23T08:36:33Z"
   },
   {
     "id": "eed16821fcdd",
@@ -6333,224 +6552,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:49:59Z"
-  },
-  {
-    "id": "1c2272f9572d",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "original_title": "Apr 28, 2026AnnouncementsClaude for Creative Work",
-    "headline": "Anthropic releases Claude connectors for creative software tools",
-    "bullets": [
-      "New connectors integrate Claude with Adobe Creative Cloud, Blender, Autodesk Fusion, SketchUp, Ableton, and other professional tools.",
-      "Claude can automate repetitive tasks, teach software features, write custom scripts, and bridge workflows across multiple applications.",
-      "Anthropic partnering with art programs at RISD, Ringling College, and Goldsmiths to develop creative AI curricula."
-    ],
-    "why_it_matters": "Creatives can now use Claude directly within familiar tools to accelerate ideation, automate busywork, and handle complex technical tasks.",
-    "tags": [
-      "product",
-      "tooling",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:51Z"
-  },
-  {
-    "id": "2f244068731d",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-    "original_title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-    "headline": "Anthropic launches enterprise AI services firm with major investors",
-    "bullets": [
-      "New company backed by Blackstone, Hellman & Friedman, Goldman Sachs, and five alternative asset managers",
-      "Anthropic Applied AI engineers will build custom Claude solutions for mid-sized companies across sectors",
-      "Targets healthcare, manufacturing, banking firms lacking in-house resources for AI deployment"
-    ],
-    "why_it_matters": "Expands Claude access to mid-market companies unable to afford traditional systems integrators independently.",
-    "tags": [
-      "product",
-      "api",
-      "agents"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:43Z"
-  },
-  {
-    "id": "29276d540e65",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/finance-agents",
-    "original_title": "May 5, 2026AnnouncementsAgents for financial services",
-    "headline": "Anthropic releases ten financial agent templates for banking workflows",
-    "bullets": [
-      "Ten ready-to-run agent templates for pitchbooks, KYC screening, month-end closing, and financial modeling tasks.",
-      "Claude now integrates with Excel, PowerPoint, Word, Outlook via add-ins with automatic context transfer between apps.",
-      "Eight new data connectors (Dun & Bradstreet, Fiscal AI, IBISWorld, others) plus Moody's MCP app for real-time market access."
-    ],
-    "why_it_matters": "Financial firms can deploy Claude agents for complex workflows in days instead of months, reducing manual work on high-value tasks.",
-    "tags": [
-      "agents",
-      "product",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:40Z"
-  },
-  {
-    "id": "cb85d5cc4e12",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "original_title": "May 6, 2026AnnouncementsHigher usage limits for Claude and a compute deal with SpaceX",
-    "headline": "Anthropic doubles Claude limits, secures SpaceX compute deal",
-    "bullets": [
-      "Claude Code rate limits doubled; API limits raised for Opus models effective today.",
-      "SpaceX Colossus 1 partnership adds 300+ megawatts, over 220,000 NVIDIA GPUs within month.",
-      "Combined with Amazon, Google, Microsoft deals totaling 15+ GW capacity through 2027."
-    ],
-    "why_it_matters": "Developers and enterprises gain higher throughput and lower latency for Claude API and Pro services.",
-    "tags": [
-      "api",
-      "product",
-      "pricing"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:36Z"
-  },
-  {
-    "id": "a9ef977b8a84",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-for-small-business",
-    "original_title": "May 13, 2026AnnouncementsIntroducing Claude for Small Business",
-    "headline": "Anthropic launches Claude for Small Business with integrated workflows",
-    "bullets": [
-      "Integrates Claude into QuickBooks, PayPal, HubSpot, Canva, Docusign, Google Workspace, Microsoft 365",
-      "Includes 15 agentic workflows for payroll, invoicing, campaigns, reconciliation, and tax prep",
-      "Free AI Fluency course teaches small business owners safe, responsible AI adoption"
-    ],
-    "why_it_matters": "Democratizes enterprise-grade AI automation for small businesses, addressing adoption gap affecting 44% of U.S. GDP.",
-    "tags": [
-      "product",
-      "agents",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:27Z"
-  },
-  {
-    "id": "82ccf6abe5fc",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-    "original_title": "May 14, 2026AnnouncementsAnthropic forms $200 million partnership with the Gates Foundation",
-    "headline": "Anthropic commits $200M with Gates Foundation for global health AI",
-    "bullets": [
-      "Four-year partnership includes grant funding, Claude credits, and engineering support for health, education, and economic mobility programs.",
-      "Focus areas: vaccine/therapy development, health data intelligence, K-12 tutoring in Africa/India, agricultural productivity for smallholder farmers.",
-      "Creating public benchmarks, datasets, and evaluation frameworks for AI healthcare and education applications."
-    ],
-    "why_it_matters": "Demonstrates AI's potential to address global health inequities and education gaps in underserved regions through structured partnerships.",
-    "tags": [
-      "product",
-      "research",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:23Z"
-  },
-  {
-    "id": "26de9866b27d",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "original_title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
-    "headline": "Anthropic commits to keeping Claude permanently ad-free",
-    "bullets": [
-      "Claude will not display ads or sponsored content in conversations with users.",
-      "Advertising incentives could compromise helpful responses and introduce unpredictable model behavior.",
-      "Anthropic funds expansion through enterprise contracts and subscriptions, not user attention sales."
-    ],
-    "why_it_matters": "Users can trust Claude for unbiased advice without hidden commercial motives influencing recommendations.",
-    "tags": [
-      "product",
-      "safety"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:15Z"
-  },
-  {
-    "id": "afabafae0730",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "original_title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-    "headline": "Anthropic launches Claude Design for visual collaboration",
-    "bullets": [
-      "Claude Design powered by Claude Opus 4.7 enables users to create designs, prototypes, slides, and marketing collateral through conversation.",
-      "Features include automatic design system application, inline editing, interactive prototypes, and seamless handoff to Claude Code.",
-      "Available in research preview for Claude Pro, Max, Team, and Enterprise subscribers starting April 17, 2026."
-    ],
-    "why_it_matters": "Democratizes design creation for non-designers while accelerating iteration cycles for professional teams across organizations.",
-    "tags": [
-      "product",
-      "multimodal",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:08Z"
-  },
-  {
-    "id": "8ffed2502175",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "original_title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
-    "headline": "Claude Opus 4.7 launches with stronger coding and reasoning abilities",
-    "bullets": [
-      "Improves 13% on coding benchmarks; handles complex long-running tasks with consistency",
-      "Enhanced vision capabilities support higher resolution images and professional content creation",
-      "Available on Claude API, Bedrock, Vertex AI; pricing unchanged at $5/$25 per million tokens"
-    ],
-    "why_it_matters": "Developers can delegate complex coding and multi-step tasks with less supervision, improving productivity and code quality.",
-    "tags": [
-      "model-release",
-      "coding",
-      "agents"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:01Z"
-  },
-  {
-    "id": "469a04ba2849",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "original_title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "headline": "IBM releases multilingual embedding models with 32K context support",
-    "bullets": [
-      "97M-parameter model scores 60.3 on MTEB, best sub-100M multilingual embedder; 311M model scores 65.2",
-      "Support for 200+ languages with enhanced training on 52 languages plus 9 programming languages",
-      "32K-token context window (64x larger than R1), Apache 2.0 license, ONNX/OpenVINO weights included"
-    ],
-    "why_it_matters": "Developers can now deploy efficient multilingual retrieval without sacrificing quality or language coverage across production systems.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "open-weights"
-    ],
-    "published": "2026-05-14T18:55:01+00:00",
-    "fetched_at": "2026-05-14T19:51:47Z"
   }
 ]
