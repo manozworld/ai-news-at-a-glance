@@ -1,5 +1,49 @@
 [
   {
+    "id": "24f3065d0ad5",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-4-5-everywhere",
+    "original_title": "Jul 22, 2026Bringing Grok 4.5 to iOS, Android, Web, and X",
+    "headline": "Grok 4.5 launches across iOS, Android, web, and X platform",
+    "bullets": [
+      "Grok 4.5 now available on grok.com, X app, iOS, and Android simultaneously",
+      "Model handles longer conversations, reasoning tasks, and productivity work like spreadsheets and document analysis",
+      "Integrates with Microsoft 365 apps including Word, Excel, PowerPoint, and Outlook"
+    ],
+    "why_it_matters": "Multi-platform deployment makes advanced AI reasoning accessible to users across devices and workflows.",
+    "tags": [
+      "model-release",
+      "product",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-24T08:33:07Z"
+  },
+  {
+    "id": "3bcb8ce06dde",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/workflows",
+    "original_title": "Jul 23, 2026Workflows in Grok Build",
+    "headline": "Grok Build adds workflows for parallel multi-agent task orchestration",
+    "bullets": [
+      "Workflows fan tasks across up to 128 agents (1,024 for large jobs) in parallel background runs.",
+      "Built-in /deep-research command verifies claims against sources and generates cited reports.",
+      "Saved workflows become reusable slash commands shared across teams or personal environments."
+    ],
+    "why_it_matters": "Developers can automate complex multi-phase tasks like code review and auditing without writing orchestration scripts themselves.",
+    "tags": [
+      "agents",
+      "product",
+      "tooling"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-24T08:33:02Z"
+  },
+  {
     "id": "92c58c1b9560",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
@@ -85,6 +129,28 @@
     ],
     "published": "2026-07-23T00:00:00+00:00",
     "fetched_at": "2026-07-23T08:37:14Z"
+  },
+  {
+    "id": "7569338ee0d3",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "original_title": "Launching Health in ChatGPT",
+    "headline": "OpenAI launches Health feature integrating medical records into ChatGPT",
+    "bullets": [
+      "Users can securely connect Apple Health and medical records to ChatGPT for personalized health insights.",
+      "GPT-5.5 Instant and GPT-5.6 Sol models trained specifically for health reasoning and safety.",
+      "Health data encrypted separately, never used for model training or ad targeting."
+    ],
+    "why_it_matters": "Consolidates scattered medical information into one AI assistant, helping users understand health data and ask informed questions with doctors.",
+    "tags": [
+      "product",
+      "multimodal",
+      "safety"
+    ],
+    "published": "2026-07-23T00:00:00+00:00",
+    "fetched_at": "2026-07-24T08:32:47Z"
   },
   {
     "id": "15eb5b1c419a",
@@ -6487,70 +6553,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:50:40Z"
-  },
-  {
-    "id": "c2c8a1270846",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
-    "original_title": "FEATURED",
-    "headline": "Meta releases advanced safety framework for scaling AI models",
-    "bullets": [
-      "Advanced AI Scaling Framework evaluates chemical, biological, cybersecurity risks and loss-of-control scenarios",
-      "Muse Spark evaluated across thousands of safety scenarios; demonstrates strong safeguards and ideological balance",
-      "Safety protections built into training pipeline using reasoning-based principles instead of rule-based approaches"
-    ],
-    "why_it_matters": "Transparent safety evaluation processes help developers understand risk assessment standards for deploying capable AI systems responsibly.",
-    "tags": [
-      "safety",
-      "research",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:36Z"
-  },
-  {
-    "id": "f46da8bae972",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
-    "original_title": "FEATURED",
-    "headline": "Meta launches Muse Spark multimodal reasoning model with agent orchestration",
-    "bullets": [
-      "Natively multimodal model with tool-use, visual chain-of-thought, and multi-agent orchestration capabilities.",
-      "Contemplating mode achieves 58% on Humanity's Last Exam, competing with frontier reasoning models.",
-      "Pretraining stack achieves same capabilities with 10x less compute than previous Llama 4 Maverick."
-    ],
-    "why_it_matters": "Efficient scaling of reasoning and multimodal capabilities enables practical personal AI assistants for developers and consumers.",
-    "tags": [
-      "model-release",
-      "reasoning",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:32Z"
-  },
-  {
-    "id": "d88393494eb7",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-    "original_title": "Apr 27, 2026AnnouncementsAnthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-    "headline": "Anthropic appoints GM for Australia, New Zealand, opens Sydney office",
-    "bullets": [
-      "Theo Hourmouzis joins as General Manager with 20+ years Asia Pacific tech leadership experience.",
-      "Sydney office officially opens; partnerships announced with Canva, Xero, and YMCA South Australia.",
-      "Follows recent office openings in Tokyo and Bengaluru; Seoul coming soon."
-    ],
-    "why_it_matters": "Anthropic expands regional presence to serve enterprise customers and research institutions in Australia and New Zealand with localized support.",
-    "tags": [
-      "product",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:49:59Z"
   }
 ]
