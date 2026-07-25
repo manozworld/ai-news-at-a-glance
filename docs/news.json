@@ -1,5 +1,93 @@
 [
   {
+    "id": "588f9cc195c1",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/introducing-google-workspace-addon",
+    "original_title": "Jul 24, 2026Grok in Google Workspace",
+    "headline": "Grok AI add-on now available for Google Workspace apps",
+    "bullets": [
+      "Single add-on integrates Grok into Sheets, Slides, and Docs with web research capabilities.",
+      "Grok writes formulas, generates presentations from outlines, and drafts documents with style consistency.",
+      "Free add-on available in Google Workspace Marketplace; also supports Microsoft 365 apps."
+    ],
+    "why_it_matters": "Developers and knowledge workers can now use Grok directly within productivity tools for faster content creation and data analysis.",
+    "tags": [
+      "product",
+      "tooling",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-25T08:12:24Z"
+  },
+  {
+    "id": "f46da8bae972",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+    "original_title": "Learn More",
+    "headline": "Meta launches Muse Spark multimodal reasoning model with parallel agent thinking",
+    "bullets": [
+      "Muse Spark natively supports multimodal reasoning, tool-use, visual chain-of-thought, and multi-agent orchestration.",
+      "Contemplating mode achieves 58% on Humanity's Last Exam, competing with Gemini Deep Think and GPT Pro.",
+      "Pretraining efficiency improved over 10x versus Llama 4 Maverick; available now at meta.ai with private API preview."
+    ],
+    "why_it_matters": "Demonstrates practical scaling toward personal superintelligence with efficient multimodal reasoning and parallel agent orchestration for developers.",
+    "tags": [
+      "model-release",
+      "reasoning",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-25T08:12:21Z"
+  },
+  {
+    "id": "c2c8a1270846",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+    "original_title": "FEATURED",
+    "headline": "Meta releases advanced safety framework for scaling AI models",
+    "bullets": [
+      "Advanced AI Scaling Framework evaluates chemical, biological, cybersecurity risks and loss-of-control scenarios",
+      "Muse Spark evaluated across thousands of safety scenarios; demonstrates strong safeguards and ideological balance",
+      "Safety protections built into training pipeline using reasoning-based principles instead of rule-based approaches"
+    ],
+    "why_it_matters": "Transparent safety evaluation standards help developers understand how frontier models are tested before deployment.",
+    "tags": [
+      "safety",
+      "research",
+      "model-release"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-25T08:12:16Z"
+  },
+  {
+    "id": "e75df1016aa1",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "original_title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "headline": "Claude Opus 5 launches with frontier intelligence at half the cost",
+    "bullets": [
+      "Opus 5 matches Fable 5 performance on coding benchmarks at 50% lower cost per task",
+      "Achieves 3x higher scores than competitors on ARC-AGI 3 problem-solving evaluation",
+      "Designed for long-running agents with improved verification and iterative capabilities"
+    ],
+    "why_it_matters": "Developers get frontier-class coding and reasoning capabilities at Opus pricing, enabling more complex agentic workflows affordably.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-25T08:12:10Z"
+  },
+  {
     "id": "24f3065d0ad5",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -6466,92 +6554,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:50:57Z"
-  },
-  {
-    "id": "f993eb8e38c0",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/",
-    "original_title": "Learn More",
-    "headline": "Meta releases TRIBE v2 brain activity prediction model",
-    "bullets": [
-      "TRIBE v2 predicts high-resolution fMRI brain activity from 700+ volunteers across images, video, audio, text.",
-      "Achieves 70x resolution increase over prior models with zero-shot generalization to new subjects and languages.",
-      "Open-sourced model, code, paper, and demo to accelerate neuroscience research and neurological disorder treatment."
-    ],
-    "why_it_matters": "Enables neuroscientists to test brain theories computationally without human subjects, accelerating discovery of neurological treatments.",
-    "tags": [
-      "model-release",
-      "research",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:53Z"
-  },
-  {
-    "id": "446abb3b5da1",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
-    "original_title": "FEATURED",
-    "headline": "Meta releases four MTIA AI chip generations in two years",
-    "bullets": [
-      "MTIA 300, 400, 450, 500 deployed or scheduled for 2026-2027 with 4.5x HBM bandwidth increase",
-      "MTIA 450 and 500 optimized for GenAI inference with doubled and 1.5x increased bandwidth respectively",
-      "Modular chiplet design enables faster iteration cycles aligned with evolving AI workloads"
-    ],
-    "why_it_matters": "Meta's rapid custom chip cadence reduces inference costs and latency for billions of users while maintaining competitive performance against commercial accelerators.",
-    "tags": [
-      "model-release",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:50Z"
-  },
-  {
-    "id": "9e1a732cd3d3",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/segment-anything-model-3/",
-    "original_title": "FEATURED",
-    "headline": "Meta releases SAM 3.1 with faster video tracking and multiplexing",
-    "bullets": [
-      "SAM 3.1 tracks up to 16 objects simultaneously, doubling video processing speed to 32 fps on H100 GPU.",
-      "Object multiplexing eliminates redundant computation, enabling real-time tracking on smaller, more accessible hardware.",
-      "SAM 3 supports text and exemplar prompts for open-vocabulary detection, segmentation, and tracking across images and video."
-    ],
-    "why_it_matters": "Faster, more efficient video understanding enables real-time object tracking applications on consumer hardware, expanding accessibility for developers and creators.",
-    "tags": [
-      "model-release",
-      "video",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:45Z"
-  },
-  {
-    "id": "0368a1148022",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
-    "original_title": "Read How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
-    "headline": "Alta Daily Uses Meta's Segment Anything for Fashion App",
-    "bullets": [
-      "Alta Daily app digitizes wardrobes and recommends outfits using SAM 3 segmentation model.",
-      "SAM processed 20+ million images cost-effectively, replacing expensive external segmentation APIs.",
-      "Model handles complex scenarios: reflective surfaces, jewelry details, poor lighting, user-uploaded photos."
-    ],
-    "why_it_matters": "Demonstrates practical AI application reducing costs while enabling scalable consumer products with complex visual requirements.",
-    "tags": [
-      "product",
-      "image",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:40Z"
   }
 ]
