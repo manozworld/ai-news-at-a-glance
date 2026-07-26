@@ -1,5 +1,71 @@
 [
   {
+    "id": "9e1a732cd3d3",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/segment-anything-model-3/",
+    "original_title": "Learn More",
+    "headline": "Meta releases SAM 3.1 with faster video tracking and multiplexing",
+    "bullets": [
+      "SAM 3.1 tracks up to 16 objects simultaneously, doubling video processing speed to 32 fps",
+      "Object multiplexing eliminates redundant computation, enabling real-time tracking on smaller GPUs",
+      "Supports text, exemplar, and visual prompts for detection, segmentation, and tracking"
+    ],
+    "why_it_matters": "Developers can build real-time video analysis applications with lower hardware costs and better accuracy in crowded scenes.",
+    "tags": [
+      "model-release",
+      "video",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-26T08:32:24Z"
+  },
+  {
+    "id": "0368a1148022",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+    "original_title": "Learn More",
+    "headline": "Alta Daily Uses Meta's Segment Anything for Fashion App",
+    "bullets": [
+      "Alta Daily app digitizes wardrobes using SAM 3 to remove backgrounds from user-uploaded clothing photos.",
+      "SAM processed 20+ million images cost-effectively, replacing expensive external segmentation APIs.",
+      "App recommends outfits via natural language prompts and visualizes them on personal avatars."
+    ],
+    "why_it_matters": "Demonstrates practical AI application reducing costs while enabling consumer products at scale.",
+    "tags": [
+      "product",
+      "image",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-26T08:32:19Z"
+  },
+  {
+    "id": "f993eb8e38c0",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/",
+    "original_title": "Learn More",
+    "headline": "Meta releases TRIBE v2 brain activity prediction model",
+    "bullets": [
+      "TRIBE v2 predicts high-resolution fMRI brain activity from 700+ volunteers across images, video, audio, text.",
+      "Achieves 70x resolution increase over prior models with zero-shot generalization to new subjects and languages.",
+      "Open-source release includes model weights, code, paper, and interactive demo under CC BY-NC license."
+    ],
+    "why_it_matters": "Enables neuroscience research without human subjects and informs AI development through brain-inspired principles.",
+    "tags": [
+      "model-release",
+      "research",
+      "multimodal"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-26T08:32:12Z"
+  },
+  {
     "id": "588f9cc195c1",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -6488,71 +6554,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:51:09Z"
-  },
-  {
-    "id": "8e556b9d0858",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/forest-research-dino/",
-    "original_title": "Learn More",
-    "headline": "Meta's DINOv2 Helps UK Map Trees at Individual Level",
-    "bullets": [
-      "Forest Research uses DINOv2 to detect individual trees from satellite imagery at 1-meter resolution across England.",
-      "Model trained on 18 million satellite images; could replace expensive LiDAR surveys for ongoing canopy monitoring.",
-      "Supports UK government's 15-minute greenspace access goal and 2% tree canopy increase target by 2050."
-    ],
-    "why_it_matters": "Open-source computer vision reduces monitoring costs and enables governments to track reforestation progress more frequently and affordably.",
-    "tags": [
-      "image",
-      "research",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:06Z"
-  },
-  {
-    "id": "42d484e5f4f0",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
-    "original_title": "Learn More",
-    "headline": "Meta's AI Models Enable Autonomous Medical Triage in Disaster Response",
-    "bullets": [
-      "University of Pennsylvania's PRONTO team uses Meta's SAM 2 and DINO models with autonomous robots to detect and assess casualties in mass casualty incidents.",
-      "DINO requires no labeled data, enabling generalization across medical imagery and scarce-annotation environments for injury classification.",
-      "System identifies heart rate, respiration, wounds, and amputations; visualizes victim data for first responders to optimize resource allocation."
-    ],
-    "why_it_matters": "AI-powered autonomous triage could save lives in disasters by rapidly identifying critical casualties when medical resources are severely limited.",
-    "tags": [
-      "multimodal",
-      "agents",
-      "safety"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:01Z"
-  },
-  {
-    "id": "21f86e2d045a",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
-    "original_title": "Learn More",
-    "headline": "Meta releases improved forest mapping model with DINOv3 vision AI",
-    "bullets": [
-      "Canopy Height Maps v2 uses DINOv3 self-supervised vision model trained on SAT-493M satellite imagery dataset",
-      "R² accuracy metric improved from 0.53 to 0.86; reduces bias for tall trees in global forest monitoring",
-      "Open-source model deployed by UK Forestry Commission, EU Joint Research Centre, and 10 US cities for climate action"
-    ],
-    "why_it_matters": "Enables governments and researchers to monitor forest health, carbon storage, and restoration at scale with unprecedented accuracy.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "research"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:50:57Z"
   }
 ]
