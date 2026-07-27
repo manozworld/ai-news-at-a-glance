@@ -1,5 +1,49 @@
 [
   {
+    "id": "21f86e2d045a",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
+    "original_title": "Learn More",
+    "headline": "Meta releases improved forest mapping model with DINOv3",
+    "bullets": [
+      "Canopy Height Maps v2 uses DINOv3 vision model trained on SAT-493M satellite imagery dataset",
+      "R² accuracy metric improved from 0.53 to 0.86 for tree height predictions",
+      "Open-source model deployed globally; UK, EU, US governments already using for forest monitoring"
+    ],
+    "why_it_matters": "Enables governments and researchers to monitor forest health, carbon storage, and restoration at scale with higher precision.",
+    "tags": [
+      "model-release",
+      "research",
+      "image"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-27T09:58:46Z"
+  },
+  {
+    "id": "9101339b1ac2",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "original_title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "headline": "NVIDIA releases real-time surgical robot simulator with distilled world model",
+    "bullets": [
+      "Cosmos-H-Dreams runs at ~160 fps on single RTX PRO 6000 GPU via FlashDreams inference library",
+      "Distilled student model learns from teacher using self-forcing to handle autoregressive compounding errors",
+      "Integrated with da Vinci Research Kit and Versius platforms for closed-loop policy evaluation"
+    ],
+    "why_it_matters": "Enables faster, safer training of surgical robot policies without expensive physical hardware failures or repeated experiments.",
+    "tags": [
+      "model-release",
+      "video",
+      "agents"
+    ],
+    "published": "2026-07-27T09:32:20+00:00",
+    "fetched_at": "2026-07-27T09:58:50Z"
+  },
+  {
     "id": "9e1a732cd3d3",
     "provider_id": "meta",
     "provider_name": "Meta AI",
@@ -6510,49 +6554,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:51:16Z"
-  },
-  {
-    "id": "1f428d83c00e",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-build-cli",
-    "original_title": "Introducing Grok BuildEarly Beta",
-    "headline": "xAI launches Grok Build CLI coding agent in early beta",
-    "bullets": [
-      "Terminal-based coding agent for SuperGrok Heavy subscribers with plan-review-approve workflow",
-      "Supports parallel subagents, MCP servers, plugins, and headless mode for automation",
-      "Integrates with existing repos, picks up conventions automatically, shows diffs before execution"
-    ],
-    "why_it_matters": "Developers get an AI coding agent that fits existing workflows and runs locally from the terminal.",
-    "tags": [
-      "agents",
-      "coding",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:14Z"
-  },
-  {
-    "id": "03ae026a54d1",
-    "provider_id": "meta",
-    "provider_name": "Meta AI",
-    "provider_color": "#0866FF",
-    "url": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/",
-    "original_title": "Learn More",
-    "headline": "DINOv2 accelerates cancer drug discovery for Orakl Oncology",
-    "bullets": [
-      "DINOv2 achieved 26.8% accuracy improvement over specialized organoid models",
-      "Open-source model enables rapid analysis of lab-grown cancer cell imaging data",
-      "Researchers now extract video insights directly instead of frame-by-frame analysis"
-    ],
-    "why_it_matters": "Faster, more accurate cancer drug screening could accelerate clinical trials and patient treatment discovery.",
-    "tags": [
-      "model-release",
-      "image",
-      "research"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:09Z"
   }
 ]
