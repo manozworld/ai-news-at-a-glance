@@ -1,5 +1,71 @@
 [
   {
+    "id": "bde5e15a43c6",
+    "provider_id": "meta",
+    "provider_name": "Meta AI",
+    "provider_color": "#0866FF",
+    "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+    "original_title": "Read Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "headline": "Meta AI models power assistive robotics platform for wheelchair users",
+    "bullets": [
+      "University of Pittsburgh receives $41.5M ARPA-H funding for RAMMP assistive robotics platform",
+      "Meta's DINO and SAM vision models deployed on edge devices for real-time object detection",
+      "System enables natural language queries for navigation, object pickup, and environmental awareness"
+    ],
+    "why_it_matters": "Edge-deployed AI enables wheelchair users to interact with assistive robots naturally, improving safety and independence in unpredictable real-world environments.",
+    "tags": [
+      "agents",
+      "multimodal",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-28T08:41:28Z"
+  },
+  {
+    "id": "be0b73b30b53",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "original_title": "Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "headline": "Cognizant expands Claude partnership across enterprise platforms",
+    "bullets": [
+      "30,000+ Cognizant associates trained on Claude; embedding across Flowsource and Neuro platforms",
+      "Client wins: 40% contract review time reduction, 8-hour weekly savings for underwriters",
+      "Cognizant becomes Global Premier Partner in Claude Partner Network"
+    ],
+    "why_it_matters": "Enterprises gain proven deployment patterns for Claude across manufacturing, life sciences, and insurance sectors.",
+    "tags": [
+      "product",
+      "api",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-28T08:41:17Z"
+  },
+  {
+    "id": "80d8760fd0f4",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "original_title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
+    "headline": "Anthropic clarifies stance: opposes bans on open-weights models",
+    "bullets": [
+      "CEO Dario Amodei states Anthropic never advocated banning open-weights models, disputes accusations of protectionism.",
+      "Supports chip export controls to China and crackdowns on distillation operations as security measures.",
+      "Proposes mandatory safety testing for all capable models regardless of weights or origin."
+    ],
+    "why_it_matters": "Clarifies industry policy debate on open-weights governance while proposing targeted security measures over blanket bans.",
+    "tags": [
+      "open-weights",
+      "safety",
+      "research"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-28T08:41:13Z"
+  },
+  {
     "id": "21f86e2d045a",
     "provider_id": "meta",
     "provider_name": "Meta AI",
@@ -42,6 +108,27 @@
     ],
     "published": "2026-07-27T09:32:20+00:00",
     "fetched_at": "2026-07-27T09:58:50Z"
+  },
+  {
+    "id": "f143efbfe201",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "original_title": "How AI is expanding what people do at work",
+    "headline": "AI enables workers to perform tasks outside their traditional roles",
+    "bullets": [
+      "43.5% of occupation-specific ChatGPT messages involve tasks from other jobs, per OpenAI analysis of 800k+ messages.",
+      "Customer experience (77%), design (75%), and HR (69%) workers most frequently cross into other occupations.",
+      "Marketing and engineering tasks spread widest across roles; small businesses show higher task crossover than large ones."
+    ],
+    "why_it_matters": "Organizations must rethink job structures and skill requirements as AI enables role boundaries to blur and tasks to redistribute.",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "published": "2026-07-27T03:30:00+00:00",
+    "fetched_at": "2026-07-28T08:41:09Z"
   },
   {
     "id": "9e1a732cd3d3",
@@ -591,6 +678,28 @@
     ],
     "published": "2026-07-21T15:16:30+00:00",
     "fetched_at": "2026-07-22T08:35:10Z"
+  },
+  {
+    "id": "edd884e3eb65",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "original_title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "headline": "Google releases three new Gemini models for efficient AI agents",
+    "bullets": [
+      "Gemini 3.6 Flash reduces output tokens by 17% versus 3.5 Flash at lower cost.",
+      "3.5 Flash-Lite achieves 350 tokens/second, priced at $0.3/$2.5 per million tokens.",
+      "3.5 Flash Cyber pairs specialized model with CodeMender for cybersecurity tasks."
+    ],
+    "why_it_matters": "Developers can build production AI agents with lower latency, reduced costs, and better performance across coding and multimodal workflows.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-07-21T15:16:30+00:00",
+    "fetched_at": "2026-07-28T08:41:21Z"
   },
   {
     "id": "750b59cf8263",
@@ -6444,115 +6553,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-14T19:51:33Z"
-  },
-  {
-    "id": "3f215c8c1541",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-voice-think-fast-1",
-    "original_title": "Grok Voice Think Fast 1.0",
-    "headline": "xAI releases Grok Voice Think Fast 1.0 flagship agent",
-    "bullets": [
-      "New voice model tops τ-voice Bench leaderboard for full-duplex agents in realistic conditions",
-      "Supports 25+ languages, handles precise data entry, multi-tool orchestration with zero latency reasoning",
-      "Powers Starlink support with 70% autonomous resolution rate and 20% sales conversion"
-    ],
-    "why_it_matters": "Enterprises can deploy production voice agents for complex customer support and sales workflows with higher accuracy and lower latency than competitors.",
-    "tags": [
-      "voice",
-      "model-release",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:29Z"
-  },
-  {
-    "id": "9de0dd4cab13",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-custom-voices",
-    "original_title": "Custom Voices and Voice Library",
-    "headline": "xAI launches custom voice cloning for Grok APIs",
-    "bullets": [
-      "Clone your voice in under two minutes via xAI console with passphrase verification",
-      "Voice Library organizes 80+ built-in voices across 28 languages plus custom voices",
-      "No extra charge for Text to Speech or Voice Agent APIs using custom voices"
-    ],
-    "why_it_matters": "Developers can now build brand-consistent voice agents and personalized content at scale without studio recording.",
-    "tags": [
-      "voice",
-      "api",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:26Z"
-  },
-  {
-    "id": "b55bb23dbf0c",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-imagine-quality-mode",
-    "original_title": "Grok Imagine Quality Mode API",
-    "headline": "Grok Imagine Quality Mode API launches for enterprise developers",
-    "bullets": [
-      "Quality Mode delivers photorealistic images with fine details, accurate textures, and improved text rendering capabilities.",
-      "Enterprise API now supports product visualization, marketing assets, UGC content, and video generation integration.",
-      "Grok Imagine ranks top-5 on independent Text-to-Image Arena leaderboards as of May 2026."
-    ],
-    "why_it_matters": "Enterprises can now generate production-quality marketing assets and product visuals at scale with stronger brand consistency and creative control.",
-    "tags": [
-      "image",
-      "api",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:23Z"
-  },
-  {
-    "id": "f3631456aedd",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-connectors",
-    "original_title": "Connectors in web, iOS, and Android",
-    "headline": "Grok launches connectors for email, docs, code, and more",
-    "bullets": [
-      "Integrations with SharePoint, Outlook, OneDrive, Google Workspace, Notion, GitHub, Linear available now",
-      "Grok can read, write, and edit emails, documents, spreadsheets, and code across platforms",
-      "Custom Model Context Protocol servers supported for proprietary tools and internal workflows"
-    ],
-    "why_it_matters": "Developers and teams can consolidate fragmented workflows by accessing multiple productivity tools directly within Grok without manual data transfer.",
-    "tags": [
-      "product",
-      "api",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:20Z"
-  },
-  {
-    "id": "04411cc50484",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/anthropic-compute-partnership",
-    "original_title": "New Compute Partnership with Anthropic",
-    "headline": "xAI grants Anthropic access to Colossus supercomputer with 220k GPUs",
-    "bullets": [
-      "Colossus 1 features 220,000+ NVIDIA GPUs including H100, H200, GB200 accelerators",
-      "Anthropic will use compute to expand Claude Pro and Claude Max capacity",
-      "Partners exploring orbital AI compute infrastructure for future scaling needs"
-    ],
-    "why_it_matters": "Massive compute access accelerates Claude's capabilities and explores space-based infrastructure for next-generation AI systems.",
-    "tags": [
-      "product",
-      "api",
-      "multimodal"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-14T19:51:16Z"
   }
 ]
