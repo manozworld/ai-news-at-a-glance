@@ -1,5 +1,93 @@
 [
   {
+    "id": "4de65930d591",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-voice-think-fast-2",
+    "original_title": "Jul 29, 2026Introducing Grok Voice Think Fast 2.0Jul 29, 2026Introducing Grok Voice Think Fast 2.0Introducing our most capable speech-to-speech voice model.Read More",
+    "headline": "xAI releases Grok Voice Think Fast 2.0 speech model",
+    "bullets": [
+      "Speech-to-speech model achieves 82.9% quality index, outperforming GPT-4 Realtime and Gemini Flash",
+      "Transcription accuracy improves 1.5–2.0× over Deepgram Nova 3 in 24 languages; 10× better in noise",
+      "Priced at $0.08/min audio; auto-upgrades August 5 unless pinned to version 1.0"
+    ],
+    "why_it_matters": "Developers can deploy more accurate, faster voice agents with parallel reasoning without latency penalties or code changes.",
+    "tags": [
+      "model-release",
+      "voice",
+      "agents"
+    ],
+    "published": null,
+    "fetched_at": "2026-07-30T08:33:58Z"
+  },
+  {
+    "id": "705bd6c095e8",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "original_title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "headline": "Google DeepMind releases Lyria 3.5 music generation model",
+    "bullets": [
+      "Lyria 3.5 improves musicality, lyrics, vocals, and creative control in Flow Music",
+      "Enhanced features include better melody structures, higher-quality lyrics, emotional vocals",
+      "Users gain tempo and duration control for generated music tracks"
+    ],
+    "why_it_matters": "Musicians and creators can generate higher-quality, more controllable music with improved emotional expression and structural coherence.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "product"
+    ],
+    "published": "2026-07-29T16:02:10+00:00",
+    "fetched_at": "2026-07-30T08:33:52Z"
+  },
+  {
+    "id": "cc8e132c6199",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "original_title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "headline": "API settings triple GPT-5.6 Sol's ARC-AGI-3 puzzle benchmark scores",
+    "bullets": [
+      "Retaining reasoning and enabling compaction improved scores from 13.3% to 38.3% on public tasks.",
+      "GPT-5.6 Sol now solves all six ARC-AGI-3 levels; no other frontier model passes level one.",
+      "Changes reduced output tokens by 6x while preserving model's learned strategies across games."
+    ],
+    "why_it_matters": "Demonstrates benchmark results depend heavily on harness design, not just model capability—critical for fair AI evaluation.",
+    "tags": [
+      "reasoning",
+      "research",
+      "api"
+    ],
+    "published": "2026-07-29T15:00:00+00:00",
+    "fetched_at": "2026-07-30T08:33:39Z"
+  },
+  {
+    "id": "14fd05ad34f9",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "original_title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "headline": "OpenAI grants 100,000 researchers free access to frontier AI models",
+    "bullets": [
+      "Free access to GPT-5.6 Sol Pro and other frontier models for academic researchers starting summer 2026",
+      "Program expands from 10,000 to 100,000 researchers through 2027 across sciences, mathematics, engineering",
+      "Includes 75+ life science skills, connectors to databases, training, and business-grade privacy protections"
+    ],
+    "why_it_matters": "Democratizes access to advanced AI tools for scientific research, potentially accelerating discovery across disciplines beyond well-funded institutions.",
+    "tags": [
+      "product",
+      "research",
+      "api"
+    ],
+    "published": "2026-07-29T10:00:00+00:00",
+    "fetched_at": "2026-07-30T08:33:43Z"
+  },
+  {
     "id": "6fd6d2da5a36",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -42,6 +130,28 @@
     ],
     "published": null,
     "fetched_at": "2026-07-29T08:46:58Z"
+  },
+  {
+    "id": "6d964f10c333",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "original_title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "headline": "OpenAI releases GPT-5.6 family balancing capability with cost efficiency",
+    "bullets": [
+      "GPT-5.6 Sol outperforms Claude Fable 5 on coding benchmarks at less than half the cost.",
+      "Terra matches GPT-5.5 intelligence at 50% price; Luna costs 80% less than Sol.",
+      "Stack optimizations in inference, kernels, and agentic systems reduced serving costs by 20%."
+    ],
+    "why_it_matters": "Developers gain access to high-performance models at lower costs, accelerating AI adoption across applications.",
+    "tags": [
+      "model-release",
+      "coding",
+      "product"
+    ],
+    "published": "2026-07-29T00:00:00+00:00",
+    "fetched_at": "2026-07-30T08:33:48Z"
   },
   {
     "id": "df22037e3e0f",
@@ -6444,114 +6554,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-15T08:55:12Z"
-  },
-  {
-    "id": "248b5ff06999",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "original_title": "How sales teams use Codex",
-    "headline": "Codex helps sales teams synthesize customer data into actionable briefs",
-    "bullets": [
-      "Codex aggregates CRM records, call transcripts, emails, and Slack to create pipeline briefs and account plans.",
-      "Use cases include pipeline prioritization, meeting prep, forecast reviews, and deal risk assessment.",
-      "Sales teams retain strategy ownership; Codex produces first-draft working documents for refinement."
-    ],
-    "why_it_matters": "Reduces manual synthesis time for sales leaders managing fragmented customer context across multiple systems.",
-    "tags": [
-      "product",
-      "tooling",
-      "agents"
-    ],
-    "published": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-16T08:10:05Z"
-  },
-  {
-    "id": "b5b1610b252a",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "original_title": "How business operations teams use Codex",
-    "headline": "Codex helps ops teams synthesize scattered data into decision briefs",
-    "bullets": [
-      "Codex aggregates project trackers, dashboards, notes, and stakeholder input into executive-ready briefs and updates.",
-      "Four primary use cases: off-track initiative briefs, health updates, leadership decision packets, and board progress updates.",
-      "Teams retain judgment; Codex produces first drafts faster by organizing context across Google Drive, Slack, email, and spreadsheets."
-    ],
-    "why_it_matters": "Operations teams can accelerate decision-making by automating synthesis of fragmented business context into structured, actionable documents.",
-    "tags": [
-      "product",
-      "tooling",
-      "agents"
-    ],
-    "published": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-16T08:10:10Z"
-  },
-  {
-    "id": "cca00ce68781",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "original_title": "How data science teams use Codex",
-    "headline": "Codex helps data science teams draft analysis faster",
-    "bullets": [
-      "Codex assembles dashboards, exports, and context into review-ready analysis drafts with charts and caveats.",
-      "Four use cases: KPI root-cause analysis, business impact readouts, analytics request scoping, executive KPI reviews.",
-      "Teams validate evidence and recommendations after Codex generates initial structured deliverables."
-    ],
-    "why_it_matters": "Data scientists can focus on judgment and validation instead of manual document assembly and formatting.",
-    "tags": [
-      "product",
-      "tooling",
-      "agents"
-    ],
-    "published": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-16T08:10:14Z"
-  },
-  {
-    "id": "c64312c3121c",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/databricks",
-    "original_title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "headline": "GPT-5.5 achieves state-of-the-art on enterprise document processing",
-    "bullets": [
-      "GPT-5.5 surpasses 50% accuracy on OfficeQA Pro benchmark for complex enterprise tasks",
-      "46% error reduction vs GPT-5.4 in parsing scanned PDFs and legacy documents",
-      "Available via Databricks AI Unity Gateway for agent workflows with AgentBricks"
-    ],
-    "why_it_matters": "Enterprises can now deploy more reliable document-processing agents that handle legacy formats without cascading extraction errors.",
-    "tags": [
-      "model-release",
-      "agents",
-      "product"
-    ],
-    "published": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-16T08:10:17Z"
-  },
-  {
-    "id": "ada6c1425188",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "original_title": "A new personal finance experience in ChatGPT",
-    "headline": "ChatGPT gains secure financial account integration for Pro users",
-    "bullets": [
-      "Pro users in U.S. can connect 12,000+ financial institutions via Plaid to ChatGPT",
-      "GPT-5.5 reasoning enables personalized financial guidance based on connected account data",
-      "Dashboard shows spending, subscriptions, portfolio performance, and upcoming payments in one view"
-    ],
-    "why_it_matters": "Users get AI-powered financial advice grounded in real account data, reducing manual tracking across multiple apps and institutions.",
-    "tags": [
-      "product",
-      "api"
-    ],
-    "published": "2026-05-15T00:00:00+00:00",
-    "fetched_at": "2026-05-16T08:10:21Z"
   }
 ]
