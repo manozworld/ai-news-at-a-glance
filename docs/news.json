@@ -1,5 +1,49 @@
 [
   {
+    "id": "dde532a86bfe",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-imagine-video-1-5-references",
+    "original_title": "Jul 31, 2026Imagine Video 1.5 with ReferencesJul 31, 2026Imagine Video 1.5 with ReferencesOur best video model, now with text, image, and voice references — generating up to 1080p.Read More",
+    "headline": "Imagine Video 1.5 adds image, voice references and 1080p",
+    "bullets": [
+      "Image and voice references maintain character consistency across scenes; up to seven references per generation.",
+      "Native 1080p support now available for text-to-video and image-to-video generation.",
+      "Features rolling out to SuperGrok Heavy/Plus users today, all tiers within days; API access live."
+    ],
+    "why_it_matters": "Creators can now maintain visual and audio consistency while generating high-resolution videos with flexible multi-reference control.",
+    "tags": [
+      "video",
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-01T08:26:49Z"
+  },
+  {
+    "id": "6d58997b466c",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "original_title": "Ten advances in mathematics and theoretical computer science",
+    "headline": "OpenAI's Astra model solves ten decade-old math problems",
+    "bullets": [
+      "Astra resolved problems in sphere packing, group theory, quantum complexity, and extremal combinatorics.",
+      "Solutions cost ~$2,000 in compute; humans formalized proofs in Lean certificate format.",
+      "100,000 researchers access ChatGPT free; results already inspired follow-up mathematical discoveries."
+    ],
+    "why_it_matters": "Demonstrates AI's capability to advance fundamental mathematics and cryptography research at scale, reshaping how scientists approach open problems.",
+    "tags": [
+      "model-release",
+      "reasoning",
+      "research"
+    ],
+    "published": "2026-08-01T00:00:00+00:00",
+    "fetched_at": "2026-08-01T08:26:29Z"
+  },
+  {
     "id": "b86dc435d64a",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -22,6 +66,28 @@
     "fetched_at": "2026-07-31T08:55:26Z"
   },
   {
+    "id": "6e145b017b5a",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "original_title": "Building abundant intelligence",
+    "headline": "OpenAI cuts model pricing, emphasizes efficiency gains",
+    "bullets": [
+      "GPT-5.6 Luna price dropped 80%, Terra reduced 20%; Luna now $0.20 per million input tokens",
+      "Engineering optimizations reduced serving costs 20%, improved token efficiency over 15%",
+      "Full-stack approach coordinates infrastructure, models, products to compound efficiency gains"
+    ],
+    "why_it_matters": "Lower costs and faster inference expand AI's practical applications across more workflows and organizations.",
+    "tags": [
+      "pricing",
+      "product",
+      "api"
+    ],
+    "published": "2026-07-31T15:00:00+00:00",
+    "fetched_at": "2026-08-01T08:26:34Z"
+  },
+  {
     "id": "d382e1dba0c7",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
@@ -41,6 +107,49 @@
     ],
     "published": null,
     "fetched_at": "2026-07-31T08:55:39Z"
+  },
+  {
+    "id": "487981959078",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/unive",
+    "original_title": "Univé builds an AI-ready workforce",
+    "headline": "Dutch insurer scales AI adoption across entire workforce with ChatGPT",
+    "bullets": [
+      "97% of ChatGPT Enterprise licenses activated; 85% weekly active users across organization",
+      "1,500 custom GPTs created by employees; pet insurance claims prep time reduced from hours to minutes",
+      "Leadership training, governance frameworks, and employee autonomy drove adoption across all business functions"
+    ],
+    "why_it_matters": "Demonstrates how enterprise AI adoption succeeds through organizational transformation, governance-first design, and employee empowerment rather than top-down deployment.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": "2026-07-31T07:00:00+00:00",
+    "fetched_at": "2026-08-01T08:26:39Z"
+  },
+  {
+    "id": "c5ad624a6ffb",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "original_title": "Disrupting a Criminal Scam Operation",
+    "headline": "OpenAI Shuts Down Cambodia Scam Network Using ChatGPT",
+    "bullets": [
+      "Banned coordinated ChatGPT accounts operating investment, romance, gambling, and impersonation scams from Poipet, Cambodia.",
+      "Network generated fake personas, forged documents, and translated messages to defraud hundreds of targets across multiple schemes.",
+      "Evidence suggests links to human trafficking and forced labor; operation may have caused thousands in losses per victim."
+    ],
+    "why_it_matters": "Demonstrates AI platforms must actively detect and disrupt organized criminal networks exploiting their tools for fraud and trafficking.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": "2026-07-31T00:00:00+00:00",
+    "fetched_at": "2026-08-01T08:26:43Z"
   },
   {
     "id": "f684c3a66a25",
@@ -6442,115 +6551,5 @@
     ],
     "published": "2026-05-19T00:00:00+00:00",
     "fetched_at": "2026-05-20T09:44:04Z"
-  },
-  {
-    "id": "a15f62575e93",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "original_title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "headline": "Fine-tune NVIDIA Cosmos video model with LoRA for robot tasks",
-    "bullets": [
-      "LoRA/DoRA adapters enable efficient fine-tuning of 2B-parameter Cosmos Predict 2.5 on single GPU",
-      "Generate synthetic robot manipulation videos from text prompts and initial frames for policy training",
-      "Freezes base model weights, trains only adapter modules to prevent catastrophic forgetting"
-    ],
-    "why_it_matters": "Reduces cost and complexity of adapting large video models to robotics domains without full retraining.",
-    "tags": [
-      "model-release",
-      "video",
-      "tooling"
-    ],
-    "published": "2026-05-18T16:00:21+00:00",
-    "fetched_at": "2026-05-19T02:11:48Z"
-  },
-  {
-    "id": "905a332eca99",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "original_title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "headline": "PaddleOCR 3.5 adds Transformers backend for document parsing",
-    "bullets": [
-      "PaddleOCR models now run with Hugging Face Transformers as inference backend via engine parameter",
-      "Supports PP-OCRv5 and PaddleOCR-VL 1.5 for OCR and document parsing tasks",
-      "Developers configure backend options like dtype, device placement, attention implementation"
-    ],
-    "why_it_matters": "Simplifies document ingestion for RAG and Document AI workflows by integrating OCR directly into Transformers-centered stacks.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "tooling"
-    ],
-    "published": "2026-05-18T15:12:46+00:00",
-    "fetched_at": "2026-05-19T02:11:53Z"
-  },
-  {
-    "id": "699fe0a3c829",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "original_title": "The Open Agent Leaderboard",
-    "headline": "IBM launches open benchmark for evaluating full AI agent systems",
-    "bullets": [
-      "Open Agent Leaderboard tests complete agent systems across six diverse benchmarks: coding, customer service, research, and more.",
-      "Measures both quality and cost per task, revealing that agent architecture matters as much as the underlying model.",
-      "General-purpose agents already match specialized systems without benchmark-specific tuning, showing broad capability."
-    ],
-    "why_it_matters": "Developers can now compare production-ready agent systems by actual deployment cost and generality, not just model performance.",
-    "tags": [
-      "agents",
-      "research",
-      "tooling"
-    ],
-    "published": "2026-05-18T14:12:58+00:00",
-    "fetched_at": "2026-05-19T02:12:00Z"
-  },
-  {
-    "id": "210c7a7c7826",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "original_title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "headline": "OpenAI and Dell enable Codex deployment in enterprise on-premises environments",
-    "bullets": [
-      "Codex reaches 4 million weekly developers; expanding beyond coding to agentic workflows.",
-      "Integration with Dell AI Data Platform and Factory enables secure on-premises deployment.",
-      "Codex agents can now access internal codebases, documentation, and business systems directly."
-    ],
-    "why_it_matters": "Enterprises can now deploy AI agents securely within their own infrastructure, unlocking agentic capabilities across development and knowledge work at scale.",
-    "tags": [
-      "product",
-      "agents",
-      "coding"
-    ],
-    "published": "2026-05-18T10:00:00+00:00",
-    "fetched_at": "2026-05-19T02:11:27Z"
-  },
-  {
-    "id": "c120575d799b",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-    "original_title": "Simulate real-world places with Project Genie and Street View",
-    "headline": "Google Genie now generates worlds grounded in real Street View locations",
-    "bullets": [
-      "Project Genie integrates Street View imagery to anchor AI-generated environments in real-world places across the U.S.",
-      "Rolling out to Google AI Ultra subscribers ($200/month) globally; users can customize scenes with styles like Ocean World or Stone Age.",
-      "Enables AI agents and robots to learn navigation in photorealistic virtual environments based on actual locations."
-    ],
-    "why_it_matters": "Bridges simulation and reality for AI training, letting agents practice in realistic environments grounded in actual geography.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "agents"
-    ],
-    "published": "2026-05-17T19:53:18+00:00",
-    "fetched_at": "2026-05-20T09:43:39Z"
   }
 ]
