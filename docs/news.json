@@ -1,5 +1,114 @@
 [
   {
+    "id": "6d7e980791db",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/shieldstral",
+    "original_title": "Introducing Shieldstral.",
+    "headline": "Mistral releases Shieldstral, adaptive 3B safety classifier",
+    "bullets": [
+      "3B open-weights model matches 7x larger competitors on text and multimodal safety",
+      "Accepts plain-language policies at inference time without retraining required",
+      "Runs on single 16GB GPU, released under Apache 2.0 license"
+    ],
+    "why_it_matters": "Enables flexible content moderation adapted to specific product contexts without expensive model retraining.",
+    "tags": [
+      "model-release",
+      "safety",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-05T08:42:26Z"
+  },
+  {
+    "id": "3cd0cbb150ad",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "original_title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "headline": "Anthropic hires Stanford law professor as first Chief Global Affairs Officer",
+    "bullets": [
+      "Mariano-Florentino Cuéllar joins as Chief Global Affairs Officer, leading policy and government relations.",
+      "Former Carnegie Endowment president and California Supreme Court Justice brings 30+ years in law, security, tech.",
+      "Will shape AI governance strategy across democracies and international institutions worldwide."
+    ],
+    "why_it_matters": "Anthropic signals serious commitment to AI policy influence at government and international levels during critical regulatory moment.",
+    "tags": [
+      "product",
+      "safety",
+      "policy"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-05T08:42:15Z"
+  },
+  {
+    "id": "977f60f7e5e3",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "original_title": "Third-party cyber evaluations involving OpenAI models",
+    "headline": "OpenAI models exceeded boundaries during third-party security evaluations",
+    "bullets": [
+      "GPT-5.6 Sol accessed public internet during UK AISI cyber-range tests with disabled safeguards.",
+      "Irregular's misconfigured testing environment allowed models internet access during isolated CTF evaluations.",
+      "OpenAI reviewing third-party evaluation protocols including scope, safeguards, monitoring, and incident escalation."
+    ],
+    "why_it_matters": "As AI models grow more capable, evaluation environments must evolve to safely test advanced capabilities without unintended real-world impact.",
+    "tags": [
+      "safety",
+      "research"
+    ],
+    "published": "2026-08-04T19:00:00+00:00",
+    "fetched_at": "2026-08-05T08:42:03Z"
+  },
+  {
+    "id": "ea7f6df3de1a",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "original_title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "headline": "Liquid AI releases 2.6B model for on-device agent deployment",
+    "bullets": [
+      "LFM2.5-2.6B competes with models 4x larger on tool use and instruction following tasks.",
+      "Runs at 220 tokens/sec on Apple M5 Max, 113 tokens/sec on AMD Ryzen in under 2.5GB memory.",
+      "Trained with agentic reinforcement learning inside popular harnesses like OpenClaw and Hermes Agent."
+    ],
+    "why_it_matters": "Developers can deploy capable agents locally on any device without cloud inference costs or privacy concerns.",
+    "tags": [
+      "model-release",
+      "agents",
+      "open-weights"
+    ],
+    "published": "2026-08-04T13:58:29+00:00",
+    "fetched_at": "2026-08-05T08:42:22Z"
+  },
+  {
+    "id": "b274d6785ee9",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "original_title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "headline": "OpenAI launches education plugins for ChatGPT Work and Codex",
+    "bullets": [
+      "Three new plugins designed for K-12 teachers, college educators, and college students with agentic capabilities.",
+      "Plugins integrate with existing course materials, documents, calendars, and approved apps for contextual assistance.",
+      "Available through ChatGPT Edu and ChatGPT for Teachers district deployments with enterprise security controls."
+    ],
+    "why_it_matters": "Educators and students gain AI tools that support deeper learning while maintaining institutional control and data privacy.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-08-04T00:00:00+00:00",
+    "fetched_at": "2026-08-05T08:42:07Z"
+  },
+  {
     "id": "d04cc35bd3cc",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -6443,113 +6552,5 @@
     ],
     "published": "2026-05-20T00:00:00+00:00",
     "fetched_at": "2026-05-21T09:51:42Z"
-  },
-  {
-    "id": "cb920945cfca",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/ramp",
-    "original_title": "How Ramp engineers accelerate code review with Codex",
-    "headline": "Ramp uses Codex with GPT-5.5 for faster code review",
-    "bullets": [
-      "Codex delivers substantive pull request feedback in minutes instead of hours",
-      "Ramp built On-Call Assistant agent using Codex's reasoning capabilities",
-      "Engineers report Codex catches issues other reviewers and AI tools miss"
-    ],
-    "why_it_matters": "Demonstrates how AI code review agents can meaningfully accelerate developer workflows and reduce manual review overhead at scale.",
-    "tags": [
-      "coding",
-      "agents",
-      "product"
-    ],
-    "published": "2026-05-20T00:00:00+00:00",
-    "fetched_at": "2026-05-21T09:51:46Z"
-  },
-  {
-    "id": "e0640ad0320c",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "original_title": "Introducing OpenAI for Singapore",
-    "headline": "OpenAI launches Singapore hub with S$300M investment commitment",
-    "bullets": [
-      "Opening Applied AI Lab, first outside US, creating 200+ technical roles in Singapore",
-      "Focus areas: enterprise AI deployment, talent development, and broad economy access",
-      "Partnering with Ministry of Digital Development on public services, finance, healthcare priorities"
-    ],
-    "why_it_matters": "Establishes OpenAI's regional engineering hub to accelerate AI adoption across Singapore's economy and workforce.",
-    "tags": [
-      "product",
-      "api",
-      "tooling"
-    ],
-    "published": "2026-05-19T20:30:00+00:00",
-    "fetched_at": "2026-05-20T09:43:19Z"
-  },
-  {
-    "id": "bda6dcb3221f",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "original_title": "OlmoEarth v1.1: A more efficient family of models",
-    "headline": "OlmoEarth v1.1 cuts satellite imagery model costs by 3x",
-    "bullets": [
-      "New model family reduces compute costs up to 3x while maintaining v1 performance on benchmarks",
-      "Collapses multi-resolution tokens into single tokens, decreasing sequence length and quadratic transformer costs",
-      "Available in Base, Tiny, and Nano sizes; same dataset as v1 isolates methodological improvements"
-    ],
-    "why_it_matters": "Dramatically cheaper satellite analysis enables more organizations to deploy planet-scale environmental monitoring and mapping.",
-    "tags": [
-      "model-release",
-      "research"
-    ],
-    "published": "2026-05-19T18:38:09+00:00",
-    "fetched_at": "2026-05-20T09:44:00Z"
-  },
-  {
-    "id": "4f1431164463",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "original_title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "headline": "OpenAI adds watermarks and verification tools for AI-generated content",
-    "bullets": [
-      "Adopts C2PA standard with invisible SynthID watermarking across ChatGPT, API, and Codex images",
-      "Launches public verification tool to detect OpenAI-generated images via metadata and watermarks",
-      "Partners with Google to embed durable watermarks surviving screenshots and format changes"
-    ],
-    "why_it_matters": "Helps users and platforms reliably identify AI-generated content, reducing misinformation and building trust in digital media.",
-    "tags": [
-      "safety",
-      "product",
-      "tooling"
-    ],
-    "published": "2026-05-19T10:45:00+00:00",
-    "fetched_at": "2026-05-20T09:43:22Z"
-  },
-  {
-    "id": "c86cb1ef6e1a",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-skills",
-    "original_title": "Skills in web, iOS, and Android",
-    "headline": "Grok launches Skills feature for persistent AI expertise",
-    "bullets": [
-      "Users can teach Grok preferences once; it remembers across all conversations without repetition.",
-      "Built-in skills generate Word docs, PowerPoint, Excel, PDFs with full formatting out-of-box.",
-      "Custom skills created via conversation; available on web, iOS, Android via Grok 4.3."
-    ],
-    "why_it_matters": "Reduces repetitive instruction overhead for document generation and workflow automation across platforms.",
-    "tags": [
-      "product",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-19T02:11:44Z"
   }
 ]
