@@ -1,5 +1,114 @@
 [
   {
+    "id": "7fee6508a588",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "original_title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
+    "headline": "Anthropic reduces false positives in Claude Fable 5 biology safeguards",
+    "bullets": [
+      "Biology-related fallbacks reduced by 85% through improved classifier tuning and constitution updates.",
+      "Fable 5 now assists with health questions, lab result interpretation, and educational biology tasks.",
+      "Dual-use research in virology, toxicology, molecular design still routed to less capable Opus 5."
+    ],
+    "why_it_matters": "Legitimate biology users get faster, more capable assistance while maintaining safeguards against misuse of frontier AI capabilities.",
+    "tags": [
+      "safety",
+      "product",
+      "model-release"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-07T07:22:20Z"
+  },
+  {
+    "id": "0f0c1961f93e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "original_title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "headline": "OpenAI upgrades GPT-5.6 Sol, expands Luna access to free users",
+    "bullets": [
+      "GPT-5.6 Sol now delivers more focused answers with 68% fewer factual errors than prior version.",
+      "Plus/Pro users get slider to control reasoning depth; Free users get unlimited text chats with Think button.",
+      "GPT-5.6 Luna becomes default for Free users this week with expanded access starting next week."
+    ],
+    "why_it_matters": "Improved factual accuracy and free tier reasoning access democratizes advanced AI capabilities while giving paid users finer control.",
+    "tags": [
+      "product",
+      "model-release",
+      "reasoning"
+    ],
+    "published": "2026-08-06T10:00:00+00:00",
+    "fetched_at": "2026-08-07T07:22:06Z"
+  },
+  {
+    "id": "6da5f2d271da",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "original_title": "Working with the American Psychological Association on youth mental health and AI",
+    "headline": "OpenAI partners with APA on youth mental health AI safeguards",
+    "bullets": [
+      "OpenAI and American Psychological Association collaborating on responsible AI design for young people",
+      "Developing family resources, clinician guidance, and youth input to shape age-appropriate AI experiences",
+      "Building on existing ChatGPT safety features: crisis resources, parental controls, distress recognition"
+    ],
+    "why_it_matters": "Establishes evidence-based framework for safe AI use among teens, addressing critical gap between technology adoption and developmental psychology.",
+    "tags": [
+      "safety",
+      "product",
+      "research"
+    ],
+    "published": "2026-08-06T06:00:00+00:00",
+    "fetched_at": "2026-08-07T07:22:10Z"
+  },
+  {
+    "id": "fea9ae47ebf2",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "original_title": "From asking to doing: How the world is putting ChatGPT to work",
+    "headline": "OpenAI releases global ChatGPT usage data across 144 countries",
+    "bullets": [
+      "Work usage doubles task completion vs. outside work; multimedia fastest-growing use case at 7.8% globally.",
+      "Latin America, Africa, Oceania adoption rates closing gap with early adopters; Peru, Uruguay, Costa Rica rank highest.",
+      "Users over 35 now account for 5% higher message share year-over-year; France and Czechia up 10+ points."
+    ],
+    "why_it_matters": "Reveals AI shifting from information-seeking to task execution, with adoption spreading beyond early adopters globally.",
+    "tags": [
+      "product",
+      "research"
+    ],
+    "published": "2026-08-06T00:00:00+00:00",
+    "fetched_at": "2026-08-07T07:22:14Z"
+  },
+  {
+    "id": "72ea094fa822",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/baseten",
+    "original_title": "Baseten on Hugging Face Inference Providers 🔥",
+    "headline": "Baseten joins Hugging Face as supported inference provider",
+    "bullets": [
+      "Baseten now integrated into HF Hub with support for LLMs like DeepSeek V4 Flash, Kimi K3, GLM-5.2",
+      "Available via Python/JS SDKs and agent harnesses; users can route through HF or use custom API keys",
+      "PRO users receive $2 monthly inference credits; standard provider rates apply with no HF markup"
+    ],
+    "why_it_matters": "Developers gain seamless access to diverse serverless AI models through unified HF interface with flexible billing options.",
+    "tags": [
+      "api",
+      "product",
+      "model-release"
+    ],
+    "published": "2026-08-06T00:00:00+00:00",
+    "fetched_at": "2026-08-07T07:22:27Z"
+  },
+  {
     "id": "6d7e980791db",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -6443,114 +6552,5 @@
     ],
     "published": "2026-05-21T12:00:00+00:00",
     "fetched_at": "2026-05-22T09:37:19Z"
-  },
-  {
-    "id": "0bc8c8213ee1",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-openclaw",
-    "original_title": "Use Grok in OpenClaw",
-    "headline": "Grok now integrates with OpenClaw local agent platform",
-    "bullets": [
-      "SuperGrok and X Premium subscribers can run Grok inside OpenClaw, an open-source local-first agent.",
-      "OpenClaw runs on any hardware from Raspberry Pi to servers, connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage.",
-      "Setup available via command-line installation with device-code authentication for remote access."
-    ],
-    "why_it_matters": "Users can now deploy Grok-powered agents locally with persistent memory across messaging platforms they already use.",
-    "tags": [
-      "product",
-      "agents",
-      "open-weights"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-20T09:43:56Z"
-  },
-  {
-    "id": "d6a5d4f63a42",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/anthropic-kpmg",
-    "original_title": "May 19, 2026AnnouncementsKPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-    "headline": "KPMG deploys Claude across 276,000 employees in major alliance",
-    "bullets": [
-      "KPMG embeds Claude in Digital Gateway platform for tax, legal, and PE client work",
-      "All 276,000+ KPMG employees globally gain Claude access for internal use",
-      "Claude helps identify vulnerabilities in cybersecurity; agents reduce tax tool development from weeks to minutes"
-    ],
-    "why_it_matters": "Enterprise-scale AI deployment demonstrates how large professional services firms integrate AI into core workflows and client delivery at organizational scale.",
-    "tags": [
-      "product",
-      "agents",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-20T09:43:35Z"
-  },
-  {
-    "id": "686693603124",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/widening-conversation-ai",
-    "original_title": "May 19, 2026AnnouncementsWidening the conversation on frontier AI",
-    "headline": "Anthropic engages wisdom traditions on frontier AI ethics",
-    "bullets": [
-      "Anthropic launched dialogues with 15+ religious and cultural groups on AI moral formation and character development.",
-      "Experimented with ethical reminder tool that reduced misaligned behavior in Claude during alignment evaluations.",
-      "Plans broader engagement with legal scholars, psychologists, and civic institutions on AI's societal impact."
-    ],
-    "why_it_matters": "Incorporating diverse philosophical and ethical perspectives into AI development could improve alignment and public trust in frontier systems.",
-    "tags": [
-      "safety",
-      "research",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-20T09:43:31Z"
-  },
-  {
-    "id": "52bd1afbd88b",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "original_title": "The next phase of OpenAI’s Education for Countries",
-    "headline": "OpenAI expands Education for Countries program with Singapore",
-    "bullets": [
-      "Estonia deployment reaches 20,000 students and 4,600 teachers with research partnerships measuring AI impact",
-      "Jordan's Siraj AI assistant engaged over 1 million students; Kazakhstan trained 84,000 educators",
-      "Singapore joins program focusing on personalized learning and teacher-driven AI adoption"
-    ],
-    "why_it_matters": "Government-backed AI education programs now measure real learning outcomes and scale responsible deployment across multiple countries.",
-    "tags": [
-      "product",
-      "research",
-      "agents"
-    ],
-    "published": "2026-05-20T00:00:00+00:00",
-    "fetched_at": "2026-05-20T09:43:15Z"
-  },
-  {
-    "id": "7f625f666338",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "original_title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "headline": "OpenAI model solves 80-year-old discrete geometry problem",
-    "bullets": [
-      "AI disproved Erdős's unit distance conjecture using algebraic number theory techniques.",
-      "Model found infinite family of point configurations exceeding square grid constructions.",
-      "First autonomous AI solution to prominent open problem in mathematics subfield."
-    ],
-    "why_it_matters": "Demonstrates AI can discover original mathematical insights beyond human-guided assistance, advancing frontier research capabilities.",
-    "tags": [
-      "research",
-      "reasoning"
-    ],
-    "published": "2026-05-20T00:00:00+00:00",
-    "fetched_at": "2026-05-21T09:51:42Z"
   }
 ]
