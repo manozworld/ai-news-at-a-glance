@@ -1,5 +1,71 @@
 [
   {
+    "id": "53b313cc8d71",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-imagine-image-2",
+    "original_title": "Aug 7, 2026Imagine Image 2.0Aug 7, 2026Imagine Image 2.0Precise image generation and editing, built for real creative work.Read More",
+    "headline": "Grok Imagine Image 2.0 launches with precise editing tools",
+    "bullets": [
+      "Ranks second globally in text-to-image and image editing benchmarks",
+      "Features magic wand editing, segmentation, multi-ref editing, smart resize capabilities",
+      "Includes templates for photo editing, product shots, icons, game assets"
+    ],
+    "why_it_matters": "Designers and creators gain production-ready image generation with iterative editing, reducing manual compositing work.",
+    "tags": [
+      "image",
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-08T06:59:46Z"
+  },
+  {
+    "id": "833934ee3b25",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "original_title": "Responding to the next frontier of critical cyber capabilities",
+    "headline": "OpenAI flags Astra model for critical cybersecurity capabilities",
+    "bullets": [
+      "Astra shows strong performance identifying zero-day exploits and executing novel cyberattacks without human intervention.",
+      "OpenAI implementing stricter security controls: isolated testing, restricted access, enhanced encryption, universal monitoring.",
+      "Company pausing internal Astra activities lacking strengthened security requirements; coordinating with government agencies."
+    ],
+    "why_it_matters": "Advanced AI cyber capabilities require new safety frameworks to prevent misuse while enabling defensive security improvements.",
+    "tags": [
+      "safety",
+      "agents",
+      "research"
+    ],
+    "published": "2026-08-07T15:20:00+00:00",
+    "fetched_at": "2026-08-08T06:59:32Z"
+  },
+  {
+    "id": "2ee94000fec4",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "original_title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "headline": "Tax firm HSP GRUPPE scales ChatGPT Enterprise across 81 groups",
+    "bullets": [
+      "500,000+ conversations in six months; 98.6% of employees report higher productivity gains",
+      "Custom Agents automate client communication and booking classification while professionals retain final review",
+      "Partner reduced real estate analysis time from nine hours to two hours per engagement"
+    ],
+    "why_it_matters": "Demonstrates how enterprise AI adoption requires organizational transformation, not just tool deployment, to unlock meaningful capacity gains in professional services.",
+    "tags": [
+      "product",
+      "agents",
+      "api"
+    ],
+    "published": "2026-08-07T09:00:00+00:00",
+    "fetched_at": "2026-08-08T06:59:35Z"
+  },
+  {
     "id": "7fee6508a588",
     "provider_id": "anthropic",
     "provider_name": "Anthropic",
@@ -6486,71 +6552,5 @@
     ],
     "published": "2026-05-22T00:00:00+00:00",
     "fetched_at": "2026-05-23T08:25:21Z"
-  },
-  {
-    "id": "4ce39150a4dc",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "original_title": "How Virgin Atlantic ships faster with Codex",
-    "headline": "Virgin Atlantic accelerates development with Codex coding tool",
-    "bullets": [
-      "Achieved ~100% unit test coverage and zero P1 defects on new mobile app launch",
-      "Reduced legacy codebase size by 78-80% and cut refactoring time from 2 weeks to 30 minutes",
-      "Enabled non-engineers across airline to build internal data applications independently"
-    ],
-    "why_it_matters": "Demonstrates how AI coding assistants can dramatically improve software quality and velocity in mission-critical enterprise environments.",
-    "tags": [
-      "coding",
-      "product",
-      "tooling"
-    ],
-    "published": "2026-05-22T00:00:00+00:00",
-    "fetched_at": "2026-05-23T08:25:25Z"
-  },
-  {
-    "id": "cf9e5a542f53",
-    "provider_id": "deepmind",
-    "provider_name": "Google DeepMind",
-    "provider_color": "#4285F4",
-    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "original_title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-    "headline": "Google DeepMind launches Asia-Pacific accelerator for climate AI startups",
-    "bullets": [
-      "Three-month program supports startups, researchers, nonprofits using frontier AI for environmental solutions",
-      "Participants receive mentorship, technical support, access to Google AI models for climate work",
-      "Inaugural bootcamp begins in Singapore, targeting nature, climate, agriculture, energy challenges"
-    ],
-    "why_it_matters": "Accelerates deployment of AI-driven climate solutions in a region facing acute environmental vulnerability and economic pressure.",
-    "tags": [
-      "product",
-      "research",
-      "agents"
-    ],
-    "published": "2026-05-21T19:46:42+00:00",
-    "fetched_at": "2026-05-22T09:37:28Z"
-  },
-  {
-    "id": "85a3fdb43c80",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/adventhealth",
-    "original_title": "AdventHealth advances whole-person care with OpenAI",
-    "headline": "AdventHealth cuts admin tasks by 80% using ChatGPT for Healthcare",
-    "bullets": [
-      "Hospital system deployed ChatGPT for Healthcare to automate documentation and utilization reviews across nine states.",
-      "Physician advisors reduced case review time from 10 minutes to significantly less while maintaining quality standards.",
-      "Adoption tracked as KPI with domain-based peer training rather than centralized programs for enterprise-scale rollout."
-    ],
-    "why_it_matters": "Healthcare systems can reclaim clinician time for patient care by systematically deploying AI with governance controls and adoption-focused strategies.",
-    "tags": [
-      "product",
-      "api",
-      "safety"
-    ],
-    "published": "2026-05-21T12:00:00+00:00",
-    "fetched_at": "2026-05-22T09:37:19Z"
   }
 ]
