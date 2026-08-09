@@ -22,6 +22,28 @@
     "fetched_at": "2026-08-08T06:59:46Z"
   },
   {
+    "id": "fd5b733b3580",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "original_title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "headline": "Framework measures if AI tutors know when to help students",
+    "bullets": [
+      "TutorMoments evaluates LLMs on pedagogical decisions using 462 real tutoring transcripts with 1,500+ annotated moments.",
+      "Models tend to over-help; explicit prompting about scaffolding vs. rigor improves performance but doesn't match human tutors.",
+      "Dataset, code, and model replays released openly for reproducibility and educational AI development."
+    ],
+    "why_it_matters": "Reveals critical gap between AI tutoring capability and effective pedagogy, guiding better evaluation and design of educational AI systems.",
+    "tags": [
+      "research",
+      "product",
+      "safety"
+    ],
+    "published": "2026-08-07T17:53:32+00:00",
+    "fetched_at": "2026-08-09T07:02:16Z"
+  },
+  {
     "id": "833934ee3b25",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -6530,27 +6552,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-22T09:37:35Z"
-  },
-  {
-    "id": "ef1db9edff97",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "original_title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "headline": "OpenAI's Codex named Gartner Leader in enterprise coding agents",
-    "bullets": [
-      "Codex used by 4M+ weekly users including Cisco, Datadog, Dell, NVIDIA",
-      "GPT-5.5 integration improves reasoning, tool use, and enterprise workflow support",
-      "Enterprise features include approval gates, RBAC, sandboxing, and audit governance"
-    ],
-    "why_it_matters": "Enterprises can now deploy agentic coding systems at scale with built-in governance and security controls.",
-    "tags": [
-      "coding",
-      "agents",
-      "product"
-    ],
-    "published": "2026-05-22T00:00:00+00:00",
-    "fetched_at": "2026-05-23T08:25:21Z"
   }
 ]
