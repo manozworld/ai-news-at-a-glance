@@ -1,5 +1,224 @@
 [
   {
+    "id": "7a678e9a26d7",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "original_title": "What building an AI-native finance function taught me",
+    "headline": "OpenAI Finance Chief Shares Five Lessons on AI-Native Operations",
+    "bullets": [
+      "OpenAI built zero-day close and continuous forecasting systems using AI to eliminate manual financial workflows.",
+      "Finance teams used custom GPTs for investor relations, procurement, and tax via structured hackathons.",
+      "Redesigned workflows connect spending plans, actuals, and purchase orders in continuously reconciled views with AI-flagged exceptions."
+    ],
+    "why_it_matters": "CFOs can apply AI to automate financial assembly work, enabling faster decision-making and shifting teams toward strategic analysis.",
+    "tags": [
+      "product",
+      "tooling",
+      "agents"
+    ],
+    "published": "2026-08-10T17:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:04Z"
+  },
+  {
+    "id": "e5b664a37aa3",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "original_title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "headline": "NVIDIA Magpie TTS Expands to 12 Languages with Open Weights",
+    "bullets": [
+      "364M-parameter open-weights model supports 12 languages including new Arabic, Korean, Brazilian Portuguese",
+      "Achieves 32ms time-to-first-audio on B200 GPU; 239ms at 64 concurrent streams with 320× real-time throughput",
+      "Frame stacking and local transformer architecture improve latency while maintaining speech quality across languages"
+    ],
+    "why_it_matters": "Developers can deploy multilingual voice agents on-premises with predictable latency and full customization control.",
+    "tags": [
+      "voice",
+      "open-weights",
+      "multimodal"
+    ],
+    "published": "2026-08-10T16:25:36+00:00",
+    "fetched_at": "2026-08-11T07:14:30Z"
+  },
+  {
+    "id": "c7b962b1d9ef",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/model-ml",
+    "original_title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "headline": "Model ML automates finance workflows with GPT-5.6 Sol efficiently",
+    "bullets": [
+      "GPT-5.6 Sol produces review-ready PowerPoint decks in 100% of test cases versus 76% for Opus 5",
+      "36% fewer tokens per Excel workbook than Opus 5; tearsheet creation reduced from one hour to five minutes",
+      "Agent-driven platform handles research, analysis, and document creation end-to-end for finance teams"
+    ],
+    "why_it_matters": "Finance teams can automate complex analytical workflows with higher-quality outputs and significantly lower computational costs.",
+    "tags": [
+      "model-release",
+      "agents",
+      "api"
+    ],
+    "published": "2026-08-10T12:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:00Z"
+  },
+  {
+    "id": "90d59cd2b4ce",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "original_title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "headline": "Efficient knowledge distillation cuts GPU memory requirements dramatically",
+    "bullets": [
+      "Offline top-K logits caching eliminates teacher model from memory during training",
+      "Fused chunked KL loss reduces peak VRAM from 250GB to 128GB on single GPU",
+      "Enables long-context distillation on H200 GPUs; open-sourced implementation available"
+    ],
+    "why_it_matters": "Makes large-scale model compression practical and affordable for organizations without massive GPU clusters.",
+    "tags": [
+      "research",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-08-10T10:05:36+00:00",
+    "fetched_at": "2026-08-11T07:14:34Z"
+  },
+  {
+    "id": "3a8585570cab",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "headline": "OpenAI launches specialized cybersecurity models for authorized defenders",
+    "bullets": [
+      "GPT-5.6-Cyber completes 95% of advanced security tasks vs 1.5% for standard GPT-5.6",
+      "Daybreak Blue and Red tiers provide tiered access to frontier models with reduced safeguards",
+      "Purpose-trained model improves zero-day discovery, exploit development, and vulnerability research"
+    ],
+    "why_it_matters": "Defenders gain AI tools to match accelerating AI-driven cyberattacks before attackers deploy offensive capabilities at scale.",
+    "tags": [
+      "model-release",
+      "safety",
+      "coding"
+    ],
+    "published": "2026-08-10T10:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:08Z"
+  },
+  {
+    "id": "7f776d7829d0",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "original_title": "Putting frontier cyber models in more trusted hands",
+    "headline": "OpenAI expands cyber AI models to major security partners",
+    "bullets": [
+      "Daybreak Cyber Partner Program now includes Accenture, IBM, Palo Alto Networks, CrowdStrike, and seven other major firms.",
+      "Partners integrate OpenAI's frontier models into vulnerability discovery, red teaming, and incident response workflows.",
+      "Daybreak Blue and Red models help organizations find and fix vulnerabilities faster than attackers can exploit them."
+    ],
+    "why_it_matters": "Security teams gain access to advanced AI for vulnerability management without building proprietary systems, accelerating threat response.",
+    "tags": [
+      "product",
+      "safety",
+      "api"
+    ],
+    "published": "2026-08-10T10:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:11Z"
+  },
+  {
+    "id": "ee449db47d8d",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "original_title": "Premium seats are coming to ChatGPT Business",
+    "headline": "ChatGPT Business adds Premium seats with 5x usage capacity",
+    "bullets": [
+      "Premium seats offer 5x more usage than Standard, removing five-hour limits for $125/month.",
+      "Teams can mix Standard ($25/month) and Premium seats in one workspace, adjusting as needs change.",
+      "Early adopters receive $100 credits per Premium seat added, up to $500 total through August 20."
+    ],
+    "why_it_matters": "Businesses can now scale AI usage flexibly per team member without separate subscriptions or administrative overhead.",
+    "tags": [
+      "product",
+      "pricing"
+    ],
+    "published": "2026-08-10T00:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:15Z"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/zapier",
+    "original_title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "headline": "Zapier automates marketing workflows with ChatGPT Work",
+    "bullets": [
+      "ChatGPT Work performs QA on thousands of leads monthly, reducing manual review from 45 minutes to minutes per lead.",
+      "Enterprise marketing team generates campaign assets and reporting automatically, freeing capacity for strategic work.",
+      "System delivered seven-figure pipeline value monthly by identifying and patching lead funnel drop-off issues."
+    ],
+    "why_it_matters": "Demonstrates how AI agents can automate repetitive enterprise workflows, enabling teams to focus on creative strategy and decision-making.",
+    "tags": [
+      "agents",
+      "product",
+      "api"
+    ],
+    "published": "2026-08-10T00:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:19Z"
+  },
+  {
+    "id": "8f3f7b571773",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "original_title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "headline": "Virgin Atlantic accelerates strategy and decisions using ChatGPT Work",
+    "bullets": [
+      "Competitive research reduced from weeks to hours using ChatGPT Work framework",
+      "Created unified dashboards connecting customer data across multiple systems and tools",
+      "Product teams now manage roadmaps and planning faster with custom AI tools"
+    ],
+    "why_it_matters": "Enterprises can consolidate fragmented data and accelerate decision-making from research to product delivery.",
+    "tags": [
+      "product",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-08-10T00:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:22Z"
+  },
+  {
+    "id": "0da6fb777e33",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "original_title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "headline": "Meta releases Muse Glimmer, 30B multimodal open-source model",
+    "bullets": [
+      "30B parameter multimodal model distilled from Muse, Apache 2.0 licensed for local deployment",
+      "Includes 2B vision encoder, hybrid attention architecture, gated grouped-query attention for efficiency",
+      "Day-0 support in transformers, llama.cpp, vLLM; benchmarks show strong agentic and coding performance"
+    ],
+    "why_it_matters": "Enables privacy-preserving local deployment of multimodal AI for coding, document analysis, and agent applications without cloud dependency.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "agents"
+    ],
+    "published": "2026-08-10T00:00:00+00:00",
+    "fetched_at": "2026-08-11T07:14:38Z"
+  },
+  {
     "id": "53b313cc8d71",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -6333,224 +6552,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-27T10:03:17Z"
-  },
-  {
-    "id": "9da64821c60f",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "original_title": "Building self-improving tax agents with Codex",
-    "headline": "OpenAI and Thrive build self-improving tax agent using Codex",
-    "bullets": [
-      "Tax AI processed 7,000 returns, achieving 97% accuracy and 50% throughput increase for accountants.",
-      "System improved from 25% to 86% correct field completion within six weeks through autonomous feedback loops.",
-      "Codex-driven agent learns from practitioner corrections and production traces to continuously enhance performance."
-    ],
-    "why_it_matters": "Demonstrates how AI agents can self-improve in production using structured feedback, reducing manual engineering overhead and accelerating real-world deployment cycles.",
-    "tags": [
-      "agents",
-      "coding",
-      "product"
-    ],
-    "published": "2026-05-27T07:00:00+00:00",
-    "fetched_at": "2026-05-28T10:12:41Z"
-  },
-  {
-    "id": "fae225528858",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "original_title": "Election information and safeguards in 2026",
-    "headline": "OpenAI deploys election safeguards ahead of 2026 global voting",
-    "bullets": [
-      "ChatGPT will display live AP vote counts in US and Brazil election nights starting fall 2026.",
-      "SynthID watermarks now embedded in ChatGPT-generated images to combat AI-created deepfakes.",
-      "Codex Security and Trusted Access for Cyber program offered to US voting system manufacturers."
-    ],
-    "why_it_matters": "Helps voters access reliable information while reducing election interference risks from AI-generated misinformation.",
-    "tags": [
-      "safety",
-      "product",
-      "transparency"
-    ],
-    "published": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-28T10:12:45Z"
-  },
-  {
-    "id": "b36c91942c4f",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/warp",
-    "original_title": "Warp’s big bet on building open source with GPT-5.5",
-    "headline": "Warp uses GPT-5.5 to power open-source agent orchestration",
-    "bullets": [
-      "GPT-5.5 reduces token usage by 30% per agentic coding task versus GPT-5.4",
-      "Warp's agents now co-create 90% of internal pull requests using Open Agentic Development model",
-      "Oz orchestration platform coordinates agents across local and cloud environments with persistent memory"
-    ],
-    "why_it_matters": "Demonstrates practical scaling of autonomous agents in production software development workflows with measurable efficiency gains.",
-    "tags": [
-      "agents",
-      "coding",
-      "model-release"
-    ],
-    "published": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-28T10:12:48Z"
-  },
-  {
-    "id": "5b218fefef6f",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "original_title": "Reachy Mini goes fully local",
-    "headline": "Reachy Mini robot now runs conversations entirely locally",
-    "bullets": [
-      "Speech-to-speech pipeline (VAD→STT→LLM→TTS) runs on-device via WebSocket API",
-      "Recommended stack: Gemma 4 LLM, Silero VAD, Parakeet-TDT STT, Qwen3 TTS",
-      "No cloud dependency, API keys, or data transmission required"
-    ],
-    "why_it_matters": "Developers can deploy private, cost-free voice agents with full pipeline control and component swapping flexibility.",
-    "tags": [
-      "product",
-      "voice",
-      "open-weights"
-    ],
-    "published": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-28T10:13:14Z"
-  },
-  {
-    "id": "e2e168c60835",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/delta-weight-sync",
-    "original_title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "headline": "Hugging Face cuts RL model sync costs by 99 percent",
-    "bullets": [
-      "Delta Weight Sync encodes only changed weights as sparse files, reducing per-step payload from 1.2 GB to 20-35 MB on Qwen3-0.6B.",
-      "99% of bf16 weights remain unchanged between RL optimizer steps due to learning rate and precision arithmetic properties.",
-      "Trainer and inference can run in separate regions using shared Hub bucket; no RDMA, VPN, or shared cluster required."
-    ],
-    "why_it_matters": "Dramatically reduces bandwidth and infrastructure costs for distributed RL training at scale, enabling frontier model training without mega-clusters.",
-    "tags": [
-      "api",
-      "tooling",
-      "research"
-    ],
-    "published": "2026-05-27T00:00:00+00:00",
-    "fetched_at": "2026-05-28T10:13:19Z"
-  },
-  {
-    "id": "2958e44acb3b",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "original_title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "headline": "OpenAI partners with major Brazilian publishers for ChatGPT journalism",
-    "bullets": [
-      "Folha de S.Paulo and UOL content now accessible to 900M+ weekly ChatGPT users globally",
-      "OpenAI's first Brazil media deal emphasizes attribution, transparency, and links to original sources",
-      "Publishers gain access to Codex, ChatGPT Enterprise, and APIs for product innovation"
-    ],
-    "why_it_matters": "Establishes OpenAI's media partnership model in Latin America's largest market while expanding journalism distribution through AI.",
-    "tags": [
-      "product",
-      "api",
-      "partnership"
-    ],
-    "published": "2026-05-25T00:00:00+00:00",
-    "fetched_at": "2026-05-26T10:04:59Z"
-  },
-  {
-    "id": "3ae5a86a36cf",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/agent-glossary",
-    "original_title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "headline": "AI Agent Terminology Guide Clarifies Harness and Scaffold Concepts",
-    "bullets": [
-      "Glossary defines key agent terms: harness executes loops, scaffold defines behavior layer around model.",
-      "Agent = Model + Harness + Scaffolding; same model with different harnesses creates different products.",
-      "Context engineering manages what model sees per step; memory splits into short-term and long-term storage."
-    ],
-    "why_it_matters": "Standardized terminology helps developers build, deploy, and discuss AI agents with consistent mental models.",
-    "tags": [
-      "agents",
-      "tooling",
-      "research"
-    ],
-    "published": "2026-05-25T00:00:00+00:00",
-    "fetched_at": "2026-05-26T10:05:13Z"
-  },
-  {
-    "id": "e7490cde6e0a",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "original_title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "headline": "NVIDIA releases diffusion language models for parallel token generation",
-    "bullets": [
-      "Nemotron-Labs Diffusion generates multiple tokens in parallel, achieving 6.4× speedup via self-speculation mode.",
-      "Available in 3B, 8B, 14B text models plus 8B vision-language model under commercial licenses.",
-      "Supports three generation modes: autoregressive, diffusion, and self-speculation from single checkpoint."
-    ],
-    "why_it_matters": "Developers can dramatically reduce latency for text generation while maintaining accuracy, enabling faster real-time applications.",
-    "tags": [
-      "model-release",
-      "reasoning",
-      "api"
-    ],
-    "published": "2026-05-23T00:02:03+00:00",
-    "fetched_at": "2026-05-23T08:25:36Z"
-  },
-  {
-    "id": "eb5012be09e5",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "original_title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "headline": "Specialized 3B model outperforms frontier APIs on OCR task",
-    "bullets": [
-      "3-billion-parameter specialized model scored 0.911 vs Claude Opus 4.6's 0.833 on Brazilian Portuguese OCR benchmark.",
-      "Specialized model cost 52x less per million pages than Claude Opus while achieving highest quality and lowest text-degeneration rate.",
-      "Fine-tuning pipeline moves training distribution closer to deployment task, making parameter count less decisive than specialization."
-    ],
-    "why_it_matters": "Enterprise AI procurement should prioritize domain specialization over frontier model scale when cost and quality both matter.",
-    "tags": [
-      "model-release",
-      "research"
-    ],
-    "published": "2026-05-22T15:25:59+00:00",
-    "fetched_at": "2026-05-23T08:25:40Z"
-  },
-  {
-    "id": "ef09c51e6046",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-opencode",
-    "original_title": "Use Grok in OpenCode",
-    "headline": "Grok now integrates with OpenCode for AI-assisted development",
-    "bullets": [
-      "SuperGrok and X Premium subscribers can use Grok Build model inside OpenCode editor",
-      "Connect via OAuth or headless mode for terminal, SSH, and remote environments",
-      "Same coding agent powers xAI's terminal tool and OpenCode integration"
-    ],
-    "why_it_matters": "Developers gain native AI coding assistance within OpenCode without switching tools or platforms.",
-    "tags": [
-      "product",
-      "coding",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-22T09:37:35Z"
   }
 ]
