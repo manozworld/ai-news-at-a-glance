@@ -1,5 +1,114 @@
 [
   {
+    "id": "a734d8d7fbb5",
+    "provider_id": "mistral",
+    "provider_name": "Mistral",
+    "provider_color": "#FA520F",
+    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
+    "original_title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "headline": "Mistral launches regional inference and European compute coalition",
+    "bullets": [
+      "Regional endpoints let customers run inference in Europe or US with data residency controls.",
+      "Priority Tier offers SLA-backed service levels for mission-critical workloads with committed capacity.",
+      "European Compute Units aggregate multi-year commitments to build 1 GW capacity by 2030."
+    ],
+    "why_it_matters": "Enterprises gain sovereign control over AI infrastructure location, compliance, and long-term compute access in Europe.",
+    "tags": [
+      "product",
+      "api",
+      "open-weights"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-12T07:38:31Z"
+  },
+  {
+    "id": "b1770b5350ce",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/introducing-grok-bot",
+    "original_title": "Aug 11, 2026Early betaIntroducing Grok BotAug 11, 2026Early betaIntroducing Grok BotGrok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.Read More",
+    "headline": "xAI launches Grok Bot, autonomous AI agents for team workflows",
+    "bullets": [
+      "Grok Bot agents work 24/7 with their own cloud computer, signing into existing tools and apps.",
+      "Available in early beta for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers.",
+      "Bots learn user workflows, coordinate with each other, and handle multi-step tasks end-to-end."
+    ],
+    "why_it_matters": "Autonomous agents that integrate with existing tools could significantly reduce manual work and coordination overhead for teams.",
+    "tags": [
+      "agents",
+      "product",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-12T07:38:23Z"
+  },
+  {
+    "id": "5eb3c49c6262",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "original_title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "headline": "IBM's ALTK-Evolve cuts agent inference tokens by 60% versus ACE",
+    "bullets": [
+      "ALTK-Evolve and ACE both learn from agent trajectories; ALTK-Evolve delivers selective guidelines per task instead of full playbook every step.",
+      "On DeepSeek-V3.2: ALTK-Evolve achieves 89.3% accuracy at 263K tokens vs ACE's 80.4% at 634K tokens.",
+      "On weaker models, per-task retrieval outperforms comprehensive prompts; stronger models benefit from full consolidated guideline sets."
+    ],
+    "why_it_matters": "Agents can learn from failures without retraining while reducing inference costs by 60-85%, making agentic systems more practical for production deployment.",
+    "tags": [
+      "agents",
+      "reasoning",
+      "api"
+    ],
+    "published": "2026-08-11T13:37:10+00:00",
+    "fetched_at": "2026-08-12T07:38:27Z"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "original_title": "Testing ads in ChatGPT",
+    "headline": "OpenAI expands ChatGPT ads to five new international markets",
+    "bullets": [
+      "Ads now live in UK, Mexico, Brazil, Japan, South Korea after initial US pilot",
+      "Free and Go tier users see ads; Pro and higher tiers remain ad-free",
+      "Advertisers cannot access chats; ads don't influence ChatGPT's answers"
+    ],
+    "why_it_matters": "OpenAI monetizes free ChatGPT access globally while maintaining answer independence and user privacy controls.",
+    "tags": [
+      "product",
+      "pricing"
+    ],
+    "published": "2026-08-11T10:00:00+00:00",
+    "fetched_at": "2026-08-12T07:38:11Z"
+  },
+  {
+    "id": "b274e00978a8",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "original_title": "Daybreak models are now available on AWS",
+    "headline": "OpenAI's Daybreak cybersecurity models launch on AWS Bedrock",
+    "bullets": [
+      "Daybreak Blue and Red now available through Amazon Bedrock for authorized security teams",
+      "GPT-5.6 Sol included; supports vulnerability research, exploit validation, and incident response",
+      "Integrates with existing AWS security workflows and governance controls"
+    ],
+    "why_it_matters": "Enterprises can deploy frontier cybersecurity AI within familiar AWS environments for faster vulnerability detection and remediation.",
+    "tags": [
+      "product",
+      "safety",
+      "api"
+    ],
+    "published": "2026-08-11T10:00:00+00:00",
+    "fetched_at": "2026-08-12T07:38:14Z"
+  },
+  {
     "id": "7a678e9a26d7",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -6444,113 +6553,5 @@
     ],
     "published": "2026-05-28T00:00:00+00:00",
     "fetched_at": "2026-05-29T10:02:07Z"
-  },
-  {
-    "id": "3e9dde27d098",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "original_title": "OpenAI’s Frontier Governance Framework",
-    "headline": "OpenAI publishes governance framework for frontier AI safety",
-    "bullets": [
-      "Framework aligns safety practices with California Transparency Act and EU AI Act requirements.",
-      "Covers risk assessment for cyber offense, CBRN, manipulation, loss of control scenarios.",
-      "Built on OpenAI's Preparedness Framework; includes incident response and external expert input."
-    ],
-    "why_it_matters": "Establishes transparent regulatory compliance standards as frontier AI governance requirements accelerate globally.",
-    "tags": [
-      "safety",
-      "research"
-    ],
-    "published": "2026-05-28T00:00:00+00:00",
-    "fetched_at": "2026-05-29T10:02:11Z"
-  },
-  {
-    "id": "885b9f75e714",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-    "original_title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-    "headline": "New benchmark reveals frontier AI models struggle with enterprise IT tasks",
-    "bullets": [
-      "ITBench-AA SRE benchmark tests Kubernetes incident diagnosis; Claude Opus 4.7 leads at 47%.",
-      "All frontier models score below 50%; open-weights GLM-5.1 reaches 40% at lower cost.",
-      "Models penalized for over-investigation; longer trajectories don't improve accuracy on root-cause identification."
-    ],
-    "why_it_matters": "Reveals significant gaps in agentic AI capabilities for real-world enterprise operations and infrastructure management tasks.",
-    "tags": [
-      "agents",
-      "research",
-      "benchmarking"
-    ],
-    "published": "2026-05-27T17:20:29+00:00",
-    "fetched_at": "2026-05-28T10:13:10Z"
-  },
-  {
-    "id": "a1f161b6a344",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/cisco",
-    "original_title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "headline": "Cisco deploys Codex for enterprise-scale AI-assisted engineering",
-    "bullets": [
-      "95%+ of new AI Defense features written by Codex; development time compressed from quarters to weeks.",
-      "Codex CLI achieved 10-15x defect resolution throughput; saved 1,500+ engineering hours monthly across Cisco.",
-      "Codex integrated into production workflows for cross-repo optimization, framework migrations, and autonomous compile-test-fix loops."
-    ],
-    "why_it_matters": "Demonstrates agentic AI can operate reliably in complex enterprise codebases, reshaping how large organizations approach software development.",
-    "tags": [
-      "coding",
-      "agents",
-      "product"
-    ],
-    "published": "2026-05-27T11:00:00+00:00",
-    "fetched_at": "2026-05-28T10:12:37Z"
-  },
-  {
-    "id": "bcd1f238be35",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-kilocode",
-    "original_title": "May 27, 2026Use Grok in Kilo CodeLatest postMay 27, 2026Use Grok in Kilo CodeUse your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.Read More",
-    "headline": "Grok now integrates with Kilo Code open-source platform",
-    "bullets": [
-      "SuperGrok and X Premium+ subscribers can use Grok directly in Kilo Code IDE extensions and CLI",
-      "Kilo Code supports 500+ models with specialized modes for planning, coding, debugging, and orchestration",
-      "No separate API key required; OAuth connection available for VS Code, JetBrains, terminal, and headless environments"
-    ],
-    "why_it_matters": "Developers can leverage Grok's agentic capabilities within their existing IDE workflows without additional authentication overhead.",
-    "tags": [
-      "product",
-      "coding",
-      "agents"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-27T10:03:30Z"
-  },
-  {
-    "id": "94fc63d517dd",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-    "original_title": "May 26, 2026AnnouncementsAnthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-    "headline": "Anthropic names Korea director, opens Seoul office",
-    "bullets": [
-      "KiYoung Choi joins as Representative Director ahead of Seoul office launch.",
-      "Koreans use Claude 3.5x more than population size would predict.",
-      "SK Telecom and Law&Company already building Claude-powered solutions in Korea."
-    ],
-    "why_it_matters": "Anthropic expands regional presence in a sophisticated AI market with strong developer and enterprise adoption.",
-    "tags": [
-      "product",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-27T10:03:17Z"
   }
 ]
