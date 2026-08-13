@@ -1,5 +1,93 @@
 [
   {
+    "id": "abadfb45f943",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-4-6",
+    "original_title": "Grok 4.6Aug 12, 2026Introducing Grok 4.6Aug 12, 2026IntroducingGrok 4.6Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.Read More",
+    "headline": "xAI releases Grok 4.6 with enhanced long-running agent capabilities",
+    "bullets": [
+      "Grok 4.6 matches GPT-5.6 Sol on Artificial Analysis Intelligence Index with score of 61.",
+      "Improved agentic reasoning through curated model-generated data and enhanced training recipe.",
+      "Available in Cursor, Grok Build, and API; pricing starts at $2 per million input tokens."
+    ],
+    "why_it_matters": "Developers can now build more complex multi-step applications with stronger visual and interactive capabilities.",
+    "tags": [
+      "model-release",
+      "agents",
+      "coding"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-13T07:40:22Z"
+  },
+  {
+    "id": "e43158037a35",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "original_title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "headline": "OlmoEarth Studio now exports custom Earth observation embeddings",
+    "bullets": [
+      "Users can compute and export embedding vectors from OlmoEarth foundation models via Studio UI or API.",
+      "Three encoder variants available: Nano (128-dim), Tiny (192-dim), Base (768-dim) at 10-80m resolution.",
+      "Embeddings enable similarity search, few-shot segmentation, and change detection without labeled training data."
+    ],
+    "why_it_matters": "Developers can now leverage pre-trained Earth observation models for geospatial analysis tasks with minimal labeling overhead.",
+    "tags": [
+      "product",
+      "multimodal",
+      "api"
+    ],
+    "published": "2026-08-12T16:14:36+00:00",
+    "fetched_at": "2026-08-13T07:40:25Z"
+  },
+  {
+    "id": "f5d9b5f669dc",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "original_title": "Putting sign language AI into users’ hands",
+    "headline": "Google DeepMind releases sign language AI for consumer phones",
+    "bullets": [
+      "SL2T model trained on 100,000+ hours across 50+ sign languages, achieves 70 BLEURT on ASL-English.",
+      "Live Transcribe and Gboard on Pixel 11 now support ASL-to-text dictation; more languages coming.",
+      "On-device pose tracking preserves privacy; translates directly from landmarks to text without intermediate glosses."
+    ],
+    "why_it_matters": "Brings speech-like AI accessibility to 70 million Deaf users, enabling natural signing instead of typing.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "product"
+    ],
+    "published": "2026-08-12T14:01:59+00:00",
+    "fetched_at": "2026-08-13T07:40:15Z"
+  },
+  {
+    "id": "ab799e9da743",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "original_title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "headline": "LiquidAI releases 3B vision-language model for edge devices",
+    "bullets": [
+      "LFM2.5-VL-3B runs on-device: 228 tokens/sec on M5 Max, fits in 3GB memory",
+      "Excels at screen/UI understanding, object grounding, and function calling",
+      "Outperforms larger models on document reading and multi-image reasoning tasks"
+    ],
+    "why_it_matters": "Enables real-time vision AI on consumer hardware without cloud dependency, reducing latency and privacy concerns.",
+    "tags": [
+      "model-release",
+      "multimodal",
+      "tooling"
+    ],
+    "published": "2026-08-12T14:00:51+00:00",
+    "fetched_at": "2026-08-13T07:40:29Z"
+  },
+  {
     "id": "a734d8d7fbb5",
     "provider_id": "mistral",
     "provider_name": "Mistral",
@@ -42,6 +130,50 @@
     ],
     "published": null,
     "fetched_at": "2026-08-12T07:38:23Z"
+  },
+  {
+    "id": "fb21820d806b",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "original_title": "From assistance to execution: How enterprises put AI to work",
+    "headline": "Enterprise AI shifts from assistance to execution with agentic workflows",
+    "bullets": [
+      "Frontier firms generate 8.3× more output tokens per user than typical firms, up from 2.6× in January.",
+      "Codex usage grew 108× in legal, 41× in sales and recruiting since February across enterprises.",
+      "21% of frontier firm users weekly use Plugins versus 9% at typical firms; OpenAI internally at 95%."
+    ],
+    "why_it_matters": "Organizations adopting agentic AI with proper tool integration and governance see measurable productivity gains and competitive advantages.",
+    "tags": [
+      "agents",
+      "product",
+      "research"
+    ],
+    "published": "2026-08-12T06:00:00+00:00",
+    "fetched_at": "2026-08-13T07:40:05Z"
+  },
+  {
+    "id": "cad35e6294fe",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/ringcentral",
+    "original_title": "How RingCentral builds AI-native work from engineering to ops",
+    "headline": "RingCentral accelerates product development with AI-native workflows",
+    "bullets": [
+      "RingCentral used ChatGPT Work and Codex in company-wide AI-Native Challenge with thousands of participants.",
+      "PMO team built automated status reporting workflows integrating Jira, Google Sheets, and CRM systems.",
+      "AI-native development shortened feature delivery cycles across AIR, AVA, and ACE product lines."
+    ],
+    "why_it_matters": "Demonstrates how enterprises can scale AI adoption across non-technical teams to accelerate product delivery and operational efficiency.",
+    "tags": [
+      "product",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-08-12T00:00:00+00:00",
+    "fetched_at": "2026-08-13T07:40:08Z"
   },
   {
     "id": "5eb3c49c6262",
@@ -6422,136 +6554,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-28T10:13:41Z"
-  },
-  {
-    "id": "662baf663f2f",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-    "original_title": "CompanyEmmi joins Mistral to accelerate the AI-native industryMay 23, 2026Mistral AI",
-    "headline": "Mistral acquires Physics AI pioneer Emmi to boost industrial capabilities",
-    "bullets": [
-      "Mistral AI acquires Austrian Physics AI company Emmi to strengthen engineering and manufacturing AI systems.",
-      "Emmi's 30+ researchers bring expertise in large engineering models and real-time physics simulations.",
-      "Combined platform targets aerospace, automotive, semiconductors with integrated AI stack for R&D acceleration."
-    ],
-    "why_it_matters": "Enables manufacturers to replace multi-day simulations with real-time AI-driven engineering workflows and digital twins.",
-    "tags": [
-      "model-release",
-      "agents",
-      "research"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:37Z"
-  },
-  {
-    "id": "20567da75ede",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/physics-ai-research",
-    "original_title": "ResearchPhysics AI research that’s shaping the industry.Published breakthroughs pushing the state of the art.May 27, 2026Mistral",
-    "headline": "Mistral acquires Emmi AI, doubles down on physics-based AI research",
-    "bullets": [
-      "Emmi AI acquisition strengthens Mistral's physics AI capabilities for aerospace, automotive, semiconductors, energy sectors.",
-      "Published breakthroughs include neural surrogates for CFD, plasma turbulence modeling, and multi-physics industrial simulations.",
-      "AB-UPT handles 140M volume cells on single GPU without remeshing for aerodynamics applications."
-    ],
-    "why_it_matters": "Physics-based AI accelerates engineering design cycles and operational optimization across capital-intensive industries.",
-    "tags": [
-      "research",
-      "model-release"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:34Z"
-  },
-  {
-    "id": "af8ab909d11b",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
-    "original_title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
-    "headline": "Mistral launches physics AI for accelerated engineering design",
-    "bullets": [
-      "Physics AI models predict physical behavior in seconds on GPU, replacing hours-long traditional simulations",
-      "Enables exploration of thousands of design variants instead of handful, reducing development time and cost",
-      "Real-time digital twins allow predictive maintenance and optimization of operating assets without downtime"
-    ],
-    "why_it_matters": "Engineers can iterate faster on hardware designs, reducing time-to-market and development costs across aerospace, automotive, and energy sectors.",
-    "tags": [
-      "model-release",
-      "product",
-      "research"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:30Z"
-  },
-  {
-    "id": "6b398ac7c77d",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/vibe-agent",
-    "original_title": "Vibe gets to work.",
-    "headline": "Mistral launches Vibe agent for work and coding tasks",
-    "bullets": [
-      "Vibe combines Work Mode for multi-step tasks across email, calendar, databases with Code Mode for end-to-end coding from request to merged pull requests.",
-      "New VS Code extension enables coding agent to read, edit, and execute commands across entire project with GitHub, Jira, Linear integration.",
-      "Pricing: Free tier, Pro $14.99/month, Team $24.99/user/month, Enterprise custom; available at chat.mistral.ai and code.mistral.ai."
-    ],
-    "why_it_matters": "Developers and teams gain unified AI agent for automating complex workflows, research, documentation, and coding tasks with transparent reasoning and tool visibility.",
-    "tags": [
-      "agents",
-      "coding",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:26Z"
-  },
-  {
-    "id": "75f401ff8fbc",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/ai-now-summit-2026",
-    "original_title": "AI Now Summit 2026",
-    "headline": "Mistral launches industrial AI stack, Vibe agent, new data center",
-    "bullets": [
-      "Physics AI for aerospace, automotive, semiconductors with Airbus, BMW, ASML partnerships",
-      "Vibe agent handles multi-step work: research, coding, pull requests, calendar management",
-      "10 MW Les Ulis data center opens Q3 2026 for inference operations"
-    ],
-    "why_it_matters": "Enterprises gain domain-specific AI for critical workflows while maintaining full data control and security.",
-    "tags": [
-      "product",
-      "agents",
-      "coding"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:22Z"
-  },
-  {
-    "id": "cb031b5cf3e3",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/mufg",
-    "original_title": "MUFG aims to become AI-native with OpenAI",
-    "headline": "MUFG deploys ChatGPT Enterprise to 35,000 employees for AI transformation",
-    "bullets": [
-      "Mitsubishi UFJ Bank rolled out ChatGPT Enterprise to approximately 35,000 employees starting 2026.",
-      "100% training participation; employees created 1,800+ custom GPTs in four months.",
-      "Selected research tasks showed 20-30% workload reduction; focus shifting to customer value."
-    ],
-    "why_it_matters": "Demonstrates large-scale enterprise AI adoption in regulated finance, showing path for organizational transformation beyond efficiency gains.",
-    "tags": [
-      "product",
-      "adoption",
-      "tooling"
-    ],
-    "published": "2026-05-28T00:00:00+00:00",
-    "fetched_at": "2026-05-29T10:02:07Z"
   }
 ]
