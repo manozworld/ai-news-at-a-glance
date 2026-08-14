@@ -1,5 +1,114 @@
 [
   {
+    "id": "c1c988556190",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "original_title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "headline": "Strands Agents streamline robot data collection and training loop",
+    "bullets": [
+      "Record robot demonstrations, train on streaming LeRobot datasets, deploy policies—all in one agent loop without full downloads.",
+      "Hugging Face Storage Buckets sync only changed bytes, eliminating redundant transfers across record-train-deploy cycles.",
+      "SO-100 and other LeRobot-supported robots use identical on-disk format throughout, enabling seamless data reuse across 90,000+ Hub datasets."
+    ],
+    "why_it_matters": "Developers can now build continuous robot learning loops with minimal data transfer costs and unified tooling across simulation and hardware.",
+    "tags": [
+      "agents",
+      "tooling",
+      "open-weights"
+    ],
+    "published": "2026-08-13T17:16:04+00:00",
+    "fetched_at": "2026-08-14T07:38:13Z"
+  },
+  {
+    "id": "068e562e0512",
+    "provider_id": "deepmind",
+    "provider_name": "Google DeepMind",
+    "provider_color": "#4285F4",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "original_title": "Introducing Gemini 3.7 Flash",
+    "headline": "Google releases Gemini 3.7 Flash for coding and agents",
+    "bullets": [
+      "Achieves 43.6% on FrontierCode and 65.3% on DeepSWE benchmarks, up from 34.4% and 49.0%.",
+      "Priced at $0.75/1M input tokens, half the cost of 3.6 Flash predecessor.",
+      "Improves web development, knowledge work, and agent orchestration with better multi-step reasoning."
+    ],
+    "why_it_matters": "Developers can build production agents faster and cheaper with stronger coding and reasoning capabilities.",
+    "tags": [
+      "model-release",
+      "coding",
+      "agents"
+    ],
+    "published": "2026-08-13T17:04:18+00:00",
+    "fetched_at": "2026-08-14T07:38:06Z"
+  },
+  {
+    "id": "855fa77e93e1",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "original_title": "The builder’s guide to GPT‑5.6",
+    "headline": "GPT-5.6 delivers frontier agent performance at dramatically lower costs",
+    "bullets": [
+      "GPT-5.6 Luna matches GPT-5.5 extraction accuracy at 1/18th the cost; BrowseComp benchmark: 84% accuracy for $1.33 vs $33.27",
+      "New Responses API features: reasoning persistence, native compaction, multi-agent orchestration, programmatic tool calling",
+      "ARC-AGI-3 performance jumped from 13.3% to 38.3% with retained reasoning, using 6× fewer output tokens"
+    ],
+    "why_it_matters": "Developers can build capable agentic systems at fraction of prior costs while maintaining or improving performance through smarter model selection and architectural primitives.",
+    "tags": [
+      "model-release",
+      "agents",
+      "api"
+    ],
+    "published": "2026-08-13T11:00:00+00:00",
+    "fetched_at": "2026-08-14T07:37:53Z"
+  },
+  {
+    "id": "6357d7795d21",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "headline": "OpenAI launches Ultrafast mode for GPT-5.6 Sol at 14X speed",
+    "bullets": [
+      "GPT-5.6 Sol Ultrafast generates up to 750 output tokens per second, powered by Cerebras infrastructure.",
+      "Enables real-time applications: incident response, financial analysis, voice support, commerce without sacrificing model intelligence.",
+      "Limited preview available now; OpenAI expanding access as capacity grows."
+    ],
+    "why_it_matters": "Developers can now deploy frontier-class intelligence in latency-sensitive applications, enabling new real-time AI workflows previously impossible.",
+    "tags": [
+      "product",
+      "api",
+      "model-release"
+    ],
+    "published": "2026-08-13T10:00:00+00:00",
+    "fetched_at": "2026-08-14T07:37:56Z"
+  },
+  {
+    "id": "9e022b7caa78",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "original_title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "headline": "OpenAI names Dali Rajic as new Chief Revenue Officer",
+    "bullets": [
+      "Rajic joins from Wiz (Google acquisition), previously led revenue at Zscaler and AppDynamics.",
+      "OpenAI now serves 1B+ weekly users and 2M businesses, doubling enterprise customer base yearly.",
+      "Outgoing CRO Denise Dresser built commercial foundation during enterprise AI market formation."
+    ],
+    "why_it_matters": "Leadership change signals OpenAI's shift toward scaling enterprise deployment as AI becomes embedded in business workflows.",
+    "tags": [
+      "product",
+      "pricing"
+    ],
+    "published": "2026-08-13T09:00:00+00:00",
+    "fetched_at": "2026-08-14T07:38:00Z"
+  },
+  {
     "id": "abadfb45f943",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -20,6 +129,28 @@
     ],
     "published": null,
     "fetched_at": "2026-08-13T07:40:22Z"
+  },
+  {
+    "id": "5fa28c256021",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "original_title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "headline": "Hackathon reproduces third of ICML papers using AI agents",
+    "bullets": [
+      "1,221 participants used coding agents to reproduce 2,226 ICML 2026 papers in 19 days.",
+      "51% of examined papers had at least one claim verified; 23% had claims falsified or contested.",
+      "Automated judge evaluated 35,908 claims across 6,816 logbooks published on Hugging Face."
+    ],
+    "why_it_matters": "Demonstrates AI agents can scale reproducibility audits beyond human reviewer capacity, revealing systematic issues in peer review.",
+    "tags": [
+      "research",
+      "agents",
+      "tooling"
+    ],
+    "published": "2026-08-13T00:00:00+00:00",
+    "fetched_at": "2026-08-14T07:38:17Z"
   },
   {
     "id": "e43158037a35",
@@ -6422,137 +6553,5 @@
     ],
     "published": "2026-05-29T00:00:00+00:00",
     "fetched_at": "2026-05-30T08:33:30Z"
-  },
-  {
-    "id": "357d064be869",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/torch-profiler",
-    "original_title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "headline": "PyTorch profiling guide teaches optimization through torch.profiler",
-    "bullets": [
-      "Educational series starting with matrix multiplication, scaling to LLMs with transformers",
-      "Teaches reading profiler tables and traces to identify CPU/GPU bottlenecks and kernel launches",
-      "Demonstrates torch.compile impact on execution chains from Python calls to CUDA kernels"
-    ],
-    "why_it_matters": "Developers can systematically optimize model performance by understanding profiler output and identifying GPU underutilization.",
-    "tags": [
-      "tooling",
-      "coding",
-      "research"
-    ],
-    "published": "2026-05-29T00:00:00+00:00",
-    "fetched_at": "2026-05-30T08:33:41Z"
-  },
-  {
-    "id": "c4a9a577612d",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/endava",
-    "original_title": "How Endava builds an agentic organization with Codex",
-    "headline": "Endava scales engineering with Codex agentic organization model",
-    "bullets": [
-      "Endava reduced requirements analysis from weeks to hours using Codex across full delivery lifecycle.",
-      "Senior architects codify expertise into Codex agents, enabling junior developers to produce senior-level outputs.",
-      "Legal team compressed contract review specification from weeks to two meetings using Codex transcripts."
-    ],
-    "why_it_matters": "Organizations can compress delivery timelines and democratize senior expertise by embedding architectural knowledge into AI agents.",
-    "tags": [
-      "agents",
-      "coding",
-      "product"
-    ],
-    "published": "2026-05-28T12:00:00+00:00",
-    "fetched_at": "2026-05-29T10:02:04Z"
-  },
-  {
-    "id": "e04e3432fb0a",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/voxtral-tts",
-    "original_title": "ResearchSpeaking of VoxtralVoxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.March 23, 2026Mistral AI",
-    "headline": "Mistral releases Voxtral TTS, lightweight multilingual speech model",
-    "bullets": [
-      "4B-parameter model supports 9 languages with emotional expressiveness and instant voice adaptation",
-      "70ms latency for 10-second voice sample; outperforms ElevenLabs Flash v2.5 on naturalness",
-      "Available via API at $0.016 per 1k characters; open-weights version on Hugging Face"
-    ],
-    "why_it_matters": "Enables developers to build natural, low-latency voice agents with custom voice adaptation at enterprise scale.",
-    "tags": [
-      "model-release",
-      "voice",
-      "open-weights"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:53Z"
-  },
-  {
-    "id": "f32e5c848780",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/workflows-for-work-that-runs-the-business",
-    "original_title": "ProductWorkflows for work that runs the businessWorkflows is now in public preview.April 27, 2026Mistral AI",
-    "headline": "Mistral launches Workflows orchestration platform for enterprise AI",
-    "bullets": [
-      "Workflows now in public preview; enables durable, observable AI processes in production",
-      "Built on Temporal engine; includes human-in-the-loop approvals, full audit trails, fault tolerance",
-      "Integrates with Studio, Le Chat; customers like ASML, ABANCA already automating critical processes"
-    ],
-    "why_it_matters": "Enterprises can move AI from prototypes to reliable production systems in days instead of months of custom engineering.",
-    "tags": [
-      "product",
-      "agents",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:49Z"
-  },
-  {
-    "id": "486053f0b471",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/connect-the-dots-build-with-built-in-and-custom-mcps-in-studio",
-    "original_title": "ProductConnect the dots: Build with built-in and custom MCPs in StudioConnect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.May 22, 2026Mistral AI",
-    "headline": "Mistral Launches Connectors for Enterprise AI Integration",
-    "bullets": [
-      "Built-in and custom MCPs now available via API/SDK for all model and agent calls.",
-      "Direct tool calling enables precise control; human-in-the-loop approval flows ensure governance.",
-      "Connectors centrally registered, reusable across LeChat, Studio, and upcoming Vibe platform."
-    ],
-    "why_it_matters": "Developers can build enterprise AI agents faster by reusing connectors instead of rebuilding integrations repeatedly across teams.",
-    "tags": [
-      "product",
-      "agents",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:45Z"
-  },
-  {
-    "id": "3011157f39f9",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/remote-agents-in-vibe-powered-by-mistral-medium-35",
-    "original_title": "ProductRemote agents in Vibe. Powered by Mistral Medium 3.5.Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.May 22, 2026Mistral AI",
-    "headline": "Mistral Medium 3.5 powers cloud-based coding agents in Vibe",
-    "bullets": [
-      "Mistral Medium 3.5: 128B dense model with 256k context, 77.6% on SWE-Bench Verified",
-      "Remote agents run async in cloud, spawnable from CLI or Le Chat, teleportable from local sessions",
-      "Work mode in Le Chat handles multi-step tasks with parallel tool calls and persistent sessions"
-    ],
-    "why_it_matters": "Developers can offload long coding tasks to cloud agents while working on other priorities, reducing manual bottlenecks.",
-    "tags": [
-      "model-release",
-      "agents",
-      "coding"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-28T10:13:41Z"
   }
 ]
