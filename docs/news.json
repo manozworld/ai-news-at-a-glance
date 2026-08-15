@@ -1,5 +1,69 @@
 [
   {
+    "id": "b298bf870518",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-4-6-github-copilot",
+    "original_title": "Aug 14, 2026Grok 4.6 in GitHub Copilot",
+    "headline": "Grok 4.6 coding model launches in GitHub Copilot",
+    "bullets": [
+      "Grok 4.6 now available in GitHub Copilot for VS Code and GitHub users",
+      "Model accessible via Copilot CLI, cloud agents, and SpaceXAI console",
+      "Pricing: $2 per million input tokens, $6 per million output tokens"
+    ],
+    "why_it_matters": "Developers gain access to latest coding model directly in popular IDEs and workflows without switching tools.",
+    "tags": [
+      "model-release",
+      "coding",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-15T06:44:08Z"
+  },
+  {
+    "id": "8a4a811ddfc4",
+    "provider_id": "anthropic",
+    "provider_name": "Anthropic",
+    "provider_color": "#C96442",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "original_title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
+    "headline": "Claude adds invisible watermark to detect AI-generated text",
+    "bullets": [
+      "Watermark uses randomness patterns in word selection, invisible to readers but detectable with a key.",
+      "No impact on output quality, cost, or token usage; complies with EU AI Act requirements.",
+      "Method based on Google DeepMind's SynthID-Text; other major AI providers implementing similar watermarks."
+    ],
+    "why_it_matters": "Enables detection of Claude-generated content for compliance and authenticity verification without degrading user experience.",
+    "tags": [
+      "safety",
+      "product"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-15T06:44:02Z"
+  },
+  {
+    "id": "d556a48bace2",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "original_title": "State of Open Models: Summer 2026 Observations",
+    "headline": "Chinese labs dominate open model releases; adoption patterns shift dramatically",
+    "bullets": [
+      "Chinese labs released models up to 2.78T parameters; US capped under 130B most months.",
+      "Top 25 downloaded models and top 25 liked models share only one repository.",
+      "Qwen's multi-size strategy achieved 2,045M downloads vs Moonshot's frontier-only 37M downloads."
+    ],
+    "why_it_matters": "Developers must understand that model attention and actual adoption are decoupled; infrastructure stability matters more than frontier performance.",
+    "tags": [
+      "model-release",
+      "research"
+    ],
+    "published": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-15T06:44:12Z"
+  },
+  {
     "id": "c1c988556190",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
@@ -6488,70 +6552,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-29T10:02:19Z"
-  },
-  {
-    "id": "918121c45d59",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "original_title": "Introducing Claude Opus 4.8ProductMay 28, 2026An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
-    "headline": "Claude Opus 4.8 launches with improved coding and agentic capabilities",
-    "bullets": [
-      "Opus 4.8 scores 84% on Online-Mind2Web browser tasks, outperforming Opus 4.7 and GPT-5.5.",
-      "Fast mode now 3× cheaper; dynamic workflows enable parallel subagents for large-scale tasks.",
-      "Model shows 4× fewer unremarked code flaws; improved honesty and alignment assessment results."
-    ],
-    "why_it_matters": "Developers building agents and autonomous systems gain more reliable, cost-effective tooling for production workloads.",
-    "tags": [
-      "model-release",
-      "agents",
-      "coding"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:16Z"
-  },
-  {
-    "id": "8337eeb248ea",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "original_title": "Strengthening societal resilience with Rosalind Biodefense",
-    "headline": "OpenAI launches Rosalind Biodefense program for trusted partners",
-    "bullets": [
-      "Rosalind Biodefense enables vetted developers to build pandemic preparedness and biodefense applications using GPT-Rosalind.",
-      "Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners supporting public health missions.",
-      "Program supports epidemiological modeling, early detection, screening, and medical countermeasure development across biological defense lifecycle."
-    ],
-    "why_it_matters": "Concentrates advanced AI capabilities with vetted defenders to strengthen pandemic preparedness and biological threat response infrastructure.",
-    "tags": [
-      "product",
-      "safety",
-      "research"
-    ],
-    "published": "2026-05-29T03:00:00+00:00",
-    "fetched_at": "2026-05-30T08:33:25Z"
-  },
-  {
-    "id": "33e1df4abe4e",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "original_title": "A shared playbook for trustworthy third party evaluations",
-    "headline": "OpenAI shares framework for evaluating frontier AI model safety",
-    "bullets": [
-      "Third-party evaluations must account for modern models' tool use, state management, and multi-step reasoning capabilities.",
-      "Evaluation reports should specify claims tested, validity evidence, and potential confounds like reward hacking or contamination.",
-      "Harness design critically impacts measured capability; standardized setups enable fair comparison but may understate performance."
-    ],
-    "why_it_matters": "Standardized evaluation practices improve transparency and reliability of AI safety claims, enabling better industry oversight.",
-    "tags": [
-      "safety",
-      "research"
-    ],
-    "published": "2026-05-29T00:00:00+00:00",
-    "fetched_at": "2026-05-30T08:33:30Z"
   }
 ]
