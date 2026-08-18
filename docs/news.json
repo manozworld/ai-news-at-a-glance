@@ -1,5 +1,90 @@
 [
   {
+    "id": "b597a3d03ee7",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "original_title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "headline": "GPU scheduler optimization recovers 33 points utilization through smarter allocation",
+    "bullets": [
+      "Constraint-aware allocator vs FIFO scheduler: 33 percentage point utilization gain on identical hardware",
+      "Priority-weighted output improved up to 105% across seven benchmark scenarios",
+      "Treats real-time inference as demand curve, batch jobs by priority instead of arrival order"
+    ],
+    "why_it_matters": "Enterprise AI clusters can dramatically improve GPU utilization and output value by optimizing job scheduling order, not hardware.",
+    "tags": [
+      "tooling",
+      "research"
+    ],
+    "published": "2026-08-17T19:46:21+00:00",
+    "fetched_at": "2026-08-18T06:50:09Z"
+  },
+  {
+    "id": "f137d9ea2f9f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/the-defenders-window",
+    "original_title": "The Defender’s Window",
+    "headline": "OpenAI details AI-powered cybersecurity defense strategy after incident",
+    "bullets": [
+      "AI models can now autonomously find and exploit security vulnerabilities; defenders must act urgently.",
+      "OpenAI using AI to write secure code, triage alerts, and continuously probe for attack paths.",
+      "ChatGPT identified 13 security issues on a personal website and fixed them autonomously in one hour."
+    ],
+    "why_it_matters": "AI shifts cybersecurity economics toward defenders, enabling faster vulnerability discovery and remediation than attackers can exploit.",
+    "tags": [
+      "safety",
+      "agents",
+      "coding"
+    ],
+    "published": "2026-08-17T05:30:00+00:00",
+    "fetched_at": "2026-08-18T06:49:53Z"
+  },
+  {
+    "id": "ad5623d5cc70",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "original_title": "OpenAI joins PORTS-Pike project",
+    "headline": "OpenAI secures 8 gigawatts at Ohio data center campus",
+    "bullets": [
+      "Partnership with SB Energy, NVIDIA, DOE at Pike County site; 35,000 construction jobs through 2032.",
+      "OpenAI investing $40 million community fund plus $84 million Codex credits for Ohio students.",
+      "Data center uses closed-loop cooling, recirculates water; first 800 MW operational by 2028."
+    ],
+    "why_it_matters": "Major AI infrastructure investment creates regional jobs and establishes precedent for responsible data center development.",
+    "tags": [
+      "product",
+      "tooling"
+    ],
+    "published": "2026-08-17T05:00:00+00:00",
+    "fetched_at": "2026-08-18T06:49:58Z"
+  },
+  {
+    "id": "96670aeff66e",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "original_title": "New policy ideas for the Intelligence Age",
+    "headline": "OpenAI funds 14 projects exploring AI policy and economic opportunity",
+    "bullets": [
+      "OpenAI awarded $1M in grants plus $1M API credits to independent organizations across five countries.",
+      "Projects examine AI's impact on employment, wealth distribution, energy infrastructure, and scientific research.",
+      "Grantees include think tanks and research institutions developing policy frameworks and prototypes for responsible AI deployment."
+    ],
+    "why_it_matters": "Independent research on AI's economic and social effects informs policy decisions that determine whether AI benefits are broadly shared.",
+    "tags": [
+      "policy",
+      "research"
+    ],
+    "published": "2026-08-17T03:15:00+00:00",
+    "fetched_at": "2026-08-18T06:50:01Z"
+  },
+  {
     "id": "b298bf870518",
     "provider_id": "xai",
     "provider_name": "xAI",
@@ -6467,90 +6552,5 @@
     ],
     "published": null,
     "fetched_at": "2026-05-29T10:02:42Z"
-  },
-  {
-    "id": "79ae92d8dc3d",
-    "provider_id": "xai",
-    "provider_name": "xAI",
-    "provider_color": "#1A1A1A",
-    "url": "https://x.ai/news/grok-build-0-1",
-    "original_title": "May 28, 2026Grok Build 0.1 on APILatest postMay 28, 2026Grok Build 0.1 on APIGrok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.Read More",
-    "headline": "xAI releases Grok Build 0.1 coding model via API",
-    "bullets": [
-      "Fastest coding model at 100+ tokens/second, priced $1/M input, $2/M output tokens",
-      "Trained for agentic coding: web development, debugging, MCP support",
-      "Available via xAI API, OpenRouter, Vercel AI Gateway in public beta"
-    ],
-    "why_it_matters": "Developers gain fast, affordable agentic coding model for building and debugging applications at scale.",
-    "tags": [
-      "model-release",
-      "coding",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:37Z"
-  },
-  {
-    "id": "aaee48ad131b",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-    "original_title": "May 25, 2026AnnouncementsAnthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-    "headline": "Anthropic co-founder discusses AI ethics at Vatican encyclical event",
-    "bullets": [
-      "Chris Olah spoke at Pope Leo XIV's encyclical presentation on AI and human dignity in Vatican City.",
-      "Olah emphasized AI labs face commercial and geopolitical pressures conflicting with safety priorities.",
-      "He identified three key discernment areas: global wealth distribution, human flourishing, and understanding AI model internals."
-    ],
-    "why_it_matters": "Highlights need for external oversight and moral guidance from non-technical communities in AI development governance.",
-    "tags": [
-      "safety",
-      "research"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:31Z"
-  },
-  {
-    "id": "2e779f2f08bd",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/milan-office-opening",
-    "original_title": "May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers",
-    "headline": "Anthropic opens Milan office to expand European presence",
-    "bullets": [
-      "Sixth European office; serves Italian enterprises, researchers, and developers with Claude",
-      "Italian companies like Generali, Enel, Satispay already deploying Claude across teams",
-      "Satispay compressed 18-month roadmap to seven months using Claude for engineering"
-    ],
-    "why_it_matters": "Anthropic strengthens European footprint and demonstrates Claude adoption across finance, energy, and tech sectors.",
-    "tags": [
-      "product",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:26Z"
-  },
-  {
-    "id": "a3d8c6fadccf",
-    "provider_id": "anthropic",
-    "provider_name": "Anthropic",
-    "provider_color": "#C96442",
-    "url": "https://www.anthropic.com/news/series-h",
-    "original_title": "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation",
-    "headline": "Anthropic raises $65B at $965B valuation, hits $47B revenue",
-    "bullets": [
-      "Series H funding led by Altimeter, Dragoneer, Greenoaks, Sequoia; includes $15B from hyperscalers.",
-      "Run-rate revenue crossed $47 billion; Claude deployed across enterprise operations globally.",
-      "New compute agreements: 5GW from Amazon, 5GW TPU from Google/Broadcom, GPU access from SpaceX."
-    ],
-    "why_it_matters": "Massive capital and compute expansion signals Anthropic's dominance in enterprise AI deployment and infrastructure scaling.",
-    "tags": [
-      "pricing",
-      "product"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:19Z"
   }
 ]
