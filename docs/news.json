@@ -1,5 +1,202 @@
 [
   {
+    "id": "e4563871866d",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "original_title": "ChatGPT Ads expands across Europe",
+    "headline": "ChatGPT Ads launches in 31 European markets after US success",
+    "bullets": [
+      "Expanding to Germany, France, Spain, Italy, and 26 other European countries next week",
+      "Adds conversion optimization, geo-targeting, custom audiences, and improved measurement tools",
+      "Ads shown only to Free and Go plan users; paid tiers remain ad-free"
+    ],
+    "why_it_matters": "European marketers gain access to ChatGPT's decision-making audience while OpenAI monetizes free tier usage without compromising paid user experience.",
+    "tags": [
+      "product",
+      "pricing",
+      "api"
+    ],
+    "published": "2026-08-18T22:00:00+00:00",
+    "fetched_at": "2026-08-19T06:50:58Z"
+  },
+  {
+    "id": "67f37d861d34",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "original_title": "Strengthening democratic oversight in national security",
+    "headline": "OpenAI funds oversight tools for government AI use",
+    "bullets": [
+      "OpenAI allocates $5 million for training and credits to democratic oversight bodies.",
+      "Developing pilot tools to help reviewers examine AI-assisted government decision records.",
+      "Three principles: strengthen human judgment, ensure traceability, empower oversight institutions."
+    ],
+    "why_it_matters": "Enables elected oversight bodies to audit government AI systems at scale, maintaining democratic accountability as national security AI adoption accelerates.",
+    "tags": [
+      "safety",
+      "product",
+      "tooling"
+    ],
+    "published": "2026-08-18T19:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:01Z"
+  },
+  {
+    "id": "5ce8103476b1",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "original_title": "How Much Memory Does Your Agent Actually Need?",
+    "headline": "Agent Memory Effectiveness Varies Dramatically by Model Capability",
+    "bullets": [
+      "ALTK-Evolve distills agent guidelines from past trajectories; effectiveness depends on model tier, not just parameter count.",
+      "Strong models gain from full guideline sets (+9.5pp DeepSeek); weaker models benefit from curated retrieval (+16.1pp gpt-oss-120b).",
+      "Saturated models show zero gain; prompt caching keeps full guideline sets affordable in production."
+    ],
+    "why_it_matters": "Developers must calibrate agent memory dosage per model to maximize accuracy and minimize token costs.",
+    "tags": [
+      "agents",
+      "research"
+    ],
+    "published": "2026-08-18T18:09:38+00:00",
+    "fetched_at": "2026-08-19T06:51:26Z"
+  },
+  {
+    "id": "9765648ad527",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "original_title": "Partnering with CodeAI to prepare the first AI generation",
+    "headline": "OpenAI partners with CodeAI on teen AI education initiative",
+    "bullets": [
+      "Launches ChatGPT for Teens with built-in safety protections and parental controls for younger users.",
+      "75% of high school students say AI literacy will be critical to their futures, yet only 16% receive formal training.",
+      "Partnership includes Hour of AI program, Builders Challenge, and free AI Foundations course for high schools."
+    ],
+    "why_it_matters": "Bridges the gap between widespread student AI use and actual understanding of how it works and its limitations.",
+    "tags": [
+      "product",
+      "education",
+      "safety"
+    ],
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:05Z"
+  },
+  {
+    "id": "68c52c81310f",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "original_title": "Pacing model development in an era of cyber-critical capabilities",
+    "headline": "OpenAI slows model scaling after detecting critical cybersecurity risks",
+    "bullets": [
+      "Paused reinforcement learning training on latest models after Astra showed critical cyber capabilities.",
+      "Implemented stricter research environment security: workload isolation, network controls, continuous attack testing.",
+      "Expanded monitoring system with token-level detectors and 30-minute alert response for suspicious activity."
+    ],
+    "why_it_matters": "Demonstrates industry-wide need for safety infrastructure to match AI capability growth before deployment.",
+    "tags": [
+      "safety",
+      "research",
+      "model-release"
+    ],
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:08Z"
+  },
+  {
+    "id": "01003c6680bc",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "original_title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "headline": "OpenAI launches ChatGPT for Teens with learning features and safety guardrails",
+    "bullets": [
+      "Auto-enrollment for users 13-17; includes Study Mode, homework reminders, quizzes, and customizable study hours.",
+      "Partnership with CodeAI to teach teens AI literacy, critical thinking, and responsible AI use.",
+      "Age-appropriate content filters and protections against self-harm, violence, and explicit material by default."
+    ],
+    "why_it_matters": "Provides educators and parents structured tools to help teens learn with AI safely while building AI literacy skills.",
+    "tags": [
+      "product",
+      "safety",
+      "tooling"
+    ],
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:11Z"
+  },
+  {
+    "id": "7d7eacff40aa",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/asana",
+    "original_title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "headline": "Asana completes five-year codebase migration in two weeks using Codex",
+    "bullets": [
+      "Asana removed outdated Enzyme testing system using OpenAI Codex with four parallel coding agents.",
+      "Project cost $12K in model and infrastructure versus $6M estimated staffing expense.",
+      "1.5 weeks of engineering effort completed work previously expected to take five years."
+    ],
+    "why_it_matters": "Demonstrates AI agents can dramatically accelerate large-scale codebase refactoring, making previously impractical engineering projects economically viable.",
+    "tags": [
+      "coding",
+      "agents",
+      "api"
+    ],
+    "published": "2026-08-18T07:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:18Z"
+  },
+  {
+    "id": "dfcf73efa3a6",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "original_title": "How NVIDIA scales expertise with ChatGPT Work",
+    "headline": "NVIDIA uses ChatGPT Work to automate planning and market intelligence",
+    "bullets": [
+      "GTM team saves 16 hours weekly on GTC event planning through automated workflows",
+      "Prototypes built in 3–5 days instead of 2–3 weeks using integrated ChatGPT environment",
+      "AI operations team surfaces 5–8 actionable signals weekly from 25–40 external AI updates"
+    ],
+    "why_it_matters": "Demonstrates how enterprise teams can reclaim time from manual tasks to focus on strategy and customer relationships.",
+    "tags": [
+      "product",
+      "agents",
+      "tooling"
+    ],
+    "published": "2026-08-18T00:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:15Z"
+  },
+  {
+    "id": "e520424e436f",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "original_title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "headline": "Sentence Transformers adds multi-vector late-interaction embedding support",
+    "bullets": [
+      "v6.0 introduces MultiVectorEncoder for ColBERT-style retrieval, preserving token-level matching information",
+      "Supports PyLate, Stanford ColBERT, and colpali-engine checkpoints through unified API",
+      "Improves retrieval quality on multi-requirement queries; index size increases ~42x versus dense models"
+    ],
+    "why_it_matters": "Developers can now use state-of-the-art late-interaction retrieval for RAG and semantic search without switching libraries or APIs.",
+    "tags": [
+      "model-release",
+      "api",
+      "tooling"
+    ],
+    "published": "2026-08-18T00:00:00+00:00",
+    "fetched_at": "2026-08-19T06:51:30Z"
+  },
+  {
     "id": "b597a3d03ee7",
     "provider_id": "huggingface",
     "provider_name": "Hugging Face",
@@ -6354,203 +6551,5 @@
     ],
     "published": "2026-06-01T15:45:17+00:00",
     "fetched_at": "2026-06-02T10:45:19Z"
-  },
-  {
-    "id": "65ae950e23b0",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "original_title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "headline": "Agent Logic Reduces LLM Token Use, Enables Enterprise AI Scaling",
-    "bullets": [
-      "IBM's agent logic approach achieves 30× lower token consumption on legacy code understanding tasks.",
-      "Test generation agents improve code coverage 20-45% with 15× fewer tokens than baseline LLMs.",
-      "Knowledge graphs and program analysis steer LLMs toward enterprise workflows, reducing hallucinations and costs."
-    ],
-    "why_it_matters": "Structured agent logic makes AI practical for enterprises by cutting costs and improving reliability in mission-critical workflows.",
-    "tags": [
-      "agents",
-      "coding",
-      "research"
-    ],
-    "published": "2026-06-01T13:51:18+00:00",
-    "fetched_at": "2026-06-02T10:45:23Z"
-  },
-  {
-    "id": "dadd123def02",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "original_title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "headline": "OpenAI breaks ground on 1GW Michigan data center with community commitments",
-    "bullets": [
-      "The Barn data center in Saline, Michigan will create 2,500 union construction jobs plus 450 permanent positions.",
-      "OpenAI commits $45 million in Codex credits for 400,000+ Michigan college and trade school students.",
-      "Project projected to generate $1 billion in tax revenue; local residents protected from infrastructure cost increases."
-    ],
-    "why_it_matters": "Demonstrates how large AI infrastructure projects can integrate labor partnerships, community investment, and workforce development at scale.",
-    "tags": [
-      "product",
-      "pricing",
-      "agents"
-    ],
-    "published": "2026-06-01T12:00:00+00:00",
-    "fetched_at": "2026-06-02T10:44:50Z"
-  },
-  {
-    "id": "00ed5eb9be7b",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "original_title": "OpenAI frontier models and Codex are now available on AWS",
-    "headline": "OpenAI models and Codex now available on AWS Bedrock",
-    "bullets": [
-      "GPT-5.5 and frontier models accessible via Amazon Bedrock with AWS security controls",
-      "Codex available to 5M+ weekly users for code writing, review, and debugging",
-      "Supports Commercial and GovCloud regions; future Daybreak cyber tools planned"
-    ],
-    "why_it_matters": "Enterprises can deploy OpenAI capabilities within existing AWS workflows, reducing procurement and security barriers to production AI adoption.",
-    "tags": [
-      "product",
-      "api",
-      "coding"
-    ],
-    "published": "2026-06-01T10:00:00+00:00",
-    "fetched_at": "2026-06-02T10:44:54Z"
-  },
-  {
-    "id": "7c8c63c46b4b",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "original_title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "headline": "NVIDIA Cosmos 3 unified model handles robotics and world simulation",
-    "bullets": [
-      "Single omni-model combines video generation, physical reasoning, and action prediction in one forward pass",
-      "Two sizes: Cosmos 3 Nano (8B) runs on RTX PRO 6000; Cosmos 3 Super (32B) for large-scale synthetic data",
-      "Integrated with Hugging Face Diffusers; supports text, image, video, audio, and action inputs"
-    ],
-    "why_it_matters": "Developers can now build robotics and autonomous systems with one foundation model instead of juggling separate pipelines.",
-    "tags": [
-      "model-release",
-      "multimodal",
-      "agents"
-    ],
-    "published": "2026-06-01T04:44:55+00:00",
-    "fetched_at": "2026-06-01T11:45:11Z"
-  },
-  {
-    "id": "e63fa88b5624",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/boston-childrens-hospital",
-    "original_title": "Boston Children’s uses AI to unlock new diagnoses",
-    "headline": "Boston Children's Hospital diagnoses 40+ rare diseases using AI infrastructure",
-    "bullets": [
-      "Deployed enterprise ChatGPT layer across clinical, research, and administrative teams hospital-wide.",
-      "Diagnosed 40+ previously unresolved rare conditions using AI-integrated genetic and medical data synthesis.",
-      "Captured 60,000 hours in time savings ($7M+ labor redeployment) across 50+ operational automations."
-    ],
-    "why_it_matters": "Demonstrates AI's potential to solve previously intractable medical problems while reducing operational costs at scale.",
-    "tags": [
-      "product",
-      "safety",
-      "research"
-    ],
-    "published": "2026-05-29T12:00:00+00:00",
-    "fetched_at": "2026-05-30T08:33:18Z"
-  },
-  {
-    "id": "507ec0fdf629",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/braintrust",
-    "original_title": "How Braintrust turns customer requests into code with Codex",
-    "headline": "Braintrust ships customer features in minutes using Codex",
-    "bullets": [
-      "Braintrust team converts feature requests to preview branches using Codex with GPT-5.5",
-      "50% of engineering team adopted Codex within one month for faster iteration",
-      "Speed enables real-time customer feedback loops instead of backlog queuing"
-    ],
-    "why_it_matters": "Faster code generation reduces feature request cycle time, enabling real-time customer collaboration and experimentation.",
-    "tags": [
-      "coding",
-      "product",
-      "api"
-    ],
-    "published": "2026-05-29T12:00:00+00:00",
-    "fetched_at": "2026-05-30T08:33:21Z"
-  },
-  {
-    "id": "c401ee87a219",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/workflows",
-    "original_title": "ProductWorkflows for work that runs the businessWorkflows is now in public preview.April 27, 2026Mistral AI",
-    "headline": "Mistral launches Workflows orchestration platform in public preview",
-    "bullets": [
-      "Enterprise AI orchestration layer with durability, observability, fault tolerance for production workloads",
-      "Built on Temporal engine; supports human-in-the-loop approvals, multi-step processes, full audit trails",
-      "Customers including ASML, ABANCA, CMA-CGM already automating cargo, compliance, support triage workflows"
-    ],
-    "why_it_matters": "Enterprises can move AI from prototypes to production reliably in days instead of months of custom engineering.",
-    "tags": [
-      "product",
-      "agents",
-      "tooling"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:50Z"
-  },
-  {
-    "id": "435451114e08",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/connectors",
-    "original_title": "ProductConnect the dots: Build with built-in and custom MCPs in StudioConnect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.May 22, 2026Mistral AI",
-    "headline": "Mistral releases connectors for enterprise AI app integration",
-    "bullets": [
-      "Built-in and custom MCPs now available via API/SDK for all model and agent calls",
-      "Direct tool calling enables precise control; human-in-the-loop approval flows ensure governance",
-      "Connectors centrally registered, reusable across LeChat, Studio, and upcoming Vibe"
-    ],
-    "why_it_matters": "Developers can build enterprise AI agents with secure, reusable integrations without rebuilding authentication and tool logic repeatedly.",
-    "tags": [
-      "product",
-      "agents",
-      "api"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:46Z"
-  },
-  {
-    "id": "392e2ba0621c",
-    "provider_id": "mistral",
-    "provider_name": "Mistral",
-    "provider_color": "#FA520F",
-    "url": "https://mistral.ai/news/search-toolkit",
-    "original_title": "Introducing Search Toolkit",
-    "headline": "Mistral releases Search Toolkit for production RAG pipelines",
-    "bullets": [
-      "Open-source framework unifies ingestion, retrieval, and evaluation in single interface",
-      "Includes BM25, dense embedding, hybrid retrieval; built-in metrics for quality measurement",
-      "Runs on cloud, on-premises, or edge; starter template with Vespa indexing included"
-    ],
-    "why_it_matters": "Reduces engineering overhead for teams building search infrastructure, enabling faster RAG deployment and quality iteration.",
-    "tags": [
-      "product",
-      "tooling",
-      "open-weights"
-    ],
-    "published": null,
-    "fetched_at": "2026-05-29T10:02:42Z"
   }
 ]
