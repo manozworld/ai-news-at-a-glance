@@ -1,5 +1,93 @@
 [
   {
+    "id": "39aa86ee035b",
+    "provider_id": "xai",
+    "provider_name": "xAI",
+    "provider_color": "#1A1A1A",
+    "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+    "original_title": "Aug 19, 2026Grok 4.6 on Amazon Bedrock",
+    "headline": "Grok 4.6 launches on Amazon Bedrock with extended context",
+    "bullets": [
+      "500k token context window supports long-running agents and visual tasks",
+      "Configurable reasoning levels: low, medium, high, xhigh for flexible inference",
+      "Pricing: $2/M input tokens, $6/M output tokens via Bedrock"
+    ],
+    "why_it_matters": "Developers can now access xAI's flagship model through AWS, enabling complex agentic workflows with extended reasoning capabilities.",
+    "tags": [
+      "model-release",
+      "agents",
+      "api"
+    ],
+    "published": null,
+    "fetched_at": "2026-08-20T06:52:38Z"
+  },
+  {
+    "id": "ef913e9fdabc",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "original_title": "Offering Zero Data Retention for frontier models",
+    "headline": "OpenAI launches Private Safety Processing with zero data retention",
+    "bullets": [
+      "Private Safety Processing identifies misuse patterns across interactions without exposing content to OpenAI staff.",
+      "Customer content encrypted with customer-controlled keys; automated systems flag risks without accessing underlying prompts.",
+      "Rolling out September 2026; compatible with existing ZDR deployments and OpenAI-hosted infrastructure options."
+    ],
+    "why_it_matters": "Enterprises can now detect complex AI safety risks while maintaining strict data privacy and regulatory compliance.",
+    "tags": [
+      "safety",
+      "api",
+      "product"
+    ],
+    "published": "2026-08-19T19:00:00+00:00",
+    "fetched_at": "2026-08-20T06:52:28Z"
+  },
+  {
+    "id": "22e214c52569",
+    "provider_id": "huggingface",
+    "provider_name": "Hugging Face",
+    "provider_color": "#FFB000",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "original_title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "headline": "LiquidAI releases quantization-aware distilled LFM2.5 checkpoints",
+    "bullets": [
+      "QAD Q4_0 GGUFs for LFM2.5 models (230M to 2.6B) recover 96-97% of BF16 accuracy",
+      "Maintains Q4_0 memory/speed while matching Q4_K_M/Q5_K_M quality with 3-33% throughput gains",
+      "Ready for edge deployment on MacBook, NucBox, Samsung Galaxy S26, Raspberry Pi via llama.cpp"
+    ],
+    "why_it_matters": "Developers can deploy smaller LFM2.5 models on edge devices with minimal quality loss and faster inference.",
+    "tags": [
+      "model-release",
+      "open-weights",
+      "tooling"
+    ],
+    "published": "2026-08-19T13:48:49+00:00",
+    "fetched_at": "2026-08-20T06:52:41Z"
+  },
+  {
+    "id": "9ac0643f2427",
+    "provider_id": "openai",
+    "provider_name": "OpenAI",
+    "provider_color": "#10A37F",
+    "url": "https://openai.com/index/replit",
+    "original_title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "headline": "Replit launches free tier powered by GPT-5.6 Luna",
+    "bullets": [
+      "Replit Free Mode uses GPT-5.6 Luna for unlimited idea exploration without token costs",
+      "Routes complex tasks to GPT-5.6 Sol while maintaining project context automatically",
+      "OpenAI price cuts enable free access for millions of users building software"
+    ],
+    "why_it_matters": "Removes cost barriers to software creation, democratizing access for non-specialists with internet connection.",
+    "tags": [
+      "product",
+      "api",
+      "coding"
+    ],
+    "published": "2026-08-19T07:00:00+00:00",
+    "fetched_at": "2026-08-20T06:52:32Z"
+  },
+  {
     "id": "e4563871866d",
     "provider_id": "openai",
     "provider_name": "OpenAI",
@@ -6465,91 +6553,5 @@
     ],
     "published": "2026-06-02T09:00:00+00:00",
     "fetched_at": "2026-06-03T11:09:14Z"
-  },
-  {
-    "id": "00e733aa1592",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "original_title": "Advancing youth safety and opportunity through global leadership",
-    "headline": "OpenAI proposes global youth AI safety institute at G7 summit",
-    "bullets": [
-      "OpenAI calls for dedicated international institute to coordinate youth AI safety standards and research.",
-      "Proposes age-detection, annual risk assessments, parental controls, and content safeguards as core framework principles.",
-      "Building on initiatives like Common Sense Media's Youth AI Safety Institute and Estonia's school ChatGPT rollout."
-    ],
-    "why_it_matters": "Establishes coordinated global standards for protecting minors using AI while preserving educational benefits and access.",
-    "tags": [
-      "safety",
-      "product"
-    ],
-    "published": "2026-06-02T07:00:00+00:00",
-    "fetched_at": "2026-06-03T11:09:18Z"
-  },
-  {
-    "id": "8c810ea5d0c7",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "original_title": "Codex is becoming a productivity tool for everyone",
-    "headline": "Codex expands beyond coding to knowledge worker productivity",
-    "bullets": [
-      "5 million weekly active users, 6x growth since February desktop launch",
-      "Knowledge workers now 20% of users, growing 3x faster than developers",
-      "Primary uses: reports, spreadsheets, data analysis, workflow automation, research"
-    ],
-    "why_it_matters": "AI automation is shifting from developer-only tools to broad workplace productivity, potentially reshaping job scope and career trajectories.",
-    "tags": [
-      "product",
-      "coding",
-      "tooling"
-    ],
-    "published": "2026-06-02T02:00:00+00:00",
-    "fetched_at": "2026-06-02T10:44:43Z"
-  },
-  {
-    "id": "c8b9a6b007c1",
-    "provider_id": "openai",
-    "provider_name": "OpenAI",
-    "provider_color": "#10A37F",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "original_title": "Our views on AI policy and political advocacy",
-    "headline": "OpenAI outlines AI policy stance, rejects political action committees",
-    "bullets": [
-      "OpenAI has not created employee PACs, donated to super PACs, or funded political candidates.",
-      "Company clarifies that employee political activities are personal, not representative of OpenAI's positions.",
-      "OpenAI advocates for thoughtful regulation, safety standards, and broad AI access transparency."
-    ],
-    "why_it_matters": "Clarifies OpenAI's governance approach amid growing corporate political involvement in AI policy debates.",
-    "tags": [
-      "policy",
-      "safety"
-    ],
-    "published": "2026-06-01T17:00:00+00:00",
-    "fetched_at": "2026-06-02T10:44:46Z"
-  },
-  {
-    "id": "2995ca1c3636",
-    "provider_id": "huggingface",
-    "provider_name": "Hugging Face",
-    "provider_color": "#FFB000",
-    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "original_title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "headline": "JetBrains releases Mellum2, efficient 12B mixture-of-experts model",
-    "bullets": [
-      "12B parameters with 2.5B active per token; 2x faster inference than similar models",
-      "Optimized for code and text; supports routing, RAG, agents, and private deployment",
-      "Apache 2.0 licensed; designed for latency-sensitive production workloads"
-    ],
-    "why_it_matters": "Enables cost-effective, fast inference for intermediate AI system tasks without requiring large frontier models.",
-    "tags": [
-      "model-release",
-      "coding",
-      "open-weights"
-    ],
-    "published": "2026-06-01T15:45:17+00:00",
-    "fetched_at": "2026-06-02T10:45:19Z"
   }
 ]
